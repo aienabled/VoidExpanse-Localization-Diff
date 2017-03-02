@@ -1,0 +1,15 @@
+﻿$p0001:             I could try searching for a couple of trade routes for you, but not for free of course. The price for that information is 250d. Deal?
+$p0002:             But you don't have enough money...
+$p0003:             But you don't have enough money...
+$p0004:             Yeah, you're right. In times like these we have to help each other, right?
+$p0005:             Sorry, I don't have any long trade routes for you.
+$p0006:             I have a long trade route for you.
+$p0007:             I have a relatively short trade route for you.
+$p0008:             I recently got some information. On station %station1% in %system1%, there's a strong need for %good%. And it can be bought much cheaper on station %station2% in the %system2% system.
+$p0009:             Surprisingly, there are no available trade routes in the local area. Sorry.
+$p0010:             I have one local route for you.
+$p0011:             One of my men reported on station %station1% in %system1%, there's a strong need for %good%. And it can be acquired rather cheaply on station %station2% in the %system2% system.
+$p0012:             But this information is a bit old. Things could've changed since then.
+$c0001:             Deal.
+$c0002:             [Persuade] While you're bartering, the Xengatarn are standing on our steps. I will pay you 100d.
+$c0003:             I don't think that your information is worth the price.

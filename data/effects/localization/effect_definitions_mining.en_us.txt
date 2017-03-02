@@ -1,0 +1,6 @@
+﻿$asteroid_mining_title:             Asteroid mining ability
+$see_asteroid_contents_title:       See asteroid contents ability
+$mining_speed_title:                Mining speed
+$mining_amount_title:               Mining efficiency
+$mining_range_title:                Mining range
+$mining_experience_title:           Experience for mining

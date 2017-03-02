@@ -1,0 +1,22 @@
+﻿$p0001:             Is there anything in particular you want to know about Freedom?
+$p0002:             Freedom was formed by a local billionaire Selek Jeredan. He refused to join the Order after the Lockdown and hired local mercs, traders, and Federation soldiers. That's how the Freedom faction was created.
+$p0003:             Instead of helping the Order to wipe out the Xengatarn, they're doing business. Business, at times like these! I say, they're worse than pirates.
+$p0004:             Well, we trust our leader, Jeredan. He thinks that the Order's blunt 'find and kill' approach won't work with the Xengatarn, that we need to be smarter. Jeredan has a plan and I believe him.
+$p0005:             Freedom is a blight.
+$p0006:             Well, they seem okay. At least they aren't trying to screw everyone over like the Pirates.
+$p0007:             Don't tell me you are seriously considering that!? Either way I will have nothing to do with it.
+$p0008:             Sure, Jeredan always needs good people on his side.
+$p0009:             I don't know anything about that.
+$p0010:             I don't know anything about that personally, but I am sure one of the Freedom guys can help you with that.
+$p0011:             I don't know anything about it.
+$p0012:             You are already in a faction. I don't think you can join another.
+$c0001:             What's the history of Freedom?
+$c0002:             What do you think of Freedom?
+$c0003:             Are Freedom hiring?
+$c0004:             Nevermind.
+$c0005:             I'd like to ask one more thing...
+$c0006:             That's all I needed to know.
+$c0007:             I'd like to ask one more thing...
+$c0008:             That's all I needed to know.
+$c0009:             I'd like to ask one more thing...
+$c0010:             That's all I needed to know.

@@ -1,0 +1,54 @@
+﻿$p0001:             Finally you're here! It was hell on earth!
+$p0002:             We were attacked by elite Xengatarn ships. I never saw anything like these! My squadron engaged them, and I was ordered to run and save myself. So here I am.
+$p0003:             No more wasting time. I'm going to install my modules in the jumpgate that will extend its range to access core Federation systems. You must protect me while I'm working! And if these Xengatarn bastards find us, don't let them get close!
+$p0004:             Done! This jumpgate can now take us away from this dreadful place!
+$p0005:             Wait... What if we leave NOW?
+$p0006:             Now, while the jumpgate is working, I can calibrate it to send us right to the Federation core systems. And we can leave this nightmare behind! You and I, right now!
+$p0007:             What do you say?
+$p0008:             Well, you can't save everyone. Besides, Jeredan is resourceful. He will find another way to save his skin, right?
+$p0009:             So, what is your answer?
+$p0010:             Yeah, you're probably right... Okay, go to Jeredan then. I will wait here and calibrate the jumpgate waiting for their arrival.
+$p0011:             You're back! Our mission is entering the final stage.
+$p0012:             Are you ready? Maybe you should take care of your equipment first.
+$p0013:             Okay, so be it. My engineers have finished constructing all the missing parts of the ancient jumpgate and loaded them onto a small Heretic ship.
+$p0014:             My lead engineer, Presley, will pilot it, and a squadron of our best ships will make sure he arrives there in one piece. So, that brings us to your part of this mission.
+$p0015:             Go there and aid Presley in his repair mission. Just make sure everything is safe and clear, as always.
+$p0016:             Meanwhile I will prepare my people for departure. Once Presley activates the jumpgate - come back to me immediately, and we will leave these damned Far Colonies.
+$p0017:             And one more thing. Stealth is our only option right now. If the Xengatarn detect this jumpgate, they will destroy it. That will take away any chance of ever getting away from the Far Colonies.
+$p0018:             The Xengatarn already know about you, so be careful. If you feel that you're being watched - don't come close to that jumpgate - that might jeopardize our entire plan.
+$p0019:             I know I can trust you with this one.
+$p0020:             It's on the outskirts of the %system% system. It's enormous. You won't miss it.
+$p0021:             Good luck. You're gonna need it.
+$p0022:             You are still here? Why?
+$p0023:             I don't have time to chat right now, and neither do you, actually.
+$p0024:             Presley did his work? Great.
+$p0025:             I'm starting preparations for the exodus. Get some rest and them come back to me. We have one last thing to do.
+$c0001:             Got it.
+$c0002:             I should bring this news to Jeredan.
+$c0003:             What do you mean?
+$c0004:             What about Jeredan and the other people? We will be leaving them behind...
+$c0005:             Yes, let's leave now! ( leave Far Colonies )
+$c0006:             No, that's not my way. ( stay )
+$c0007:             I'm ready.
+$c0008:             You're probably right, I'll come back later.
+$c0009:             Understood.
+$c0010:             Where exactly is this ancient jumpgate?
+$t0001:             Next task
+$t0002:             Mission status
+$t0003:             Ancient jumpgate
+$t0004:             Fixed jumpgate
+$t0005:             Arrived
+$t0006:             Repair progress
+$q0001:             Ancient jumpgate
+$q0002:             I need to protect Presley at any cost while he's repairing the jumpgate.
+$q0003:             Presley repaired the Ergrek jumpgate. I should get back to Selek Jeredan and bring him the good news.
+$q0004:             I need to join Engineer Presley and his small squad at the ancient jumpgate in the %system% system, and make sure that he can finish all required repairs.
+$q0005:             I brought the news to Selek Jeredan and was greatly rewarded. Now I should have some rest, and then return to Jeredan for more tasks.
+$q0006:             It looks like the Xengatarn sent an elite destroyer after me. I need to deal with it first, or they could find out about the ancient Ergrek jumpgate.
+$q0007:             Looks like Presley is done with repairs. I should speak to him.
+$q0008:             The Xengatarn hunter was destroyed. Now I should proceed to the ancient jumpgate and check on Presley.
+$n0001:             You've won the game!
+$n0002:             -= bad ending =-
+$i0001:             Xengatarn hunter
+$i0002:             Engineer Presley
+$i0003:             Xengatarn

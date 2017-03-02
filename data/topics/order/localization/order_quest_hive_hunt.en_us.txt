@@ -1,0 +1,60 @@
+﻿$p0001:             Now that we have an opportunity to strike the Xengatarn in their territory, we're gathering all our forces into one giant fist. It's almost time for a massive strike.
+$p0002:             But we still need to know what we're dealing with. Our reconnaissance drones, before they were destroyed, captured a couple of interesting Xengatarn objects.
+$p0003:             They are massive biological constructions. We call them 'Hives'. Our scientists think that the Xengatarn use these things as space stations - to repair, refuel and improve their ships.
+$p0004:             Also, there's a theory that these hives emit a field that blocks our jumpgates. In order to advance into Xengatarn territories, we need to destroy these things.
+$p0005:             So, as I said we need to know what we're dealing with here. And that's your new task.
+$p0006:             You should pass through the blocked jumpgate inside Xengatarn territory and destroy one of their hives.
+$p0007:             Like a walk in the park for you, right?
+$p0008:             Your self confidence does you credit. But I won't take such a risk and send you alone.
+$p0009:             Of course you won't go there alone.
+$p0010:             One of our rocket frigates will escort you. They will help you destroy these abominations.
+$p0011:             Do you have anymore questions?
+$p0012:             Well, we know that hives cannot move on their own. We think, that the hives are being grown on asteroids, specifically ones rich in Seralucite.
+$p0013:             These hives have a biological structure, but are very durable and heavily armored with seralucite plates.
+$p0014:             Do you have more questions?
+$p0015:             In any Xengatarn system. Open your galaxy map - all Xengatarn systems are marked with a red color.
+$p0016:             There should be a couple of them in any Xengatarn systems, so you won't be looking for long.
+$p0017:             Do you have anymore questions?
+$p0018:             When you enter Xengatarn systems, try to be careful. Xengatarn battle ships are very different from what you've seen before. They are not like pirates. They are much more dangerous!
+$p0019:             Do you have anymore questions?
+$p0020:             It's about time! Your companion will be waiting for you outside this station. Good luck!
+$p0021:             What are you waiting for? Hives aren't gonna kill themselves, are they?
+$p0022:             And don't forget to bring me a detailed report of the mission, so we can examine the hives and develop an effective strategy and weapons against them.
+$p0023:             So, you managed to kill one of these hives, huh? Not bad.
+$p0024:             Was it difficult?
+$p0025:             Well, I'm glad I picked you for this job. You're a very gifted person indeed.
+$p0026:             But nothing you can't handle, right? Ha-ha.
+$p0027:             Our engineers will start their work on a special anti-hive weapon that should make destroying hives much easier.
+$p0028:             As soon as it's ready, get it and come back to me. I'll have more tasks for you.
+$p0029:             And now get some rest. You earned it.
+$p0030:             It's not ready yet. Come back later.
+$p0031:             Maybe you should take care of your ship. Buy better weapons, shields. What do you think?
+$p0032:             Your weapon is ready. Here, take it.
+$p0033:             These are special chemical rockets specifically designed to wipe out Xengatarn hives. You can carry just a few rockets at a time, so use them wisely. Shoot only if you're sure it'll hit the hive.
+$p0034:             Now, you're ready for the most important and difficult mission I have for you. Take your time, prepare yourself, and then come see me again.
+$c0001:             What kind of objects?
+$c0002:             What exactly should I do?
+$c0003:             Sure, no problem.
+$c0004:             Go inside Xengatarn systems alone? You must be kidding.
+$c0005:             What do you know about these hives?
+$c0006:             Where exactly should I look for these hives?
+$c0007:             Any advice on my current task?
+$c0008:             No, I'm ready.
+$c0009:             Where exactly should I look for these hives?
+$c0010:             Any advice on my current task?
+$c0011:             No, I'm ready.
+$c0012:             What do you know about these hives?
+$c0013:             Any advice on my current task?
+$c0014:             No, I'm ready.
+$c0015:             What do you know about these hives?
+$c0016:             No, I'm ready.
+$c0017:             Like a walk in the park.
+$c0018:             That Xengatarn bastard was tough.
+$t0001:             New orders
+$t0002:             Hives
+$t0003:             Weapon
+$q0001:             Destroy Xengatarn hive
+$q0002:             General Troyden gave me a task to go to the Xengatarn systems and destroy one of their hives. He also gave me a heavy rocket frigate to help me with this task. Now I should go to a Xengatarn system, find a hive, and destroy it!
+$q0003:             I've brought my recon data to General Troyden, and now Order scientists are constructing a special anti-hive weapon. I should come back after some time and take it.
+$q0004:             I've managed to destroy one of the Xengatarn hives. Now I should go back to General Troyden in the %system% system, station %station% and bring him all the information about the hives that I have.
+$i0001:             Rocket cruiser

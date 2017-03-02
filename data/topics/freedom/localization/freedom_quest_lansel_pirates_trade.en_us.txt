@@ -1,0 +1,52 @@
+﻿$p0001:             I know that! Anything else?
+$p0002:             What a priceless piece of information. And why should I care?
+$p0003:             This isn't how it works. You think you can just come in here and make any deal you want?
+$p0004:             I do not know you. I do not trust you. For all I know, it could be a setup. So no, I'm good.
+$p0005:             Ah-ha, now we're talking! Okay, I have something in mind.
+$p0006:             I want to make a little deal with the Fanatics, but they don't want to talk to me unless I have something valuable to offer.
+$p0007:             I know they're looking for ancient alien artifacts. So I want them too.
+$p0008:             If you bring me an alien artifact, I'll make a deal with you and this Lansel. Those are my terms.
+$p0009:             Well, they can usually be found in weird alien crates. It's quite easy to find them - They're marked with a yellow color on the radar. You just need to look at your system map carefully - and you'll find them.
+$p0010:             Yes. Alien artifact. I need one. Bring it to me. Okay?
+$p0011:             Ah, you have an artifact! Great! Now, give it to me.
+$p0012:             Okay, you've proven you can be trusted.
+$p0013:             Tell this broker of yours, Lansel, that his shipment will arrive in a couple of days on a neutral merchant ship.
+$p0014:             Now, off you go!
+$p0015:             Who can say 'no' nowadays?
+$p0016:             Mercenaries need new ships and guns, cooks need more food, and children need new toys. Who's responsible for that? Your humble servant.
+$p0017:             Damn right I do! Right now I'm supposed to deliver a hundred guns to Jeredan's men, but I can't do it. And why can't I do it?
+$p0018:             You're damn right, I don't!
+$p0019:             Ha-ha, very funny! No, I don't have these 100 damned guns.
+$p0020:             Because I don't have these 100 guns.
+$p0021:             I've made a deal with the Order, but their cargo ship, which was supposed to deliver those guns, was destroyed by Xengatarn scouts. And now I'm screwed!
+$p0022:             Well, I don't think I have another option. Desperate times call for desperate measures. I have to trade with the pirates.
+$p0023:             And I'm going to need your help. This thing is going to be illegal. No one should know about it except us. I can't go and negotiate with pirates myself, but you can do it for me.
+$p0024:             I'll pay you of course, and I have good connections within Freedom. So my gratitude also has some weight.
+$p0025:             What do you say?
+$p0026:             Damn. Why are you wasting my time then? Get out of here!
+$p0027:             Great! Okay, now here's what you should do. I've heard about a man named Garcia. He's a pirate, obviously, but sometimes he makes deals with other factions. He's useful, so no one touches him.
+$p0028:             He usually hangs out in the %system% system, on station %station%. Go talk to him, try to make a deal for those guns. I'm counting on you!
+$p0029:             He agreed? That's wonderful news! I guess Jeredan won't throw me out after all.
+$p0030:             When will the shipment arrive?
+$p0031:             Great, can't wait.
+$p0032:             Here's your reward. I will send word to Jeredan about your part in this deal, leaving out the part about the pirates, naturally.
+$c0001:             The Freedom broker Lansel needs 100 guns.
+$c0002:             He wants to make a deal with you. You deliver these guns to him - and he pays you. A lot.
+$c0003:             How can I earn your trust?
+$c0004:             Where can I find these artifacts?
+$c0005:             So... you need help?
+$c0006:             Because you don't have 100 guns?
+$c0007:             Because you're too lazy?
+$c0008:             I don't know...
+$c0009:             Any idea what to do?
+$c0010:             Alright, I can do it.
+$c0011:             Mmm... Maybe later.
+$c0012:             In a couple of days, on a neutral merchant ship.
+$t0001:             Need help?
+$t0002:             Garcia agreed.
+$t0003:             You're a pirate.
+$t0004:             Alien artifact
+$q0001:             Trade with pirates
+$q0002:             Pirate Garcia agreed to make a deal with me only if I bring him an alien artifact of some sort. These artifacts can be found in ancient alien crates, which are shown on the system map as yellow dots.
+$q0003:             Garcia agreed to deliver the shipment of guns to Lansel. I should get back to Lansel and tell him the good news.
+$q0004:             Freedom broker Lansel wants to buy 100 guns from pirates. I need to find the pirate named Garcia and try to make a deal with him.

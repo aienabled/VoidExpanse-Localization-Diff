@@ -1,0 +1,21 @@
+﻿$p0001:             Enter Xengatarn space? What for?
+$p0002:             Admirable. Okay, I can tell you how to get into the Xengatarn systems.
+$p0003:             The Xengatarn area is not a place for curious kids like you. Dismissed.
+$p0004:             Don't waste my time on your stupid jokes. Dismissed.
+$p0005:             A-ha, you want to salvage what's left of Federation settlements? You're brave. Only our best warriors have enough courage to enter the alien parts of the Far Colonies.
+$p0006:             If you think you're worthy and the Xengatarn will accept you, I have no right to interfere. I will gladly help.
+$p0007:             Well, I don't know how to enter their systems. They're blocking our jumpgates somehow.
+$p0008:             But I've heard some weird rumors. I've heard that Order scouts somehow enter the Xengatarn border systems. Freedom mercenaries somehow retrieve artifacts from old settlements deep in alien infested territory. And the Fanatics are sending their ambassadors to Xengatarn.
+$p0009:             So, I'm sure there IS a way. I just don't know how. And you know what? I don't want to know.
+$p0010:             You wish to enter Xengatarn systems? Well, I admire your courage!
+$p0011:             Go talk to Sgt. Ragnar about that. He may know the way.
+$p0012:             A-ha, you want to salvage what's left of Federation settlements? You're brave. Only our best warriors have enough courage to enter alien parts of the Far Colonies.
+$p0013:             Go talk to Mercenary Headknot. He will help you with that.
+$p0014:             The Xengatarn don't permit the unworthy to enter their realm. So, you can do so at your own risk. But I warn you - many have entered their systems in attempts to make offerings to the Xengatarn, but none have returned.
+$p0015:             If your intentions are true, go speak to Guardian Dostan. He will know what to do.
+$p0016:             Xengatarn systems are marked as red territory on your galaxy map. Most of their systems are blocked by their technology.
+$p0017:             But some of them are not. The Order often sends drones to check if their systems are reachable, so we always have the latest information on that. You can see on the galaxy map whether you can travel to a Xengatarn system or not.
+$p0018:             Closed systems have the status 'no access' in their tooltip. Open systems don't. As far as I know you need some kind of a device to counter the interference and enter their systems.
+$c0001:             I want to kill as many of them as I can.
+$c0002:             I want to take a look at them.
+$c0003:             I want to make peace with them.

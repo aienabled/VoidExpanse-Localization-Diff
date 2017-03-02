@@ -1,0 +1,7 @@
+﻿$s0001:       You've paid %0%d to BioRecon Corp for restoration of your body.
+$s0002:       Restoration of your body was free.
+$s0003:       Your ship was damaged beyond repair. You will receive a free civilian vessel.
+$s0004:       Your ship was successfully restored by an insurance company.
+$s0005:       You have lost all of your inventory and cargo.
+$s0006:       All of your possessions were returned to you intact.
+$s0007:       ui/cloning_01.jpg

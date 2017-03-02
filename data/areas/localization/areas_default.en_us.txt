@@ -1,0 +1,5 @@
+﻿$lobby_title:                       Lobby
+$offices_title:                     Offices
+$command_deck_order_title:          Command deck
+$command_deck_freedom_title:        Command deck
+$command_deck_fanatics_title:       Command deck

@@ -1,0 +1,7 @@
+﻿$structure_title:                     Structure
+$armor_title:                         Armor
+$cargo_capacity_title:                Cargo capacity
+$inventory_capacity_title:            Inventory capacity
+$fuel_capacity_title:                 Fuel capacity
+$collision_damage_self_title:         Collision damage (self)
+$collision_damage_target_title:       Collision damage (target)

@@ -1,0 +1,87 @@
+﻿$p0001:             I'm not sure. Are you a hacker?
+$p0002:             Then no, I don't need your help.
+$p0003:             But you've just said, that you're not a hacker!
+$p0004:             Oh, okay then. I've just received this device from our scouts. It was used by the Fanatics. I studied it and I've come to the conclusion that this device is for data storage incorporating both human tech and some alien parts. Now I'm waiting for a team of our hackers to break into it.
+$p0005:             But they are busy with another assignment and it will take them some time to finish it before they can help me. And if you're, as you say, such a good hacker yourself, maybe you can hack this device instead?
+$p0006:             Okay, I guess I just have to wait for our hacker team after all.
+$p0007:             Great! I have already connected it to the station terminal. You can use it to hack into the device.
+$p0008:             Good luck!
+$p0009:             Hacked the device yet? I'm eager to see what secrets it contains.
+$p0010:             What?! Wait a second... You're not a hacker! You deceived me!
+$p0011:             Get out of my sight!
+$p0012:             You did? Great! I didn't doubt you for a second!
+$p0013:             Here, take the money. It was compensation for the hackers' services, but now I have no need for that so I can safely pay for your help instead.
+$p0014:             And I will definitely put a good word in for you to Sgt. Ragnar!
+$p0015:             "Configuring PQF RDFA
+                    Initializing basic system settings ...
+                    Bridge driver loaded
+                    Primary EDD 16PB available
+                    Using /etc/misc/ergrek/boot.
+                    Starting system logger ...
+                    Ergrek console mode initialized..."
+
+$p0016:             ./%dir%
+$p0017:             "VERSION = 82
+                    LICENSE = ATS
+                    STATUS = Nominal
+                    BRIDGE STATUS = Open
+                    SECURITY = Active
+                    ACCESS LEVEL = User"
+
+$p0018:             "%files%
+                    
+                    ./%dir%"
+
+$p0019:             Select new path:
+$p0020:             Path has been changed.
+$p0021:             Enter new permissions for current directory:
+$p0022:             Permissions have been changed successfully.
+$p0023:             Start copying files from the current directory to local storage? Y/N
+$p0024:             Remove all files from the current directory? Y/N
+$p0025:             User %player% has been successfully added to reading access group.
+$p0026:             Data copying is complete. All files transfered to a local storage.
+$p0027:             Attempt of unauthorized access detected. Protection protocols initiated. All data erased.
+$c0001:             Yes, I'm an accomplished hacker.
+$c0002:             No.
+$c0003:             I was just kidding. I was hacking Federation servers even before the Lockdown.
+$c0004:             Sure, I'll crack this thing in no time.
+$c0005:             Maybe another time, I have more important things to do.
+$c0006:             ( Proceed )
+$c0007:             Bridge::kstat
+$c0008:             Bridge::ls
+$c0009:             Bridge::cd
+$c0010:             Bridge::chmod
+$c0011:             Bridge::cp
+$c0012:             Bridge::rm
+$c0013:             ( Edit permission file )
+$c0014:             ( Return )
+$c0015:             ( Return )
+$c0016:             ROOT
+$c0017:             archive/
+$c0018:             users/
+$c0019:             security/
+$c0020:             ( Return )
+$c0021:             ( Return )
+$c0022:             x0777
+$c0023:             x0744
+$c0024:             x0700
+$c0025:             x0666
+$c0026:             x0644
+$c0027:             x0600
+$c0028:             x0000
+$c0029:             ( Return )
+$c0030:             ( Return )
+$c0031:             Y
+$c0032:             ( Return )
+$c0033:             Y
+$c0034:             ( Return )
+$c0035:             ( Return )
+$t0001:             Need help?
+$t0002:             Device
+$t0003:             Erased data
+$t0004:             Succeeded
+$t0005:             [Hack the device]
+$q0001:             Hack Fanatics' device
+$q0002:             Scientist Rosco just received a device that belonged to the Fanatics. He needs my help to hack it. I should use the station terminal to hack this device.
+$q0003:             I have successfully hacked the device and accessed protected files. I should report the result to Rosco as soon as possible.
+$q0004:             I accidentally triggered an anti-hacking mechanism and ruined all stored data on the device. I should tell Scientist Rosco about that.

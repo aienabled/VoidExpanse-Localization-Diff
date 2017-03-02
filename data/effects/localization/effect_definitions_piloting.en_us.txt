@@ -1,0 +1,10 @@
+﻿$speed_max_title:                         Max speed
+$speed_cruising_title:                    Cruising speed
+$movement_modifier_no_energy_title:       Speed (no energy)
+$acceleration_title:                      Acceleration
+$maneuvering_title:                       Maneuvering
+$speed_strafe_title:                      Strafe speed
+$speed_reverse_title:                     Reverse speed
+$deceleration_title:                      Deceleration
+$warp_distance_title:                     Warp distance
+$warp_recharge_title:                     Warp recharge speed

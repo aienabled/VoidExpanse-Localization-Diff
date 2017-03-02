@@ -1,0 +1,19 @@
+﻿$p0001:             Weird thing is we've actually got rats. Our old Station Commander died, and all his pet rats are now living in our storage. Could you help me get rid of them?
+$p0002:             Because they're creepy... There's no way I'm gonna touch those creatures!
+$p0003:             Just go to the storage area and... I don't know, dump them into space or something! There's a special button for that, with the label PURGE.
+$p0004:             Damn, I was really counting on you...
+$p0005:             So, how did it go?!
+$p0006:             I can't believe it! Fantastic! I'm forever in your debt, sir! Here, buy yourself a drink, my treat!
+$p0007:             Uhh... that's embarrassing... I'm sorry for wasting you time...
+$c0001:             Why don't you do it yourself?
+$c0002:             Gee, I'll help you. What do you need me to do?
+$c0003:             Like hell! Deal with your rats yourself!
+$c0004:             ( go to the storage area and dump rats into space )
+$c0005:             You won't believe it! There were thousands of rats. The whole storage area was crawling with them. They saw me and launched themselves at me, but I immediately performed an exquisite jump and landed right next to the PURGE button. They nearly got me though!
+$c0006:             There were no rats.
+$q0001:             Rats in the cellar
+$q0002:             Rats in the cellar
+$q0003:             Rats in the cellar
+$q0004:             Officer Threepwood asked me to help with his rat problem, but I refused to help.
+$q0005:             Officer Threepwood asked me to help with his rat problem and I managed to resolve the situation quickly and easily.
+$q0006:             Officer Threepwood asked me to help with his rat problem, but apparently he was imagining things all along.

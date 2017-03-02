@@ -1,0 +1,76 @@
+﻿$p0001:             If you want to join Freedom, you should speak to Mercenary Headknot.
+$p0002:             Yes, he's something like Selek Jeredan's hiring consultant. All Freedom newcomers must go through him.
+$p0003:             You can find Mercenary Headknot on station %station% in the %system% system, the Freedom capital.
+$p0004:             You want to join the Freedom faction? Then you came to the right person.
+$p0005:             Our leader, Selek Jeredan, is a generous man, and he offers honest work to those who seek it. In Freedom, you may rise to Heaven or fall to Hell. It's up to you!
+$p0006:             But right now - it's me who decides whether you will have this chance or not.
+$p0007:             Do you? Well, I've seen many others who did too. I allowed some of them to join our cause, and I refused others. Do you know why?
+$p0008:             Because they didn't believe in what we do.
+$p0009:             What do YOU believe in?
+$p0010:             But money is a fluent thing. Easy come - easy go. Sometimes it stays. Money can be taken, money can be given. Money isn't trustworthy.
+$p0011:             What else do you believe in?
+$p0012:             But power is not absolute. For every power there is a bigger power. Power draws envy and hatred. Power creates enemies. Power is traitorous.
+$p0013:             What else do you believe in?
+$p0014:             Yes, you should. You really should!
+$p0015:             You can never betray yourself. You can never sell yourself. You will always belong to yourself. Otherwise - you do not exist.
+$p0016:             Maybe I do. Maybe I don't. Perhaps one day you will understand what I'm saying, comprehend this very concept.
+$p0017:             Well, I cannot demand this of you. Maybe it's beyond your reach.
+$p0018:             If you want to join us, you need to pass my tests. And it won't be easy.
+$p0019:             The first test is a test of might. You need to show that you're experienced enough, that you're ready for us. [Level 10 required]
+$p0020:             The second test is a test of trust. You need to walk among Freedom and earn the trust of our men. You should earn the trust of FOUR of our influential members.
+$p0021:             And the last test is a test of wisdom. I'll present it to you as soon as you have completed the first two.
+$p0022:             Oh, they're everywhere. Try looking on Freedom stations across our systems.
+$p0023:             Oh, you're back! How are things going with your tests?
+$p0024:             You have, haven't you? Let's see...
+$p0025:             Well, I guess you haven't after all. You have to work harder next time.
+$p0026:             You've resolved the situation with Garret before it got ugly. Good.
+$p0027:             Garret told us, that you helped to catch Kobb. Now Garret trusts you - and that's enough for me.
+$p0028:             Kobb told us that you helped him with his little business problem. And his supervising Station Commander spoke highly of you too. That counts as two.
+$p0029:             You established a new trade route with the Pirates. That's very smart of you. Lansel was happy about it.
+$p0030:             Mercenary Ricco told me that you helped his business partner Boris get rid of some annoying bandits.
+$p0031:             Mercenary Ricco thinks you're a bastard. His words exactly.
+$p0032:             Mercenary Roth trusts you completely after that deal with Order military data.
+$p0033:             Mechanic Sheldon told us about your heroic deeds with the Xengatarn. Good job!
+$p0034:             Mercenary Batto sent a word about you. I can't tell for sure, but he seems to like you.
+$p0035:             I heard about that business with Judd. You saved not only his life, but Freedom's image itself. Good job.
+$p0036:             No, you did not. To pass this test, you need FOUR people among Freedom who trust you.
+$p0037:             Next time I probably should include a math test also...
+$p0038:             Yes, you've passed the Test of Trust.
+$p0039:             However, you didn't pass the Test of Might. [Level 10 required]
+$p0040:             Come back when you have more experience.
+$p0041:             And you have also passed the Test of Might. You're strong enough to join us.
+$p0042:             There's only one test left. The Test of Wisdom.
+$p0043:             The Test of Wisdom is a question. Answer it correctly - and you will join Freedom. Easy.
+$p0044:             Okay, here's the question: 'What is the key to true power over the universe?'
+$p0045:             Exactly! You're smarter than you look, kid!
+$p0046:             The true secret of wisdom is to always know your place in the universe. If you understand that we'll get along.
+$p0047:             You've passed all my tests. Now I'm ready to give you a chance to join Freedom. What do you say?
+$p0048:             Well, if you change your mind, you know where to find me.
+$p0049:             Congratulations! Now you're one of us!
+$p0050:             And to show that we never forget services that our mercenaries do for our faction I'm giving you a light cruiser - Orca. You can find it in your storage on this station.
+$c0001:             Headknot?
+$c0002:             I want to work for Jeredan.
+$c0003:             Why?
+$c0004:             Money.
+$c0005:             Power.
+$c0006:             I believe only in myself.
+$c0007:             Power.
+$c0008:             I believe only in myself.
+$c0009:             Money.
+$c0010:             I believe only in myself.
+$c0011:             You're talking nonsense.
+$c0012:             So, about joining Freedom...
+$c0013:             So, about joining Freedom...
+$c0014:             Where can I find those influential Freedom members?
+$c0015:             I've earned the trust of some Freedom members...
+$c0016:             So, did I pass the Test of Trust?
+$c0017:             So, did I pass the Test of Trust?
+$c0018:             I'm ready.
+$c0019:             Oh, well... I don't know...
+$c0020:             I'm ready.
+$c0021:             I'm not ready yet.
+$t0001:             Join freedom
+$q0001:             Join The Freedom faction
+$q0002:             Join The Freedom faction
+$q0003:             To join the Freedom faction, I should speak to Mercenary Headknot.
+$q0004:             I've spoken to Mercenary Headknot about joining the Freedom faction. He told me I need to pass three tests. First test - I must be at least level 10. Second test - I must earn the trust of at least 4 influential members of Freedom faction. And there's also a third test, about which I know nothing.

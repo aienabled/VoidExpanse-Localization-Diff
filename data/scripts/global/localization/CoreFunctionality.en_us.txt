@@ -1,0 +1,17 @@
+﻿$q0001:       Talk to Joe
+$q0002:       I've bought an old civilian shuttle and finally left my home planet. However, it won't take me far. Now I should head to the nearest space station and look for One-Eyed Joe. I've heard he's helping beginners figure out how things work. He should be inside the station on one of the decks.
+$n0001:       (debug) You've won the game!
+$n0002:       
+$i0001:       Order soldier
+$i0002:       Xengatarn
+$i0003:       Civilian vessel
+$i0004:       Pirate
+$i0006:       Pirate
+$i0007:       Xengatarn
+$i0008:       Pirate Headhunter
+$i0009:       Xengatarn Seeker
+$s0001:       First I need to speak to Joe at the station.
+$s0002:       This jumpgate doesn't seem to be working.
+$s0003:       This system appears to be closed.
+$s0004:       Alien technology interference won't allow your ship to plot a course through this jumpgate. Equip the Barrich jumpgate amplifier device to avoid it.
+$s0005:       Alien technology interference won't allow your ship to plot a course through this jumpgate.

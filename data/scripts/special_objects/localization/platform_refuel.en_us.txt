@@ -1,0 +1,7 @@
+﻿$n0001:       Refuel is not required
+$n0002:       
+$n0005:       Refueled %0% units of fuel.
+$n0006:       
+$n0003:       Power cell required
+$n0004:       
+$i0001:       Refuel - 1

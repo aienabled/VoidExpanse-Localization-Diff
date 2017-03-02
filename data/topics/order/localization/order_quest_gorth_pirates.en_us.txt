@@ -1,0 +1,53 @@
+﻿$p0001:             Speak to Lobino. He's in charge here.
+$p0002:             Finally, you've arrived. You're late!
+$p0003:             What? Nevermind
+$p0004:             Tell me the password and let's get this over with.
+$p0005:             WHAT?
+$p0006:             You're not Bruno! You're an imposter!
+$p0007:             Get him, boys!
+$p0008:             Hell of a fight, huh? Nice work!
+$p0009:             Look inside the wreckages. Maybe the kidnapped storekeeper is still alive?
+$p0010:             You've rescued the kidnapped guy? Great! Get him back to the station and talk to Officer Gorth.
+$p0011:             Help? From you? Ha-ha-ha-ha....
+$p0012:             You can't even help yourself! What are you doing here?! Looking for trouble?
+$p0013:             You know what? If I were you, I'd hide at home until this war is over. It's tough out there.
+$p0014:             Ha-ha-ha! I like it! If you can't stand up for yourself, then you won't survive. Am I right?
+$p0015:             If we'd met under different circumstances, I'd buy you a beer. But now I have work to do.
+$p0016:             I'm looking for kidnappers. Last night three pirates broke into the store on this station and kidnapped our storekeeper. Probably wanted security codes or something.
+$p0017:             Now these scumbags want to sell him to slavers...
+$p0018:             I have an informant among the slavers and I know the exact location of their secret meeting point! But I can't go there, if they see an official Order ship, they will just make themselves scarce and we won't get our man back!
+$p0019:             Hey, you know what? You can actually help me! You should go there and pretend to be a slaver, or slave buyer or whatever. You can distract them while one of my men secretly approach them from behind - and together we'll give them hell! How's that for an idea?
+$p0020:             Great! Here are the coordinates, and good luck!
+$p0021:             Come on, we've got work to do! Head to the meeting point!
+$p0022:             Thank you for your help, my friend! Here's your well-deserved reward.
+$p0023:             And I'll put a word in for you in the Order.
+$c0001:             I arrive precisely when I mean to.
+$c0002:             Sorry, I was delayed.
+$c0003:             Password!
+$c0004:             Tetriandoch.
+$c0005:             Swordfish.
+$c0006:             KL32tUk0019... 123!
+$c0007:             Ehm... Password?
+$c0008:             ( engage them in battle )
+$c0009:             Talk to me like that again and your body will be found in the garbage reprocessor.
+$c0010:             I was about to leave. Sorry for bothering you.
+$c0011:             What are you doing here anyway?
+$c0012:             How do you know all that?
+$c0013:             I'm in.
+$c0014:             Too risky. Sorry.
+$t0001:             Need help?
+$t0002:             About kidnappers
+$t0003:             Storekeeper
+$t0004:             What now?
+$t0005:             Slavers
+$t0006:             Slavers
+$q0001:             Kidnappers
+$q0002:             Officer Gorth told me that the station storekeeper was kidnapped. Now I need to go to the secret meeting spot for the pirates and pretend to be a slaver. One of the Order ships will flank them and help me save the storekeeper.
+$q0003:             I've successfully helped Officer Gorth rescue the kidnapped storekeeper.
+$q0004:             I've killed all the Pirate kidnappers. Now I need to search for survivors inside the wreckages.
+$q0005:             I've rescued the storekeeper. Now I should get back to the station.
+$n0001:             Inventory is full
+$n0002:             You cannot take a passenger on board. Your inventory is full.
+$i0001:             Pirate Kidnapper
+$i0002:             Pirate Lobino
+$i0003:             Order battleship

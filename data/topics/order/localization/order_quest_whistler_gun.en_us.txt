@@ -1,0 +1,66 @@
+﻿$p0001:             New here? Want to make a good impression I guess?
+$p0002:             Actually, I could use your help. Recently I've had my eyes on a special gun for my ship - a laser with golden contacts and beam emitter PK-4. But the local broker won't sell it to me. We had... let's just say some difficulties in the past.
+$p0003:             It's quite an easy task actually. Just go to the broker and buy the gun for me.
+$p0004:             Deal?
+$p0005:             Well, one day Sgt. Ragnar will ask me about you. And my answer will depend on whether I like you or not. You understand what I'm talking about?
+$p0006:             So, what's your answer then? Are you going to help me or not?
+$p0007:             Right, take your time. But don't expect me to give a good word for you if General Troyden asks.
+$p0008:             Okay, this broker I mentioned is on station %station%. He wants 4000d for this gun. Here, take the money.
+$p0009:             Just a reminder. Do NOT mention my name. Pretend you're buying it for yourself – and everything will go smoothly.
+$p0010:             So, where is my gun? Go and get it for me!
+$p0011:             So, any luck with my gun?
+$p0012:             And you want me to give you 1000d more?
+$p0013:             Okay, okay, take it. Come back with my gun!
+$p0014:             So, any luck with my gun?
+$p0015:             Okay, here is 1000d more. Come back as soon as you get my gun!
+$p0016:             Great! Give it to me!
+$p0017:             See, it wasn't so hard, was it? You're a smart %sex(guy,girl)%. We need more people like you in the Order.
+$p0018:             You idiot! It was a simple task - go to the shop and buy me a gun! A monkey could have done a better job than you!
+$p0019:             Give me my money back, you useless moron!
+$p0020:             What? You don't have my money? Then go find some, or you'll regret this till the end of your life! You owe me %money%d.
+$p0021:             A-ha, a special customer! Great! I've got a very special laser here, only for a true expert. Interested?
+$p0022:             It's a unique laser with a gold plated connector which gives it extra reliability, and the latest emitting system - PK-4. You won't find another gun like it in the Far Colonies. So, are you interested?
+$p0023:             Pity. Come back if you change your mind.
+$p0024:             I'll sell it for 5000d. Take your time, consider my offer.
+$p0025:             So, what is your decision?
+$p0026:             Deal! It won't disappoint you.
+$p0027:             What?! Who told you that?!
+$p0028:             You're working for that bastard Whistler, aren't you?
+$p0029:             Well, you can tell him that he will never get this laser! Now, get the hell out of my sight!
+$p0030:             Ah... Okay then... You're right, the price was 4000d.
+$p0031:             You're a tenacious bastard, aren't you? Ha-ha... Okay, I'll sell it for 4000d. What do you say?
+$c0001:             So, what do you want me to do?
+$c0002:             What's in it for me?
+$c0003:             Yes, I guess so...
+$c0004:             Forget it.
+$c0005:             Sure, it doesn't sound that difficult.
+$c0006:             I need to think about it.
+$c0007:             The broker now wants 5000d for your gun.
+$c0008:             I'm working on it.
+$c0009:             I thought you needed it?...
+$c0010:             The broker now wants 5000d for your gun.
+$c0011:             I've got it!
+$c0012:             Yeah, totally! Tell me about it.
+$c0013:             Sure, I'll take it. How much?
+$c0014:             I'll take the gun.
+$c0015:             I need to think about it.
+$c0016:             But you were selling this gun for 4000d.
+$c0017:             I'll take the gun.
+$c0018:             But you were selling this gun for 4000d.
+$c0019:             I need to think about it.
+$c0020:             [Persuade] No, I just heard how he talked about it to some guy.
+$c0021:             No, I...
+$c0022:             I'll take it!
+$c0023:             I don't have enough money at the moment.
+$c0024:             I need to think about it.
+$t0001:             Need help?
+$t0002:             I failed to buy a gun
+$t0003:             About the gun
+$t0004:             Special laser
+$q0001:             Whistler's gun
+$q0002:             Whistler gave me 4000d and now I should buy him a special gun from a broker on station %station%.
+$q0003:             I've brought Whistler his gun, and now I have one more ally among the Order officers.
+$q0004:             I've told Whistler that I couldn't buy his gun. He's very upset now.
+$q0005:             The broker now wants 5000d for the gun. Maybe I should return to Whistler and ask for more?
+$q0006:             I've got Whistler's gun. Now I should bring it back to him.
+$q0007:             I've failed to buy the gun. Now I should get back to Whistler and tell him the bad news.

@@ -1,0 +1,67 @@
+﻿$p0001:             Ah, it's you. Brother Benedict sent word about you.
+$p0002:             You've brought me a device that allows travel through the blocked jumpgates? Interesting...
+$p0003:             It's good that you brought it here, but I think you should keep it to yourself.
+$p0004:             You've proven yourself as a resourceful and brave %sex(man,woman)%, so I've decided to offer you a special role among the ranks of Fanatics. What do you say?
+$p0005:             All in due time, my friend. Here, take this small reward for your efforts, rest a bit, and take care of your equipment.
+$p0040:             Note: You are playing a multiplayer game you can only complete the entire story in singleplayer game! And now you are free to continue the game in sandbox mode.
+$p0006:             Then come back to me, and we will discuss this matter further.
+$p0007:             I've already told you - I don't know anything about these damn jumpgates! Ask someone else!
+$p0008:             You're looking for a way to travel through jumpgates, which are blocked by the Xengatarn? Hmmm...
+$p0009:             No, sorry. I have no idea how to do it.
+$p0010:             So, you want to invade Xengatarn systems and kill them all, don't you? Ha-ha!
+$p0011:             I know a guy who can help you! Recently one of our Freedom mercenaries went to this guy, and he created some sort of device for him.
+$p0012:             Soon after that, the poor merc was killed by alien filth, but don't take it as a bad omen!
+$p0013:             That guy's name is Barrich. He is somewhere in the %system% system. He will help you, I'm sure!
+$p0014:             Yes, it's me. I'm now The Ambassador of human kind. Such an honor. My dad would be very proud of me.
+$p0015:             Of course. I will fly to the Xengatarn systems and then...
+$p0016:             Well, actually I do see a problem. I've heard all jumpgates that lead to the Xengatarn systems are somehow blocked.
+$p0017:             No-no, it's just a minor obstacle. I just have to find a way to overcome it.
+$p0018:             Hey! Actually, I can use your help with this problem!
+$p0019:             Hmm... Maybe you can!
+$p0020:             I've heard recently one of the Freedom mercenaries managed to get through a blocked jumpgate to Xengatarn territory. Of course, he was immediately destroyed because he wasn't an ambassador. He wasn't The Chosen One.
+$p0021:             Can you ask among the Freedom mercenaries? Maybe they know how he managed to pull this off?
+$p0022:             Well, very soon I will be speaking to the Xengatarn. And I can tell them that you're a good person and worth saving! That's the deal of a lifetime, right?
+$p0023:             Find a way to travel through blocked jumpgates - and I will put in a word for you to the Xengatarn!
+$p0024:             Any results with your search? No?
+$p0025:             Well, in case you succeed - you know where to find me, right?
+$p0026:             You've brought a device that allows travel through the blocked jumpgates? That's.... amazing!
+$p0027:             Yes, about that... I don't think I'm ready to be an ambassador yet. Sorry.
+$p0028:             You know what? You should take this device to Arthur Melak! He will be absolutely delighted!
+$p0029:             Rejoice, brother! We've elected a new ambassador!
+$p0030:             Ambassador! He will be next to travel to the blessed Xengatarn and merge with them!
+$p0031:             As always, the Great Lottery chose one among us, who will bring our words to our masters. This time the Great Lottery picked Brother Benedict!
+$p0032:             Faith has spoken!
+$p0033:             He will travel to the Xengatarn homeworld and fall into the Xengatarn eternal embrace.
+$p0034:             His most important task is to tell them that we, The Brotherhood, are waiting for them to come, to purify humanity once and for all.
+$p0035:             Why? What do you want of him?
+$p0036:             You have a bad sense of humor, brother!
+$p0037:             Well, I suppose it won't do any harm...
+$p0038:             He's in the %system% system, on station %station%. And, please, try not to disturb him. He has an important task to do.
+$p0039:             That's a generous offer, brother, but this is a journey he must make alone. Thank you for your offer.
+$c0001:             What kind of role?
+$c0002:             Do you have any idea what you're going to do now?
+$c0003:             Well, your situation seems hopeless!
+$c0004:             Can I help you with this problem?
+$c0005:             What's in it for me?
+$c0006:             Here, take it.
+$c0007:             New who?
+$c0008:             I don't have time for this, sorry.
+$c0009:             Who is the lucky guy?
+$c0010:             What will happen to him now?
+$c0011:             Where can I find him?
+$c0012:             Where can I find him?
+$c0013:             I'll try to talk him out of this madness.
+$c0014:             I just want to look at him.
+$c0015:             I want to help him.
+$t0001:             Ambassador
+$t0002:             Blocked Jumpgates
+$t0003:             Barrich
+$t0004:             Device
+$t0005:             Blocked Jumpgates
+$t0006:             Ambassador
+$q0001:             Ambassador
+$q0002:             I need to get to the %system% system and find a scientist named Barrich. Then I should persuade him to create a special device for me, which will allow me to travel to Xengatarn territories.
+$q0003:             Brother Benedict asked me to check with Freedom mercenaries and inquire about travel through blocked jumpgates. I should go to Freedom systems and ask around.
+$q0004:             Brother Benedict suddenly changed his mind. He doesn't want to be an ambassador anymore. But he gave me a piece of advice, to show Barrich's device to Arthur Melak, mysterious leader of The Fanatics. I should go straight to him.
+$q0005:             The Fanatics chose a new ambassador, who will travel to the Xengatarn worlds in a hopeless attempt to communicate with them. His name is Brother Benedict. I'd better go to him and try to talk him out of it. He's on station %station% in the %system% system.
+$q0006:             I've got the device, which allows me to travel through blocked jumpgates. I should bring it back to Brother Benedict. He's in the %system% system, on station %station%.

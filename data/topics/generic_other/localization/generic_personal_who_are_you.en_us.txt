@@ -1,0 +1,4 @@
+﻿$p0001:             I'm General Troyden, and I'm in charge of the Order faction. But you probably knew that already, given that you were allowed to enter my office on this deck.
+$p0002:             My name is Selek Jeredan. I'm... let's just say I am the head manager of the Freedom faction. I make sure everybody gets what they deserve.
+$p0003:             I'm Arthur Melak, and I run things here. Our little faction isn't much, but it's something I am proud of. Well, considering the state of affairs here in the Far Colonies.
+$p0004:             I am Boris Richevskiy. Back in the old days I was working as a physicist on several very ambitious projects, but alas, that time is long gone thanks to the Xengatarn. Now, people just call me Barrich.

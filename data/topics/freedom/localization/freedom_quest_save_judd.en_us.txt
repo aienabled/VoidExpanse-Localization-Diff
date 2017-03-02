@@ -1,0 +1,98 @@
+﻿$p0001:             Analyzing recording...
+$p0002:             "Full content:
+                    It's time! Go get them, boys! And remember, this time leave no one alive!"
+
+$p0003:             End of recording.
+$p0004:             Voice match confirmed: Mercenary Judd.
+$p0005:             Analyzing noise...
+$p0006:             No discrepancies found.
+$p0007:             Analyzing structure.
+$p0008:             File is incomplete. The final part of the file is missing.
+$p0009:             Original file size: 50575. Current file size: 37242.
+$p0010:             Missing part was successfully restored.
+$p0011:             "Full content:
+                    It's time! Go get them, boys! And remember, this time leave no one alive! These pirates mustn't survive, or they'll come back again one day."
+
+$p0012:             End of recording
+$p0013:             Well, actually I do require a little assistance. You see, not so long ago a group of Freedom fighters attacked a group of Order ships. Two Order vessels were destroyed, and I was the only survivor.
+$p0014:             Now the man responsible for that attack, Freedom Mercenary Judd, is being held here on this very station. I'm sure after the trial he will rot in jail, but just to be sure, can you talk to Sgt. Ragnar about this case and make sure he's taking this matter seriously?
+$p0015:             He's leading this investigation. I just want to make sure Judd gets what he deserves.
+$p0016:             Yes, I'm the witness. I'm the only survivor of the attack and I personally heard Judd talking on the radio and giving orders.
+$p0017:             I heard what he said to his thugs over the radio. It was like: 'Get them, guys! And remember, no survivors!', something like that.
+$p0018:             I know his voice. And I know his ship. I'm sure that it was him. And I've got the recording. Our guys had it analyzed and it confirms that it was, indeed, Judd talking.
+$p0019:             Why would you want to do that?
+$p0020:             Okay, here's a copy of the recording. But I assure you, you won't find anything new.
+$p0021:             So, did you find anything unusual about the recording?
+$p0022:             Well, you got me. I faked this evidence. So what?
+$p0023:             I KNOW, that Judd ambushed many of our men. I KNOW, that he killed our boys. I KNOW that Freedom mercenaries often attack and plunder our ships.
+$p0024:             But I can't prove it. So what? You think I should just let these Freedom bastards continue killing our men?
+$p0025:             Yes, the evidence is fake. But Judd IS guilty. I just can't prove it.
+$p0026:             So, what will you decide? Will you turn me over to Ragnar?
+$p0027:             Just think about what I said.
+$p0028:             So, what have you decided?
+$p0029:             Thank you, my friend! You've made the right decision. This Freedom bastard should pay for his crimes.
+$p0030:             Here, I've got some money for you as a token of my gratitude. And I will tell Ragnar, that you helped me.
+$p0031:             Well, you're not mistaken. I need help. Actually, the whole Freedom faction needs your help.
+$p0032:             You see, one of our men, Mercenary Judd, was arrested by the Order a couple of hours ago. They accused him of attacking and killing one of their men.
+$p0033:             I'm sure the whole case is fabricated. Judd would never do something as stupid as this. But I cannot prove it. And I need your help.
+$p0034:             Go to Sgt. Ragnar. He's in charge of their investigation. He can provide you with more information.
+$p0035:             I know him back from our Federation days. He's a good man. He won't fabricate evidence. He will listen to you.
+$p0036:             Try to find a way to release Judd. Freedom will be grateful for that.
+$p0037:             Yes, what about it?
+$p0038:             I am. And I'll make sure this bastard gets what he deserves.
+$p0039:             He organized an attack on one of our scouts, during which the scout was killed. Trial will be very soon, and I think this Judd has zero chances.
+$p0040:             We have a witness. One of the survivors of this attack. He told us that he heard radio transmissions that proves that Judd was the one responsible.
+$p0041:             Personally, I have no doubts that Judd is guilty. These Freedom thugs often attack our transports, but this time we finally have the evidence.
+$p0042:             It's Coldridge. He's right over there. You can speak to him right now if you wish.
+$p0043:             Yes, what about it?
+$p0044:             A fake? Why are you so sure?
+$p0045:             Let me take a look at it.
+$p0046:             Damn, you're right! Well, I guess I should release this Judd and give him my apologies.
+$p0047:             I'll tell him about your little role in this. I'm sure he will be grateful.
+$c0001:             ( Analyze noise )
+$c0002:             ( Analyze structure )
+$c0003:             ( Analyze headers )
+$c0004:             ( Leave terminal )
+$c0005:             ( Analyze noise )
+$c0006:             ( Analyze structure )
+$c0007:             ( Analyze headers )
+$c0008:             ( Leave terminal )
+$c0009:             ( Analyze noise )
+$c0010:             ( Analyze structure )
+$c0011:             ( Analyze headers )
+$c0012:             ( Leave terminal )
+$c0013:             ( Try to restore missing part )
+$c0014:             What is it exactly you heard?
+$c0015:             But why are you so sure that it was Judd?
+$c0016:             Can I take a look at that recording?
+$c0017:             I want to hear it with my own ears, just to be sure.
+$c0018:             It's a fake. It was captured during some fight with pirates.
+$c0019:             I need to think about it.
+$c0020:             I need to think about it a little bit more.
+$c0021:             I won't turn you over. Here, take the recording.
+$c0022:             But what can I do?
+$c0023:             Who's in charge of the investigation?
+$c0024:             What did he do?
+$c0025:             What evidence do you have against Judd?
+$c0026:             Who is this witness? I'd like to speak to him.
+$c0027:             It's a fake.
+$c0028:             Nothing.
+$c0029:             I've got the full recording. It proves that it was captured during an attack on some pirates.
+$t0001:             Need help?
+$t0002:             Need help?
+$t0003:             Witness
+$t0004:             Recording
+$t0005:             Decision
+$t0006:             Judd's case
+$t0007:             About recording
+$t0008:             Analyze recording
+$q0001:             Mercenary crime
+$q0002:             Mercenary crime
+$q0003:             Apparently, the recording is a fake. It was captured during a fight with Judd and some pirates, not during the ambush. Then a part of the recording was cut out to fabricate evidence against Judd. I need to confront Coldridge about this.
+$q0004:             Officer Coldridge told me that one of the Freedom men, Judd, had attacked and killed several Order members. He is now in custody, while Order officials are ready to give the verdict. However something sounds fishy here. I better investigate this matter myself. Sgt. Ragnar is in charge of the trial. I should talk to him.
+$q0005:             I've got the recording. Now I should analyze it at a computer terminal.
+$q0006:             Officer Coldridge confirmed that he forged this recording. Now I should decide whether to report him or not. If I report him to Ragnar, Freedom will be grateful, and if I don't - Order will be grateful. I should decide which faction to support.
+$q0007:             I've decided not to turn Officer Coldridge over to Sgt. Ragnar. Now Judd will pay for his crimes against the Order.
+$q0008:             Mercenary Thorn told me that the Order falsely accused one of Freedom's men, Judd, and placed him under arrest. Thorn is sure that the evidence is fabricated. I need to investigate this matter. Sgt. Ragnar is in charge of this investigation. I should go and talk to him.
+$q0009:             Sgt. Rangar told me that the only evidence against Judd is the testimony of Officer Coldridge. I should speak to him. Maybe he will tell me more.
+$q0010:             I decided to turn Officer Coldridge over to Sgt. Ragnar. Judd was released.

@@ -1,0 +1,59 @@
+﻿$i0001:       Miner
+$i0002:       Pirate
+$i0003:       Pirate Den
+$i0004:       Pirate Guard
+$i0005:       Station Commander
+$i0006:       Boris
+$i0007:       Garcia
+$i0008:       Barrich
+$i0009:       Public Terminal
+$i0010:       One-eyed Joe
+$i0011:       Order recruiter
+$i0012:       Mining Foreman
+$i0013:       Order recruiter
+$i0014:       Order recruiter
+$i0017:       Chief Scientist
+$i0015:       Broker
+$i0016:       Order recruiter
+$i0018:       Officer Threepwood
+$i0019:       Scientist Rosco
+$i0020:       Mining Foreman
+$i0021:       Officer Whistler
+$i0022:       Nico Davidson
+$i0023:       Security Officer
+$i0024:       General Troyden
+$i0025:       Sgt. Ragnar
+$i0026:       Officer Coldridge
+$i0027:       Broker
+$i0028:       Officer Kolosov
+$i0029:       Brother Portridge
+$i0030:       Officer Aims
+$i0031:       Officer Gorth
+$i0032:       Chief Engineer
+$i0033:       Mining Foreman
+$i0034:       Mercenary Roth
+$i0035:       Mercenary Aims
+$i0036:       Mercenary Leader
+$i0037:       Broker
+$i0038:       Selek Jeredan
+$i0039:       Mercenary Headknot
+$i0040:       Fence Garret
+$i0041:       Fence Kobb
+$i0042:       Mechanic Sheldon
+$i0043:       Broker Mannis
+$i0044:       Broker Lansel
+$i0045:       Mercenary Ricco
+$i0046:       Mercenary Batto
+$i0047:       Mercenary Thorn
+$i0048:       Chief Archaeologist
+$i0049:       Arthur Melak
+$i0051:       Guardian Dostan
+$i0050:       Brother Jebodiah
+$i0052:       Mining Foreman
+$i0053:       Brother Derryl
+$i0054:       Brother Benedict
+$i0055:       Brother Maverick
+$i0056:       Brother Danny
+$i0057:       Cult Guardian
+$i0058:       Brother Luke
+$i0059:       Brother Ramos

@@ -1,0 +1,40 @@
+﻿$p0001:             Who wants to know?
+$p0002:             Suit yourself.
+$p0003:             I see... I could use your help, actually.
+$p0004:             I have a brother. He was a soldier just like me, but after Troyden's defeat he lost faith in our cause and joined the Freedom mercenaries.
+$p0005:             I haven't heard from him in a while. Can you look for him and make sure he's alright?
+$p0006:             Well, the last I heard he was in the %system% system.
+$p0007:             And one more thing...
+$p0008:             Can you tell him that he's a moron and a dirty traitor? That would mean a lot to me.
+$p0009:             You've brought his report? Great! Thank you.
+$p0010:             It's unfortunate that our courier was killed. It's hard to find trustworthy men nowadays.
+$p0011:             Speaking of trustworthiness, you've proved your loyalty to me and to the Order. I offer you my reward and full support. If you ever need anything - come see me.
+$p0012:             Ehm... I don't know what you're talking about. I have no brother.
+$p0013:             Yeah, you probably did.
+$p0014:             Well, I know nothing about that. I told you I don't have a brother. Got it?
+$p0015:             Stop shouting!
+$p0016:             So, you're really from Broderick? Good. I haven't heard from him in a while. Our courier was killed by pirates a couple of weeks ago.
+$p0017:             Because I'm working undercover here, you genius! And it's better that no one knows that I still keep in touch with my brother.
+$p0018:             It was Broderick's idea. That was our password when we were children and played online games.
+$p0019:             Okay, take my report and give it to my brother. Here. Safe travels!
+$p0020:             I TOLD YOU I DON'T HAVE A BROTHER! NOW, GET LOST!
+$c0001:             I'm just an adventurer passing by.
+$c0002:             I want to join the Order.
+$c0003:             I'm %name%.
+$c0004:             Sure, it doesn't seem too hard. Where can I find him?
+$c0005:             Maybe another time.
+$c0006:             What?
+$c0007:             That can't be right! I was sent by your brother to find you!
+$c0008:             You're a moron and a traitor!
+$c0009:             Oh, sorry... I've probably confused you with someone else.
+$c0010:             You're a moron and a traitor!
+$c0011:             Oh, sorry... I've probably confused you with someone else
+$c0012:             Why all the secrecy?
+$c0013:             And that phrase about morons and traitors?
+$t0001:             Need help?
+$t0002:             Your brother
+$t0003:             Your brother
+$q0001:             Building bridges
+$q0002:             Officer Aims asked me to find his brother, who is currently in the Freedom capital, %system%.
+$q0003:             I brought Mercenary Aims' report back to his brother and received my reward.
+$q0004:             Officer Aims' brother, who is working undercover as an informant in the Freedom faction, gave me his report. I should bring it back to his brother... probably.

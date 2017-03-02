@@ -1,0 +1,7 @@
+﻿$persuade_title:                 Persuade ability
+$trade_margin_title:             Trade margin
+$refuel_price_title:             Refuel price
+$repair_price_title:             Repair price
+$quest_reward_money_title:       Quest rewards (money)
+$quest_reward_exp_title:         Quest rewards (exp)
+$trading_experience_title:       Trading experience

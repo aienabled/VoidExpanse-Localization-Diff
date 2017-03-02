@@ -1,0 +1,3 @@
+﻿$p0001:             When the Suppression Force was defeated, the Federation government initiated the Lockdown. They destroyed the massive jumpgate that linked the Far Colonies to the rest of the Federation systems.
+$p0002:             After that we were trapped here, face to face with the Xengatarn. Locked in a cage with a tiger.
+$p0003:             I heard people came up with a new name for the Far Colonies. They call it VoidExpanse these days.

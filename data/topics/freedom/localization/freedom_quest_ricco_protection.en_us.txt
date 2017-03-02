@@ -1,0 +1,79 @@
+﻿$p0001:             Report #515 by Major Riggins:
+$p0002:             Officer John Valente was ambushed and killed about a month ago by pirates, during a large-scale assault on our weapons storage facility.
+$p0003:             His personal ship, as well as some of his possessions, were stolen. The reason for the attack remains unknown.
+$p0004:             That's not your concern, civilian. I'm Officer Valente of The Order, and I command you not to interfere.
+$p0005:             That's all dirty lies. I won't listen to this shit any longer.
+$p0006:             It's official Order business. If you interfere, you will face... consequences which I wouldn't recommend. I have an official order.
+$p0007:             Now, get lost. I'm tired of you.
+$p0008:             Did your research, huh? Smart kid.
+$p0009:             Destroy that ship boys!
+$p0010:             Ah-ha, Mercenary Ricco sent you? Great! I was beginning to think that Freedom wouldn't honor our little agreement.
+$p0011:             Yes, yes, of course. These three guys appeared about two weeks ago. First they were asking questions, lots of questions. Then they told me that I must pay them ten percent of the factory's income, or they would kill me.
+$p0012:             Well, they showed me their IDs. Looked real. And their ships also looked real. And their guns - they looked very real too.
+$p0013:             I understand. I will pay them. But Ricco won't get anything from me anymore, you can tell him that.
+$p0014:             Looks like they are still in this system, I can see them on our long range scanners. Here are their coordinates.
+$p0015:             You can try talking to them... or convincing them the other way.
+$p0016:             You've killed him?! But he was from the Order, now they're after you.
+$p0017:             Pirate?! I knew it! He was too dumb to be an Order guy. I should have seen this coming.
+$p0018:             Oh... Okay.
+$p0019:             Now I see that Freedom can be trusted. I will never forget your help, sir.
+$p0020:             Here, take the money. I insist.
+$p0021:             It depends. How can you be useful?
+$p0022:             Nah, we have enough pirates around here. I don't need another one.
+$p0023:             Do I look like someone who could use a smuggler? Not interested.
+$p0024:             Negotiator you say? Hmm...
+$p0025:             How can you prove that you're a good negotiator?
+$p0026:             Then, I guess you have to work a little harder on your PERSUASION skill. Got it?
+$p0027:             Well, you sound confident. Okay. Here's the deal.
+$p0028:             Not far from here there's a system with a small medication factory installation. A guy named Boris is in charge there.
+$p0029:             We have an agreement with Boris - he provides us with medication and in exchange we protect him and his business.
+$p0030:             From anything: pirates, Xengatarn, the Order, you name it.
+$p0031:             The problem is, recently some guys from the Order found out about this little facility. Now they're threatening Boris. Of course, it's not official Order business, just a couple of soldiers deciding to make some extra cash on the side.
+$p0032:             But Boris paid us for protection, and so protect him we must.
+$p0033:             Go to the %system% system, find Boris on %station% station, and help him resolve this issue with the Order thugs.
+$p0034:             And don't forget to report to me after you're done.
+$p0035:             WHAT?? You refused to help him?!
+$p0036:             You moron! You could've at least tried to sort things out! His facility was a major source of income for us! Now I'll have to deal with this matter personally!
+$p0037:             Get the hell out of my office, you idiot!
+$p0038:             Have you solved the problem? Great. Any troubles with the Order?
+$p0039:             These pirate bastards are getting smarter every day. Good job wiping them out.
+$p0040:             This mission was harder then I expected, but you have succeeded. You proved that you're worthy.
+$p0041:             Here's your reward. I'll make sure Jeredan hears about this.
+$c0001:             You threatened to kill the guy!
+$c0002:             Can I convince you to leave Boris alone?
+$c0003:             ( engage them in battle )
+$c0004:             Tell me about your problem.
+$c0005:             Kill you?! That doesn't sound like the Order at all.
+$c0006:             Where can I find these guys?
+$c0007:             If they're from the Order, you should pay. I wouldn't mess with the Order.
+$c0008:             He wasn't from the Order. He was just a pirate in disguise.
+$c0009:             That's my problem.
+$c0010:             I'm a good pilot.
+$c0011:             I'm a good smuggler.
+$c0012:             I'm a good negotiator.
+$c0013:             [Persuade] Test me and you won't be disappointed.
+$c0014:             Well... I don't know.
+$c0015:             Protect him from what?
+$c0016:             What should I do then?
+$c0017:             Those guys weren't from the Order. They were pirates.
+$c0018:             Nothing I couldn't handle.
+$t0001:             Need help?
+$t0002:             Boris' deal
+$t0003:             Boris' deal
+$t0004:             Your problem
+$t0005:             Valente dead
+$t0006:             Boris' deal
+$t0007:             Filthy pirate
+$t0008:             Officer Valente
+$q0001:             Protect Boris
+$q0002:             Valente is an impostor, an ordinary pirate who stole an Order ship. I should confront him immediately!
+$q0003:             Leader of these Order thugs is Officer Valente. He claims to be on official Order business. Yet, I have an unsettling feeling that something is not right here... I can just kill them, but this will turn the Order against me. Maybe, I should find some information about this Valente first? The Order computer terminals should help.
+$q0004:             I refused to help Boris, and he broke his deal with Freedom faction. I should report this to Mercenary Ricco.
+$q0005:             These guys from the Order look suspicious. They threatened to kill Boris - that doesn't sound like typical Order soldiers. Maybe I should talk to them first?
+$q0006:             I successfully solved the situation with Boris and the Order thugs. Now I should get back to Mercenary Ricco.
+$q0007:             I need to go to the %system% system and find Boris on station %station%. He's in charge of the small medication factory, and he's being pressed by some Order thugs. I need to deal with this problem.
+$q0008:             Mercenary Ricco was really angry. He doesn't want to see me anymore.
+$q0009:             I reported to Mercenary Ricco and collected my reward.
+$q0010:             I've dealt with Valente and his thugs. Now I should talk to Boris.
+$i0001:             Order thug
+$i0002:             Officer Valente

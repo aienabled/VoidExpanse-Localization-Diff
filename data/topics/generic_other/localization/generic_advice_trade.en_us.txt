@@ -1,0 +1,16 @@
+﻿$p0001:             You want to learn about the art of trading? You've come to the right place!
+$p0002:             As a matter of fact, the technique of trade is simple: you buy goods on one station and sell on another.
+$p0003:             Of course, the difficulty of it is to sell at a higher price...
+$p0004:             That's the trick, isn't it? You need to pay attention to the prices on each station to find profitable trade routes.
+$p0005:             But even if you find a good trade route it won't do you much good unless you have a proper ship.
+$p0006:             Isn't that obvious? If you don't have a spacious cargo hold, you won't make much profit from your trading runs.
+$p0007:             So, it's always a good idea to have a cargo ship, some trader skills, and maybe some specific boosters to maximize your returns from trading.
+$p0008:             Well, you could always start small. If you see any goods being sold for a bargain price you could grab some and take them with you.
+$p0009:             Then, any time you visit a different station just check and see if you can sell it for a higher price. It won't make you a millionaire, but it could make you some extra cash.
+$c0001:             But how can I know where I can sell goods for a profit?
+$c0002:             That's all I needed to know.
+$c0003:             What do you mean?
+$c0004:             That's all I needed to know.
+$c0005:             Are there any alternatives?
+$c0006:             That's all I needed to know.
+$c0007:             I see, thank you.

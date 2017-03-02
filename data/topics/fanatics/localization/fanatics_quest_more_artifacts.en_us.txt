@@ -1,0 +1,80 @@
+﻿$p0001:             First of all, let's chat a little bit. I'd like to know more about you.
+$p0002:             What do you think about the Xengatarn?
+$p0003:             You do not truly believe it, do you? You can't fool me. You're just saying that to try to earn my trust.
+$p0004:             But don't worry about that. I know what the Xengatarn truly are.
+$p0005:             Yes, that is the correct answer. I'm glad to see that this Fanatics madness didn't infect you.
+$p0006:             My followers blindly believe that the Xengatarn are higher beings. But they're gravely mistaken. They have no idea what the Xengatarn truly are.
+$p0007:             They're an aggressive, mindless lifeform dedicated to destroying the human race. Currently, they have no other purpose except that.
+$p0008:             My followers are delusional. I just keep their delusions at bay. I need their help in my pursuits, so I use my knowledge of Xengatarn and Ergrek technologies to… persuade them.
+$p0009:             I know that the Xengatarn are a much bigger threat than they appear.
+$p0010:             Let me start from the beginning so you can understand my theory and my motives.
+$p0011:             When the Xengatarn invasion started, some of the people started to become crazy, even violent towards each other and their friends. But doctors couldn't find what was wrong with them. So they just sent them away.
+$p0012:             But I knew there was something wrong with this sudden madness. No one listened to me at that time. There was a period of panic and chaos.
+$p0013:             I had my suspicions then. But I needed proof.
+$p0014:             And I got it. Something that no one could get but me.
+$p0015:             As you may have already heard, I am a scientist. All my life I have studied Ergrek artifacts. My specialization was reverse-engineering their technologies.
+$p0016:             I came to the Far Colonies many years ago by invitation from Selek Jeredan. He asked me to study certain Ergrek artifacts and, if it was possible, to extract new technologies from them.
+$p0017:             A lot of ancient artifacts went though my hands, and I couldn't determine their purpose. Then the Xengatarn invaded, and people started to go crazy.
+$p0018:             I noticed that proximity to certain Ergrek artifacts lessened people's madness and sometimes removed all signs of it.
+$p0019:             It's not that simple though. The artifacts have different effects on different people. There's no easy explanation why.
+$p0020:             But after months of experiments, I achieved my goal. I managed to cure at least one person of their symptoms almost completely.
+$p0021:             Now most of them are quiet, peaceful alien worshippers.
+$p0022:             This is an interesting question. I have a theory about that.
+$p0023:             It appears that there's some kind of field of unknown origin, which can affect the human mind, put ideas and beliefs into their heads.
+$p0024:             This field cannot be detected or measured by any means we have at our disposal, but I'm sure it exists. And, more to the point, it's the source of this Xengatarn mania.
+$p0025:             Some Ergrek artifacts apparently emit such a field too. It doesn't affect human minds, but it does counter the effect of the field that causes insanity. That's how Ergrek artifacts can 'cure' alien-mania.
+$p0026:             That's not all. I have another theory that, proven right, can end this conflict with the Xengatarn.
+$p0027:             Because I need you to understand my theory completely, without flaws.
+$p0028:             So, my theory is based on this idea. Apparently, this special field, or C-Field as I call it, is designed to control minds and, through it, to destroy.
+$p0029:             But why do you think only a small fraction of the human population was affected by the field?
+$p0030:             Any ideas?
+$p0031:             Ha-ha, no I don't think so.
+$p0032:             They have almost unlimited power at their disposal.
+$p0033:             Well, my theory is that humans aren't actually the target of the C-Field. That's why the C-Field doesn't work on most of us - it's not designed to.
+$p0034:             I believe the Xengatarn race is the target.
+$p0035:             I believe that the entire Xengatarn race is under some sort of mind-control. They're enslaved by the C-Field, which tells them to hate humans and kill them. Kill us.
+$p0036:             We cannot answer this question. Yet.
+$p0037:             I have a couple of theories about that, but now is not the time for them.
+$p0038:             My plan is simple. We need to locate the C-Field emitter and destroy it.
+$p0039:             As soon as the C-Field emitter is destroyed, the Xengatarn race will be free from the shackles of the mind control and they will retreat.
+$p0040:             The first step would be to locate the emitter. I've found a way to detect it by measuring the counter-effect caused by Ergrek artifacts, but I don't have any artifacts powerful enough to triangulate its position.
+$p0041:             That's where I need your help. When you have a way to travel inside Xengatarn territories, you can look for the artifacts I need.
+$p0042:             There is only one type of artifact that will suit my needs. It looks like a small block with intricate carvings and a small sphere attached to it.
+$p0043:             I've managed to acquire a few of them myself, but I don't believe that any of them are left in nearby systems. You should look in Xengatarn territories.
+$p0044:             In every Xengatarn system, you'll find special secured crates. They'll be marked with a yellow color on your system map.
+$p0045:             Now, listen close. I need at least 15 of these artifacts at my disposal to determine the C-Field emitter position.
+$p0046:             Bring me 15 alien relics with carvings, and we will have a chance to stop this war before it's too late.
+$p0047:             I will wait here in case you need me.
+$p0048:             Yes? Do you have a question or bring the 15 alien relics with carvings?
+$p0049:             No? Then, please don't distract me from my research.
+$p0050:             That's not enough. Bring me 15 alien relics with carvings, or I won't be able to triangulate the C-Field emitter position!
+$p0051:             Great! Give them to me!
+$p0052:             All right, that should be enough! Come back in a little while, and I'll share my results.
+$c0001:             They're gods.
+$c0002:             They're a plague.
+$c0003:             What?
+$c0004:             What?
+$c0005:             How do you know that?
+$c0006:             So, this alien mania is more than simple insanity?
+$c0007:             Why?
+$c0008:             So, ancient Ergrek artifacts can cure people from Xengatarn-mania?
+$c0009:             But what caused this insanity and how are Ergrek technologies related to that?
+$c0010:             This sounds convincing.
+$c0011:             End the war with the Xengatarn? Why didn't you start with that?
+$c0012:             Bad calibration?
+$c0013:             Not enough emitting power?
+$c0014:             No ideas.
+$c0015:             But then... Who's the target?
+$c0016:             But who could control an entire race and why would they want us dead?
+$c0017:             So, what's your plan to end this war?
+$c0018:             What can I do to help you?
+$c0019:             What kind of artifacts do you need?
+$c0020:             Where exactly should I look for these artifacts?
+$c0021:             15 special relics. Got it.
+$c0022:             I've got some of the relics...
+$c0023:             I've gathered 15 relics.
+$t0001:             My new role
+$t0002:             About artifacts
+$q0001:             Relics for Melak
+$q0002:             Arthur Melak, leader of The Fanatics, asked me to search for 15 special Ergrek relics. They're circular shaped with carvings and a small spherical module. I should look for them in Xengatarn systems.
+$q0003:             I've brought 15 artifacts to Melak. I should return after some time, so he can tell me the results of his research.

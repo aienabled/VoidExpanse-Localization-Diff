@@ -1,0 +1,45 @@
+﻿$p0001:             Do I need help?
+$p0002:             Who wants to know?
+$p0003:             Nice to meet you too.
+$p0004:             ...
+$p0005:             No, I'm not.
+$p0006:             Yes. I want you to bring me something.
+$p0007:             Guts.
+$p0008:             Alien guts. Guts, pieces, fibers, any other parts.
+$p0009:             I feel that the almighty Xengatarn are trying to contact me. But every time I try to reach them with my mind, I feel like... I'm missing something essential. I need to consume their essence to become closer to them. Then I'll be able to hear their messages and understand them.
+$p0010:             Yes.
+$p0011:             In Xengatarn ships.
+$p0012:             If necessary - yes.
+$p0013:             Good.
+$p0014:             Three pieces. I will wait here.
+$p0015:             So, you brought me the guts?
+$p0016:             No?
+$p0017:             Pity.
+$p0018:             So, you brought me the guts? Thanks.
+$p0019:             I will consume them now.
+$p0020:             Okay, brother. Take this as a token of my gratitude for your service to the Brotherhood.
+$c0001:             Do you?
+$c0002:             You know, I just remembered that I have unfinished business... elsewhere.
+$c0003:             %name%, nice to meet you!
+$c0004:             You know, I just remembered that I have unfinished business... elsewhere.
+$c0005:             You're not a chatty one, are you?
+$c0006:             You know, I just remembered that I have unfinished business... elsewhere.
+$c0007:             Okay, so about that help I offered.
+$c0008:             You know, I just remembered that I have unfinished business... elsewhere.
+$c0009:             I'm eager to know what it is that you need.
+$c0010:             You know, I just remembered that I have unfinished business... elsewhere.
+$c0011:             Can you be more specific?
+$c0012:             You know, I just remembered that I have unfinished business... elsewhere.
+$c0013:             Why would you need something like that?
+$c0014:             You know, I just remembered that I have unfinished business... elsewhere.
+$c0015:             Now we're talking!
+$c0016:             Where can I get these alien guts?
+$c0017:             Should I destroy sacred Xengatarn ships?
+$c0018:             Understood.
+$c0019:             Okay, I'll bring you alien... guts. How many do you need?
+$c0020:             You know, I just remembered that I have unfinished business... elsewhere.
+$c0021:             Wait! Before you... consume them, how about a little gratitude?
+$t0001:             Need help?
+$t0002:             Xengatarn guts
+$q0001:             Not enough guts
+$q0002:             I need to find three pieces of Xengatarn remains and bring them to Brother Jebodiah. For god knows why.

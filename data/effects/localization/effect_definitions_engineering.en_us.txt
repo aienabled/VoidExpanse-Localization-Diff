@@ -1,0 +1,15 @@
+﻿$radar_range_title:                      Radar range
+$radar_targeting_range_title:            Targeting range
+$radar_targeting_speed_title:            Targeting speed
+$radar_targeting_defense_title:          Targeting defense
+$fuel_consumption_generator_title:       Fuel consumption
+$shield_charge_title:                    Shield charge capacity
+$shield_regeneration_title:              Shield regeneration
+$shield_deflection_title:                Shield deflection rate
+$shield_reestablishment_title:           Shield reestablishment
+$shield_regeneration_delay_title:        Shield regeneration delay
+$grappler_range_title:                   Grappler range
+$grappler_pickup_range_title:            Grappler pickup range
+$grappler_force_title:                   Grappler force
+$hull_regeneration_title:                Hull regeneration
+$hacking_proficiency_title:              Hacking proficiency

@@ -1,0 +1,67 @@
+﻿$p0001:             Yes, the one and only. And you are? Oh, wait, I don't care.
+$p0002:             Okay. Whatever.
+$p0003:             Well, isn't that obvious? Because Order guys are a bunch of butchers, and people deserve to know the truth about them!
+$p0004:             The Order are trying to dictate how to live, what to do. We, free people, will not tolerate such behaviour! Because our freedom is WHAT WE ARE, and we won't give away our freedom easily! Liberty!
+$p0005:             A little bit, yeah. I'm a star after all, I'm allowed.
+$p0006:             Oh, a smart ass, are you? Why would I tell you anything?
+$p0007:             Right, what harm can you do? Ha!
+$p0008:             I'm doing this for money, of course. One of Jeredan's men is paying me to write that crap about the Order. If the colonists stop their food supply, General Troyden will be forced to buy more from Freedom.
+$p0009:             Pure business.
+$p0010:             Whoa, not so fast! Although... Well, let's see, Jeredan pays me 100d for each article...
+$p0011:             I'd say 5000d is enough. Yes, 5000d - and I'll hang my keyboard on the wall.
+$p0012:             Great! We have a deal then! Always a pleasure doing business with someone as serious as you.
+$p0013:             Die? What do you mean - die? I don't plan on dying any time soon.
+$p0014:             Yes... I can see your point. You've convinced me.
+$p0015:             Okay, I'll stop writing articles about the Order.
+$p0016:             And... I guess, thank you, for opening my eyes.
+$p0017:             What makes you think I need your help? You think I have some kind of helpless look or something?
+$p0018:             Right, go make yourself useful.
+$p0019:             You're damn right I am! We're spilling our blood for these peasant bastards, dying for them, and they're acting like we're their enemy.
+$p0020:             They're seriously voting to stop supplying us with food and drinks! How do you like that? We're the only obstacle keeping the Xengatarn from wiping out all of humanity in the Far Colonies, and they're about to stop supporting us! Sweet.
+$p0021:             Colonials of course! They live on habitable planets and are supplying the Order with food, drinks, some medications...
+$p0022:             Oh, I know exactly why. It's that reporter - Nico Davidson. In his articles he makes the Order look like a bunch of greedy bastards, who care only about themselves.
+$p0023:             If only I had a moment with him alone, he'd never write about the Order again.
+$p0024:             Because he's the only major reporter who still works. Others are either dead or wasting their life on alcohol and drugs. Desperate times.
+$p0025:             Well, if you could persuade Nico Davidson to... retire... or at least stop writing crap about the Order. That would be a great help to us all.
+$p0026:             To my knowledge, he's in the Order capital system. Probably trying to dig up more dirt on General Troyden. Why? Are you going to do something about it?
+$p0027:             Then go bother someone else.
+$p0028:             Well, good luck with that. But if you make him stop writing this shit, I'll buy you a beer.
+$p0029:             What do you mean - dealt? You... you've killed him?
+$p0030:             Well, that's impressive. I didn't believe the greedy bastard could be reasoned with. Good job!
+$p0031:             Here's your reward. And if you ever decide to join the Order - you have my blessing.
+$c0001:             Why are you writing bad articles about the Order?
+$c0002:             See you.
+$c0003:             I'm not buying this liberty crap.
+$c0004:             Are you high?
+$c0005:             I see your point. I'll probably get going.
+$c0006:             Anyway, I'm not buying this liberty crap.
+$c0007:             What's the difference? I won't be able to do anything about it anyway.
+$c0008:             You know what, I'd better be going.
+$c0009:             I got it. How much do you want to stop writing?
+$c0010:             [Persuade] We are all gonna die because of your greed. Do you understand that?
+$c0011:             I don't have that much money.
+$c0012:             Here is your money, and make sure I never see you again.
+$c0013:             You'll get nothing from me!
+$c0014:             The Order is the only thing standing between the Xengatarn and you. If the Order is removed from this scheme, the Xengatarn will get to YOU. So, ask yourself - do you want to live a little bit longer?
+$c0015:             You look upset.
+$c0016:             I'd better be going.
+$c0017:             Wait, what peasant bastards?
+$c0018:             Do you have any idea why colonials are against the Order?
+$c0019:             Do you have any idea why colonials are against the Order?
+$c0020:             Why do people believe him?
+$c0021:             Is there any way I could help?
+$c0022:             So, how can I help?
+$c0023:             Where can I find him?
+$c0024:             I'll try talking to him.
+$c0025:             No, I don't think this is my business.
+$c0026:             No, I've convinced him not to write anymore.
+$t0001:             Need help?
+$t0002:             Reporter
+$t0003:             Dealt with reporter
+$t0004:             Nico Davidson
+$q0001:             Persuade reporter
+$q0002:             I've paid the reporter 5000d, and he promised not to continue writing dirt on the Order. I should get back to Officer Kolosov and tell him the good news.
+$q0003:             I've convinced the reporter not to write any more negative articles about the Order. Now I should get back to Officer Kolosov and tell him the good news.
+$q0004:             Reporter Nico Davidson is writing negative articles about the Order, which are shattering civilians' confidence in the Order's cause. Rumors has it, Nico is somewhere in the %system% system, probably on one of the stations. I should find him and try to convince him to stop writing these articles.
+$q0005:             Kolosov rewarded me for my efforts and told me that if I decide to join the Order, he'll support me.
+$q0006:             I've found Nico Davidson on station %station%.

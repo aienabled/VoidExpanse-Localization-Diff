@@ -1,0 +1,30 @@
+﻿$p0001:             A device you say? Hm. Let me see.
+$p0002:             Suit yourself.
+$p0003:             Oh! Where did you get that? I didn't know there were any left here in the Far Colonies!
+$p0004:             Ah, yes. Please send my regards to Brother Luke if you see him again.
+$p0005:             What? One of these fanatics? You are braver than I thought dealing with these guys. But whatever, it's none of my concern.
+$p0006:             Well, as you may know, the Xengatarn are infesting planets, building their bases and factories. What you don't know is that not every planet suits their needs. And it looks like they need a lot of factors to match before they can infest a planet with their presence.
+$p0007:             To understand them better, we need to carry out some research on these planets. And this is where you step in with this device.
+$p0008:             I need more statistics on the planets here in the Far Colonies. And with this device you can gather enough data that we will be able to better understand the Xengatarn and maybe even find some of their weaknesses we could exploit.
+$p0009:             Basically you need to scan more planets. As many as you can.
+$p0010:             Great! Then come back when you have scan results for at least 25 planets. That includes the planets you've scanned before. This information should give us enough statistical data to devise a new possible strategy against the Xengatarn.
+$p0011:             Oh, you've scanned 25 planets? Great! That should give us enough statistical data to analyze and see if we can exploit it to our advantage against the Xengatarn!
+$p0012:             Now, unfortunately I can't pay you money, but you know what? I can add 250 science points to your account! It should be enough to get some top of the line boosters on any of our stations.
+$p0013:             You finished 25 planet scans? No? Well, we need more statistical data before we can draw any conclusions. So, please come back when you have enough.
+$c0001:             ( Show the device )
+$c0002:             Nah, I've changed my mind.
+$c0003:             Brother Luke gave it to me.
+$c0004:             How can we use that?
+$c0005:             So, how can we use that?
+$c0006:             And what exactly do you need me to do?
+$c0007:             Maybe some other time...
+$c0008:             Sure, I can do that.
+$c0009:             Maybe some other time...
+$t0001:             I have this scanner...
+$t0002:             Planet scans
+$q0001:             More scanning
+$q0002:             I need to scan more planets to gather enough statistical data for analysis. I should use the device Brother Luke gave me. I need to scan at least 25 planets and then return to any science station to deliver the data.
+$q0003:             I've brought the statistical data to the scientists and got my reward of 250 science points. I could use them to get some good boosters on any science station for free.
+$q0004:             I've scanned 15 planets, still 10 more to go.
+$q0005:             I've scanned 20 planets, still 5 more to go.
+$q0006:             I've successfully scanned 25 planets. I should go back to any science station and talk to the chief scientist about the data I've collected. There is no need to scan more planets.

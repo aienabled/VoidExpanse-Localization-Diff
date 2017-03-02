@@ -1,0 +1,56 @@
+﻿$p0001:             We are finally ready to strike back and wipe the damned Xengatarn out once and for all.
+$p0002:             Last time we failed because we underestimated the Xengatarn. We gathered all our ships in one armada, and that was our grave mistake.
+$p0003:             This time we'll take another approach.
+$p0004:             We will attack them randomly, swiftly destroying their hives and ships - and quickly retreating. Raider attacks are our best chance to exhaust the enemy, deplete their resources, and lower their strength.
+$p0005:             Trust me, we won't be able to survive another massive confrontation against the Xengatarn fleet.
+$p0006:             They have thousands of ships perfectly coordinating their actions, and they're extremely hard to kill.
+$p0007:             Random raider attacks are our only choice.
+$p0008:             Right. I've gathered my best fighters now. They will be split into small raider squads and sent into Xengatarn territories. We've copied the device that Barrich made for you, so they won't have problems with traveling into Xengatarn territories.
+$p0009:             All of these squads will be equipped with anti-hive weapons, so they can quickly and effectively wipe out hives and retreat.
+$p0010:             Your mission is the crucial part of my plan. I'm getting to that.
+$p0011:             Our scientists think that the Xengatarn have some sort of 'mastermind' - the brain behind all their coordination.
+$p0012:             We think that this mastermind is something like a 'network' of hives. They are working together like a multi-core processor, and without them the Xengatarn actions won't be nearly as effective and coordinated.
+$p0013:             This hive network is well guarded, so raider attacks won't work in this case. We need to gather our armada once again and attack them together.
+$p0014:             In the very system where it all began. %system%.
+$p0015:             If we gather our forces and attack this system together, we might have a chance to end this war. But there's one problem.
+$p0016:             We cannot effectively gather our forces in enemy territory. So, we need to liberate at least one of the adjacent systems, so we can gather our armada and attack.
+$p0017:             Yes, you are correct.
+$p0018:             You are joining our raider attacks, but you will have a task of your own. Go out there, kill as many hives as you can. I will pay you 2500d for each destroyed hive.
+$p0019:             But your main task is to liberate one of the Xengatarn systems that are adjacent to the %system% system. Then we will gather all our forces there for the final attack.
+$p0020:             The Xengatarn use a network of hives to control each system. If you destroy all of the hives in a system, the Xengatarn won't be able to control that system anymore.
+$p0021:             I know this task is difficult and dangerous, but that's exactly why I chose you for this mission.
+$p0022:             Yes, you can hire one of the mercenaries to aid you. But that will cost you no less than 1000d.
+$p0023:             And if your companion dies, you will have to pay for his reconstruction in BioTech and for his new ship. Each respawn will also cost you 1000d.
+$p0024:             Good luck, soldier. Humanity is counting on you.
+$p0025:             Do you have anything to report?
+$p0026:             The fate of humanity is now in our hands. Do I have to remind you about that?
+$p0027:             Good job! Here's your money, as I've promised.
+$p0028:             Our attacks are going well. We've already destroyed dozens of Xengatarn ships and a few hives with almost no casualties on our side.
+$p0029:             Everything is going according to plan.
+$p0030:             You already have a companion.
+$p0031:             You don't have enough money. You need 1000d to hire a mercenary.
+$p0032:             He'll be waiting for you outside the station.
+$p0033:             At last, we're ready for our final assault! Xengatarn forces are spread across the Far Colonies, so it's now or never.
+$p0034:             I will gather every ship we have at our disposal. Have a rest, and then come back to me. We have one more mission to go.
+$c0001:             What are you planning?
+$c0002:             Sounds like a good idea.
+$c0003:             Frankly, I don't think it's a good idea.
+$c0004:             You're probably right.
+$c0005:             Okay, what is my task exactly?
+$c0006:             Where do you think these hives are located?
+$c0007:             And that's my job, right?
+$c0008:             How can I liberate a system from the Xengatarn?
+$c0009:             Do I get any help on this mission?
+$c0010:             I'm ready to start my mission.
+$c0011:             I've destroyed some alien hives.
+$c0012:             I've liberated one of the systems adjacent to the Xengatarn home system.
+$c0013:             I want to hire a companion. [ 1000d ]
+$c0014:             Not yet.
+$t0001:             Mission
+$t0002:             Report
+$q0001:             Liberation
+$q0002:             It's time to liberate our galaxy from the Xengatarn! General Troyden has a plan that will probably work. First, we start with quick and random attacks on Xengatarn systems. If I destroy all the Xengatarn hives in one system, they will lose control over it. Also, General Troyden promised to pay 2500d for each hive I destroy.
+$q0003:             My special task is to liberate at least one Xengatarn system that's adjacent to their home system, %system%.
+$q0004:             I've reported to General Troyden. Now we have one last mission to do, but first I should prepare myself better for battle.
+$q0005:             I've finally liberated one of the systems adjacent to the Xengatarn capital, %system%. Now I should get back to General Troyden and report.
+$i0001:             Rocket cruiser

@@ -1,0 +1,7 @@
+﻿$p0001:             Nharmars were named by humans after the system Nharma, in which we first encountered them during our explorations.
+$p0002:             They are an alien race which are in a union with the Federation of Independent Worlds. That's us. They are much more advanced technologically than us, except for jumpgate technologies - in this area we're way ahead.
+$p0003:             We're exchanging technologies and resources. Simply put, we give them jumpgates, and they give us power sources. Fair and square. You can come across their weapons and engines even here, in the Far Colonies - you can recognize it by a funny violet color.
+$p0004:             Of course not. Nharmars aren't allowed to enter Federation systems, just as humans aren't allowed to enter theirs.
+$p0005:             Let me explain how it works, kid. Nharmars are the best source of effective energy technologies we have. And they give us their technologies only because we have something to offer back. That's why aliens aren't permitted in human territory. The Federation guards its secrets.
+$c0001:             Are there any Nharmars around here?
+$c0002:             That's all I needed to know.

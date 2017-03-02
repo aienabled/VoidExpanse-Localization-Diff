@@ -1,0 +1,25 @@
+﻿$p0001:             Our forces are already gathering in the %system% system. We're almost ready to deal the final blow to the Xengatarn.
+$p0002:             We've taken heavy casualties during our raids and we've lost most of our anti-hive weapons. All ships equipped with those are now in %system%, trying to destroy Xengatarn hives.
+$p0003:             I'm going there personally to command the Order forces and take my part in this battle. And you should too. Are you ready?
+$p0004:             Then do what you have left to do here and then report to me.
+$p0005:             Dismissed!
+$p0006:             Great! I'm leaving %system% with some of my best men and heading towards %capital%.
+$p0007:             Meet me at the rendezvous point in %system%. Don't be late!
+$p0008:             Finally, you are here! Just in time!
+$p0009:             We assembled a squadron of special anti-hive units, but unfortunately they were destroyed by a sudden attack of Xengatarn elite ships. We've managed to draw them back, but now we have no weapons against the hives.
+$p0010:             It's up to you to destroy these hives. This system is extremely dangerous, and the Xengatarn are getting reinforcements almost every hour. Do not hesitate - these hives must be destroyed as soon as possible!
+$p0011:             If you have any trouble - come back here. We will try to protect you.
+$c0001:             I'm ready.
+$c0002:             Let's kick Xengatarn arses!
+$c0003:             I'm not ready yet.
+$c0004:             Understood.
+$c0005:             How's the situation?
+$c0006:             Understood.
+$t0001:             Final battle
+$t0002:             Status report
+$q0001:             Last stand
+$q0002:             General Troyden with some of his men, including Sgt. Rangar, is moving to %system%, the Xengatarn capital. I should meet him there at the rendezvous point to get further orders.
+$q0003:             I need to destroy all the hives in the %system% system.
+$i0001:             General Troyden
+$i0002:             Sgt. Ragnar
+$i0003:             Officer Coldridge

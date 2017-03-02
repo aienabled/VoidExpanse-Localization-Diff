@@ -1,0 +1,2 @@
+﻿$p0001:             General Morgulis was one of the commanders of the Suppression Force the Federation sent to eliminate the Xengatarn threat. When our fleet was defeated and the Federation initiated the Lockdown, Morgulis left Troyden's forces. As far as we know, he's currently the leader of the Pirates.
+$p0002:             General Morgulis is a bloody hero, that's what I say about him.

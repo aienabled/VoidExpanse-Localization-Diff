@@ -1,0 +1,38 @@
+﻿$p0001:             Indeed, I need help. Looks like you have the gift of the seer yourself. The Xengatarn blessed you with power, didn't they?
+$p0002:             You probably know that Melak gave us an order to find Ergrek artifacts.
+$p0003:             Well, now you know. Melak is gathering Ergrek artifacts, and we, his followers, are helping him.
+$p0004:             Not that long ago I received a valuable piece of information from Brother Luke. An Ergrek artifact of immense power is hidden in an old ruin a couple of jumps away from here.
+$p0005:             I've sent three of my men to retrieve it: Garoth, Jerry and Scott. But I haven't heard from them for a couple of days. I need to ask you a favor. Go look for them. And if you discover an artifact, bring it to me. I'll make it worth your time.
+$p0006:             Are you taking this job?
+$p0007:             Suit yourself.
+$p0008:             Great. Here are the coordinates where I last heard from them on their way to the ruins. Go there and try to find out what happened.
+$p0009:             All dead? But... What happened?
+$p0010:             And where is the artifact?
+$p0011:             That is grave news indeed. Three of our brothers are dead, and we've lost probably the most powerful Ergrek artifact we've ever discovered.
+$p0012:             Well, that's not the first case. Some Ergrek artifacts have strange effects on humans. Not so long ago one of our brothers, Brother Portridge, found an artifact. When he touched it, it turned him completely crazy.
+$p0013:             He came back to us and said that everyone in the Brotherhood was brainwashed by the Xengatarn, that some kind of weird technology made us forget who we really are...
+$p0014:             Poor man. No one listened to him.
+$p0015:             Indeed. Well, what's done is done. Life is marching on, and we have to follow. Right?
+$p0016:             Thank you for your work, brother! Here, take some money as a reward. I hope to see you again in the future!
+$c0001:             Yes, I've heard that.
+$c0002:             Actually, no.
+$c0003:             Yes, I'll try to find your men.
+$c0004:             I have other pressing matters at the moment.
+$c0005:             Looks like that artifact somehow turned your men crazy. They killed each other and destroyed the artifact.
+$c0006:             Yes... He is totally crazy.
+$t0001:             Need help?
+$t0002:             Your men are dead
+$q0001:             Lost artifact
+$q0002:             Brother Maverick sent me to investigate what happened to three of his men, who were sent to find an ancient Ergrek artifact: Garoth, Jerry and Scott.
+$q0003:             "I've found the wreckage of one of the men's ships. I recovered the last entry from the ship's wreck:
+                    '[[[Garoth: After our long digging and deconstruction we've found an artifact — an immense round construction of unknown metal. And I literally felt how it radiated immense power. I loaded it into my ship. When I touched it, it felt... warm. Scott and Jerry wanted to take a look at it too, but I didn't allow them. I don't want to give it to anyone else. It is mine.]]]'
+                    Rather confusing. I should look for the others."
+
+$q0004:             "I've found another wreckage and extracted the ship's log:
+                    '[[[Scott: After that filthy thief Garoth tried to run away with our artifact, we had no choice but to kill him. Couple of rockets and this bastard is grilled. Then, after a short argument with Jerry, I took the artifact to my ship. It's so shiny and beautiful! And also warm - almost burnt my hand when I touched it. Jerry looked worried. He suggested we drop the artifact and return to Maverick. Ha-ha, like I'm going to let it go! I don't like how Jerry is talking about the artifact though. I bet he wants it for himself! I should be careful with him.]]]'
+                    Another dead man. I think I should find Jerry and find out what's going on."
+
+$q0005:             "I've found the wreckage of Jerry's ship and extracted the last log entry:
+                    '[[[Jerry: Scott attacked me! Tried to blast me with his laser gun! I had no choice, I launched my rockets at him. I'm sure it's the artifact. It did something to them - first Garoth, and then Scott. I didn't touch it, but still I feel how its power is consuming me, turning me insane. I need to destroy it as soon as possible! I'm heading to the nearest star and I'm going to eject the artifact into the star as soon as I can.]]]'
+                    Well, looks like Maverick's guys killed each other, and then Jerry destroyed the artifact and burned himself alive due to the star's radiation. I should return to Maverick and tell him the bad news."
+

@@ -1,0 +1,2 @@
+﻿$n0001:       You have drawn the Patrol attention.
+$n0002:       Any violence towards the faction or neutral ships will be punished in this star system.

@@ -1,0 +1,2 @@
+﻿$p0001:             Arthur Melak once was a very famous scientist. He specialized in reverse-engineering Ergrek technology. Sadly, when the Xengatarn invaded our systems, he lost his mind. As I've heard, he joined the group of madmen calling themselves Fanatics.
+$p0002:             Arthur Melak once was a very famous scientist. He specialized in reverse-engineering Ergrek technology. When the Xengatarn invaded our systems, they somehow influenced our minds, turned some of us insane. But Melak cured us and took care of us.

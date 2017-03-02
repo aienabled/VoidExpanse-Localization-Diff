@@ -1,0 +1,2 @@
+﻿$p0001:             VoidExpanse - is what we call the Far Colonies these days. As a joke of course, but behind this joke there's a bitter truth - no one wants to know that we're here. No one can reach us, rescue us. And no one cares.
+$p0002:             For people outside this region we are just an empty space on the map.

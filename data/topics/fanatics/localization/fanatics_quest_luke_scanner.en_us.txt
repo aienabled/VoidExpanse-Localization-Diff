@@ -1,0 +1,27 @@
+﻿$p0001:             Yes, brother, in fact I do. I'm performing a hard task and I need your help.
+$p0002:             As you may already know, Arthur Melak, our prophet, ordered us to gather ancient artifacts of an alien race long gone. Humans call this race the Ergrek. Million of years ago they inhabited the entire galaxy. We've found remnants of their civilization in various areas and star systems, including our home solar system.
+$p0003:             Here, in the Far Colonies, the Ergrek had a large colony. There are more ancient Ergrek sites here than we've ever found. Some of their technologies are still intact. We are gathering them and bringing them to Melak.
+$p0004:             Before he became a prophet, Arthur Melak was a top scientist in the Federation. He specialized in the reverse engineering of Ergrek technologies and achieved magnificent results.
+$p0005:             I believe he's building a device, which is based on Ergrek technology. With this device we'll be able to achieve anything!
+$p0006:             Well, maybe we'll be able to contact the Xengatarn directly and absorb their knowledge and wisdom! Or maybe we'll be able to stop the war once and for all by persuading other humans to follow the Xengatarn! In other words, the possibilities are limitless!
+$p0007:             Okay, back to work. I'm creating a device that is capable of detecting ancient alien artifacts over great distances. It can scan an entire planet and show whether it has Ergrek energy signatures or not.
+$p0008:             I invented this device based on Melak's research. Before I show it to him, I want to test it. I'd do it myself, but it's too dangerous out there - there are a lot of pirates and I'm no fighter. I'm a scientist!
+$p0009:             Oh... okay then.
+$p0010:             Great! Take this device and scan at least five different planets with it.
+$p0011:             You did? Let me take a look at the device.
+$p0012:             You are probably confused. There's not enough scanning data on your device. You need to scan at least five planets, remember?
+$p0013:             Great job! That proves that my device is working!
+$p0014:             And you scanned even more planets than I asked for. You really did me a service!
+$p0015:             Thank you, brother. I'm in your debt. Here, take some money... And you know what? You can keep the device! You can get a lot of useful experience with it! Don't worry, I have another one.
+$c0001:             What is your task?
+$c0002:             Why does Melak need these artifacts?
+$c0003:             Like what?
+$c0004:             Don't worry, I will gladly help!
+$c0005:             Well, maybe another time.
+$t0001:             Need help?
+$t0002:             Scanned planets
+$q0001:             Scanning planets
+$q0002:             Brother Luke gave me a special device for scanning planets. I need to scan at least five planets with it and then return to Luke.
+$q0003:             I've successfully delivered the scanning results to Brother Luke. He was very grateful.
+$q0004:             I've successfully scanned 5 planets. Now I should get back to Brother Luke and give him the data I collected.
+$q0005:             I've scanned 10 different planets now. I should really return to Brother Luke and report in.

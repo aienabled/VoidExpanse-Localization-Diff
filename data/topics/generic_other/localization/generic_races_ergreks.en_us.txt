@@ -1,0 +1,5 @@
+﻿$p0001:             Well, that's enough material for a history lesson. For all we know, the Ergreks were a highly developed alien race, which inhabited our galaxy long before humanity. We can still find remains of their civilization all over our colonies.
+$p0002:             In fact, an Ergrek wreck and the technology found inside allowed humanity to advance so quickly in interstellar travels and colonize this part of the galaxy.
+$p0003:             No one knows. We've only seen the ruins of their civilization so far, some of which are millions of years old. But nothing suggests that they're still alive.
+$c0001:             Where are they now?
+$c0002:             That's all I needed to know.

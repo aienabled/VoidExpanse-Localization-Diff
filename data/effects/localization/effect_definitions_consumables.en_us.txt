@@ -1,0 +1,5 @@
+﻿$use_military_consumables_title:           Military consumables usage ability
+$use_experimental_consumables_title:       Experimental consumables usage ability
+$consumables_structure_repair_title:       Structure repair consumables
+$consumables_shield_restore_title:         Shield restore consumables
+$consumables_energy_recharge_title:        Energy recharge consumables

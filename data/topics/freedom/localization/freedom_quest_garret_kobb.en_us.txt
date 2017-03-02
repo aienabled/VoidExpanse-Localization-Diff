@@ -1,0 +1,76 @@
+﻿$p0001:             I'm still waiting for the results.
+$p0002:             You were right! The drive was hidden in his quarters!
+$p0003:             Thank you for your help! Here's your reward for catching the bastard. Good work!
+$p0004:             I'm still waiting for the results. Come back later.
+$p0005:             You were right! The drive was hidden in his quarters!
+$p0006:             Thank you for your help! Here's your reward for catching the bastard. I will also report this to Jeredan. Good work!
+$p0007:             What crime do you want to report?
+$p0008:             Let me take a look at it.
+$p0009:             But... it's my banking information... my passwords... private data... How did he get it?
+$p0010:             Doesn't matter. He will pay for this, trust me! Here's your reward for catching the bastard. I will report this to Jeredan. Good work!
+$p0011:             Classified information you say? Hmmm...
+$p0012:             I knew there was something wrong with this guy. Okay, I'll initiate a search of his quarters. Come back later and I'll let you know what turns up.
+$p0013:             Classified information you say? Hmmm...
+$p0014:             That's strange. I have known this Garret for a long time. He is sneaky, but I always thought he was harmless... Okay, I will initiate a search in his quarters. Come back later, and I'll tell you the results.
+$p0015:             Well, why not, my dear friend! You look like a smart person, one who wouldn't pass up an opportunity to earn some money.
+$p0016:             Good! You see, I have a delicate problem here... If you help me, I'll make you a rich person! Well, at least richer than you are now.
+$p0017:             Well, strictly speaking, it's not entirely legal. But, in days like these, you have to learn how to survive, am I right?
+$p0018:             Well, let me know if you change your mind. Okay?
+$p0019:             Great! Now, let me tell you about my little problem.
+$p0020:             You see, I've been doing business around this station for a while now. Started even before this whole Lockdown and Xengatarn stuff.
+$p0021:             I'm an honest fence. Well, as honest as possible given my profession. All my customers are always satisfied with my work.
+$p0022:             Right. And suddenly this moron, Kobb, shows up. A fence like me, but younger, handsomer, and he offers better prices for salvaged stuff! Now some of my customers don't want to work with me anymore. Why do you think that is?
+$p0023:             You don't say! And I can't just allow this skinny bastard to push me out of business, right?
+$p0024:             So, I have a plan. Involving you, of course! You approach this bastard Kobb with an offer he can't refuse and try to sell him this data drive.
+$p0025:             Nothing special, just some personal information belonging to the local Station Commander. But Kobb will buy it gladly. Oh yes, he will! He likes to collect certain... leverages. And after you sell it report him to the Station Commander!
+$p0026:             Kobb will pay a large fine and lose reputation, which will squeeze him out of this business. And I get all my customers back! It's as easy as that!
+$p0027:             Here, take this data drive. And remember - I'm counting on you!
+$p0028:             Did you? Ha-ha! Well done, my friend!
+$p0029:             You've earned my eternal gratitude...and, probably some money too, right? Ha-ha…
+$p0030:             So, you're selling? A data drive... What's on it?
+$p0031:             Okay, let me see...
+$p0032:             Where did you get this?! This information is private, and it belongs to the Station Commander!
+$p0033:             Indeed I am! I'll take it! I can pay you 500d for this drive. What do you say?
+$p0034:             Ha! Deal!
+$p0035:             Pleasure doing business with you! Come back if you have more sensitive information to sell - you know I'll pay you generously!
+$p0036:             He's always after me. Pitiful moron. He's too old for this kind of business. He's a turtle and I'm a shark! I'll squeeze him out of business in no time.
+$p0037:             Did he? Well, I certainly didn't see it coming. Turtle has teeth after all.
+$p0038:             You know what you should do? Give me this data drive. I'll find a way to plant it in Garret's quarters. Then you go to the Station Commander and report to him that you saw someone sell this drive to Garret.
+$p0039:             And this bastard will taste his own poison. Ha-ha, that will teach him not to mess with me!
+$p0040:             I told you this would work! Now, with Garret out of my way, there's nothing standing between me and all the money in this world!
+$p0041:             Figuratively speaking, of course.
+$p0042:             Now listen. I won't give you any money for your deed, but I am going to help you. I'm Selek Jeredan's cousin, and he listens to my opinion, well most of the time anyway. So, I will tell him about you and how you've helped me.
+$c0001:             Garret is trying to set Kobb up. He gave me this drive to plant on Kobb.
+$c0002:             I saw Kobb buying a data drive with some classified information. You should investigate.
+$c0003:             I saw Garret buying a data drive with some classified information. You should investigate.
+$c0004:             You're absolutely right!
+$c0005:             Oh, well...
+$c0006:             What's the catch?
+$c0007:             Okay, what do I have to do?
+$c0008:             No, forget about it.
+$c0009:             Okay, you're an honest fence. I got it.
+$c0010:             Because now they're working with Kobb?
+$c0011:             And what's on this data drive?
+$c0012:             Oh, you'll find it interesting! Take a look for yourself.
+$c0013:             Garret is after you.
+$c0014:             I thought you might be interested in it.
+$c0016:             [Persuade] 2000d, no less.
+$c0017:             Okay, 500d seems like a fair price. Here, take the drive.
+$c0019:             Ehm... Okay, shark. I'd like to sell you something.
+$c0020:             Garret gave me this data drive. He wanted me to sell it to you and then report to the Station Commander that you had it.
+$t0001:             Need help?
+$t0002:             Framed Kobb
+$t0003:             Data drive
+$t0004:             Framed Garret
+$t0005:             Search results
+$t0006:             Report a crime
+$q0001:             Business rivalry
+$q0002:             I framed Kobb and received my reward from the Station Commander, I should get back to Garret and tell him about it.
+$q0003:             I framed Garret and received my reward from the Station Commander. Jeredan should know about it too. I should get back to Kobb and tell him about it.
+$q0004:             I've told the Station Commander about Garret's plot and received my reward. Jeredan should know about it too.
+$q0005:             I've done everything Garret instructed. I'll give it some time then come back to the Station Commander to make sure everything went well.
+$q0006:             I've done everything Kobb instructed. I'll give it some time then come back to Station Commander to make sure everything went well.
+$q0007:             One of the local fences, Garret, offered me an interesting job. I need to sell secret data to the other local fence - Kobb - and then report this to Station Commander. What should I do?
+$q0008:             I've sold the data drive to Kobb. Now I should report him to the Station Commander.
+$q0009:             I've told Kobb about Garret's plan. Kobb took the data drive to plant it in Garret's quarters. Now I should report Garret to the Station Commander.
+$q0010:             Kobb was indeed grateful. He didn't give me any money, but he promised to put in a good word for me with Selek Jeredan. That's gotta be worth at least something I guess...

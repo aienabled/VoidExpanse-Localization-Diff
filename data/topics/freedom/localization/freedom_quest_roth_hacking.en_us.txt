@@ -1,0 +1,41 @@
+﻿$p0001:             Why? You looking for a job?
+$p0002:             I might have something for you. As you know, Freedom are now at peace with the Order, but this peace is just a formality.
+$p0003:             There are rumors that the Order is bringing together a special unit of operatives - to work against Freedom, disrupt our operations. In other words, they want to put a wrench in our gears.
+$p0004:             This is a source of constant concern for our mercenaries. And you don't want these guys to get nervous, do you?
+$p0005:             They see us as a constant pain in their ass. And, as a rival power here in the Far Colonies, It it entirely possible for them to want to get rid of us.
+$p0006:             Anyway, do you want to help or not?
+$p0007:             So, I'm eager to find out the truth about this special unit. And you can help me with that!
+$p0008:             Information about this unit is hidden somewhere in the Order computer network. I cannot get in, of course, as my face is widely known to the Order officers. But you can get inside the Order's stations no problem!
+$p0009:             I will give you a special hacking device - our own special design. You will use it on the Order's terminals and extract their military data. Of course, it will be encrypted, so you won't be able to tell whether you have the necessary information or not.
+$p0010:             So, you'll have to hack at least three different terminals in the Order's capital. By having several of the data banks we will be able to extract enough information to learn about their plan.
+$p0011:             So, are you in?
+$p0012:             If you change your mind - find me. I'll make it worth your while.
+$p0013:             Excellent. Here's the hacking device and coordinates. Once you have extracted all the data, get back to me immediately.
+$p0014:             Really? Let me take a look.
+$p0015:             Yes, that's exactly what I needed! I'll give this data to our tech guys, and we'll soon find out whether this secret unit exists or not.
+$p0016:             Here's your reward. I will send a word about your help to Jeredan.
+$p0017:             Come back some time. I might need your help again.
+$p0018:             Military data access: permission denied.
+$p0019:             Permission granted. Initiating download...
+$p0020:             Download completed!
+$p0021:             Error: Unhandled exception occurred. Please contact the system administrator or reboot the system.
+$c0001:             Sure.
+$c0002:             Definitely not.
+$c0003:             Why do you think the Order might be doing this?
+$c0004:             Sure, please continue.
+$c0005:             Okay, let's suppose I can get inside the Order station. Then what?
+$c0006:             I'm in.
+$c0007:             I need to think about it.
+$c0008:             ( Hack terminal with Roth's device )
+$c0009:             ( Press buttons randomly )
+$c0010:             ( Step away from the terminal )
+$c0011:             ( Press reboot button )
+$c0012:             ( Step away from the terminal )
+$t0001:             Need help?
+$t0002:             Got the data
+$t0003:             Military data
+$q0001:             Hacking Order
+$q0002:             Mercenary Roth gave me a task to go to the Order's capital, the %system% system, and download classified military data from their secure servers with his special hacking device. I need to visit all three stations and hack the computer terminals in each of them.
+$q0003:             I've brought the encrypted data to Mercenary Roth and received my reward.
+$q0004:             I downloaded the encrypted data from the terminal on station %station%.
+$q0005:             I have downloaded all the encrypted military data. Now I should get back to Mercenary Roth and give this data to him.

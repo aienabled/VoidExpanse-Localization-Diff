@@ -1,0 +1,34 @@
+﻿$p0001:             Well, it depends. Do you know anything about sub-dimensional transmitters?
+$p0002:             Well, I can tell you a lot about them then. They use energy concealed in dark matter to transmit data through nano-wormholes to their destination. All of our communication technologies will be based on these little things soon.
+$p0003:             This technology is brand new and there aren't many people out there who know much about it.
+$p0004:             In fact, I do. You see, I've built a small receiver which is capable of receiving these sub-dimensional waves.
+$p0005:             But I have a problem with it. In shielded areas it works like it's supposed to, but in the 'real world' it doesn't work at all - too much interference. It's like something is disrupting it.
+$p0006:             So, I've triangulated the position of the interference sources. It appears there are two unidentified sub-dimensional transmitters in this very system that are blocking my device!
+$p0007:             Yes, and of significant power! I'm sure it's an alien technology!
+$p0008:             Yes, I think so. Ergrek transmitters couldn't survive for so long and still be intact. Good thinking!
+$p0009:             Nah, I don't think so. Ergrek transmitters couldn't have survived for so long and still be operational.
+$p0010:             Anyway, I need someone to go and check these devices. Can you do that for me?
+$p0011:             Well, if my assumptions are correct and they are Xengatarn spy devices, then yes, destroy them.
+$p0012:             And good luck!
+$p0013:             So, how did it go?
+$p0014:             Well of course they had these devices guarded! What did you expect?
+$p0015:             Really? I expected trouble from our alien friends...
+$p0016:             Well, I'm glad it all ended well. The alien transmitters are destroyed and we feel safe and secure again! And all thanks to you, my friend!
+$p0017:             I can go on with my experiments without interference now.
+$p0018:             Here, I have a small reward for you. And I'll tell Jeredan about you. He will appreciate your success in this mission.
+$c0001:             Of course! It is... erm. No, I have no idea.
+$c0002:             Not really.
+$c0003:             Okay, whatever. So, do you need any help?
+$c0004:             Unidentified transmitters?
+$c0005:             Xengatarn?
+$c0006:             Ergrek?
+$c0007:             Should I destroy them?
+$c0008:             I was attacked by Xengatarn ships!
+$c0009:             Fine.
+$t0001:             Need help?
+$t0002:             Disabled devices
+$q0001:             Alien eyes
+$q0002:             Looks like the Xengatarn are spying on Freedom. Mechanic Sheldon calculated positions of two Xengatarn beacons in one of Freedom's systems. I need to make sure these beacons won't do any damage.
+$q0003:             I've disabled all Xengatarn spy devices. Now I should deal with the Xengatarn ships, which are after me.
+$q0004:             I've destroyed all Xengatarn scout ships. I should get back to Sheldon and tell him that the alien devices are destroyed.
+$i0001:             Xengatarn

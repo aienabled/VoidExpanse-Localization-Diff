@@ -1,0 +1,13 @@
+﻿$p0001:             Sorry, I don't have anything for you right now. Besides, you already have a lot of tasks. Complete them first, and then come back - and then maybe I'll have something for you.
+$p0002:             I've already given you a task. I don't have any more tasks right now.
+$p0003:             Sorry, I don't have any more jobs for you at the moment. Come back later.
+$p0011:             I don't have any jobs at the moment. Ask me later.
+$p0004:             Right now I've got an urgent delivery job for you. Interested?
+$p0005:             Right now I've got a bounty contract for you. Interested?
+$p0006:             Right now I've got a mining contract for you. Interested?
+$p0007:             I have an urgent rescue mission for you. Will you take it?
+$p0008:             I have an escort mission for you. Interested?
+$p0009:             I have a difficult trading task for you. You're gonna have to buy a large amount of goods and deliver them to a certain station. It will require a lot of money from you and a large vessel with spacious cargo. Do you think you can handle it?
+$p0010:             Too bad. Well, we have to find someone else for the job then.
+$c0001:             Yes.
+$c0002:             No.

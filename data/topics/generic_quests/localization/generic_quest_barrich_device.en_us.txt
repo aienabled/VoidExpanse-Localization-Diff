@@ -1,0 +1,88 @@
+﻿$p0001:             Well, hello there! I'm always glad to meet new people! Who are you and what brought you to this place?
+$p0002:             There's nothing interesting here, my friend. Trust me. That's the main reason why I ended up in such a place.
+$p0003:             Oh, I forgot my manners... The name is Barrich, I own this place. Well, what's left of it anyway.
+$p0004:             Oh, okay... Safe travels!
+$p0005:             Nice to meet you too! It's good to meet a polite person after so much time in this hole. Recently I had some business with one of the mercenaries - such savage folk they are, I tell you.
+$p0006:             Well, I used to be an engineer before... the Xengatarn incident. And this merc needed my help with a special device. He wanted to travel through the blocked jumpgates to Xengatarn territory, and I helped him.
+$p0007:             Well, I'm telling you the truth.
+$p0008:             Yes, I do. I studied jumpgate technology for more then 20 years, and I dare say I penetrated their secrets more deeply then any human being.
+$p0009:             I will not bother you with scientific details and formulas, though.
+$p0010:             Oh, okay then... You see, all jumpgates are paired. They are connected with each other via a special sub-dimensional comm link.
+$p0011:             Human engineers use this link, but don't really understand how it works. The Xengatarn understand it much better. They are using some kind of biomagnetic field to interrupt this link. Without this link jumpgates simply won't work.
+$p0012:             I've found a way to enhance the signal, multiplying it's strength for a short period of time. Xengatarn fields cannot sever such a strong sub-dimensional connection, so the jumpgate allows one to travel through it once again.
+$p0013:             Looking for me? Can I ask why?
+$p0014:             I could help you... But why, for god's sake, do you want to travel to Xengatarn territories? You'll be blasted on sight!
+$p0015:             It looks like suicide to me... But okay, I will help you.
+$p0016:             The only way to travel through infested jumpgates is to maintain a strong connection between paired jumpgates. But I could create a special device for you that will do the job.
+$p0017:             I have a small problem, though...
+$p0018:             What? Of course not, why would I need money in a place like this?
+$p0019:             To maintain such a strong connection, the device needs huge amounts of energy. No generator made by humans can provide such a supply.
+$p0020:             I didn't say that. There is a way.
+$p0021:             On the latest generation of battleships our human engineers used energy sources which were provided by Nharmars. These power sources are far worse than ones they use themselves, but they're substantially better than any human-made ones.
+$p0022:             The fleet that was sent to destroy the Xengatarn had several capital ships with Nharmarian energy sources equipped. Of course, many of them were destroyed during the battle, but perhaps you'll get lucky and find at least one of them still intact.
+$p0023:             Well, to my knowledge, when the Federation sent the Suppression Force to wipe out the Xengatarn, one of the largest battles took place in the %system% system.
+$p0024:             Most of the human ships were destroyed that day, but some of their parts, engines, power sources, and weapons may still be intact.
+$p0025:             If you want me to create this device for you, you need to go to the %system% system and look for Nharmarian energy sources. Bring me one, and I'll create a device that will allow you to travel into Xengatarn territories.
+$p0026:             Hmmm... let me think about that...
+$p0027:             Well, I could give you my special detector. It's calibrated to detect Nharmarian energy signatures. It would tell you whether a Nharmarian device is close to your ship or not.
+$p0028:             Unfortunately, it cannot triangulate an exact position... But I suppose you will figure something out.
+$p0029:             So, here's your task. Go to the %system% system, find a Nharmarian energy source, and bring it to me. Then I'll create a special device for you that will allow you to travel into Xengatarn territory.
+$p0030:             Have you already found a Nharmarian energy source?
+$p0031:             No? Well, you should hurry then! Maybe at this very moment one of these mercenaries are already dragging the last one to his fence to sell it. Who knows?
+$p0032:             Well, I guess I can give you another detector... And I hope this time you won't lose it again!
+$p0033:             So, any luck finding the energy source?
+$p0034:             Well, keep looking! I believe in you!
+$p0035:             Let me take a look...
+$p0036:             Marvellous! In perfect condition!
+$p0037:             As you can see, it consists of many separate modules. I will take one of them for your device and keep the others for myself. If anything happens to your device - come back to me, and I'll create another one for you.
+$p0038:             Now wait a second, I'll connect the energy module to the device...
+$p0039:             Ready! Here, take it. It's yours now!
+$p0040:             Install this device on your ship and you'll be able to travel through any Xengatarn-blocked jumpgate!
+$p0041:             What? Something happened to your device? It's broken?
+$p0042:             Thank god. I thought you accidentally sold it to some merchant or lost it somewhere in space...
+$p0043:             I can create another one for you, but not for free. It will cost you 1000d. Deal?
+$p0044:             Okay. I'll be here.
+$p0045:             Well, come back when you have it.
+$p0046:             Here's your device.
+$c0001:             I was looking for you actually.
+$c0002:             Just exploring this part of the galaxy.
+$c0003:             Nice to meet you, Barrich.
+$c0004:             I think I'd better be going now.
+$c0005:             What sort of business?
+$c0006:             You really know how to travel to Xengatarn territories?
+$c0007:             I don't believe you.
+$c0008:             You really know how to travel to Xengatarn territories?
+$c0009:             But I want to know the details!
+$c0010:             Can you help me travel to Xengatarn territories?
+$c0011:             Can you help me travel to Xengatarn territories?
+$c0012:             Can you help me travel to Xengatarn territories?
+$c0013:             I want to do some reconnaissance of the enemy territory.
+$c0014:             I want to kill as many aliens as possible.
+$c0015:             Money?
+$c0016:             What problem?
+$c0017:             So, you can't help me after all?
+$c0018:             Where should I look for these energy sources?
+$c0019:             How can I find this energy source among all the wrecks? I'm not exactly a ship designer...
+$c0020:             I lost the energy scanner…
+$c0021:             Here it is.
+$c0022:             Not yet.
+$c0023:             ( wait )
+$c0024:             No, everything is okay.
+$c0025:             Yes, I need another one.
+$c0026:             Deal.
+$c0027:             I don't have 1000d.
+$c0028:             Maybe another time.
+$t0001:             Hello
+$t0002:             Energy source
+$t0003:             Energy source
+$t0004:             Energy source
+$q0001:             Energy source
+$q0002:             A scientist, Barrich, can create a special device for me which will allow me to travel through blocked jumpgates. But first I need to find a special Nharmarian energy source for him. Barrich gave me a scanner that can detect Nharmarian energy signatures. I should equip this device and go to the %system% system to look for the energy source.
+$q0003:             I brought the Nharmarian energy source to Barrich, and he created a device for me that allows me to travel through Xengatarn-blocked jumpgates.
+$q0004:             I've got the Nharmarian energy source. Now I need to bring it back to Barrich at %station% in the %system% system.
+$n0001:             Inventory is full
+$n0002:             You cannot take the energy source because your inventory is full.
+$n0003:             Inventory is full
+$n0004:             You cannot take the device because your inventory is full.
+$n0005:             Inventory is full
+$n0006:             You cannot take the energy source because your inventory is full.

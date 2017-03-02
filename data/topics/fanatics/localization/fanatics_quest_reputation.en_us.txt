@@ -1,0 +1,71 @@
+﻿$p0001:             Yes, it's not a secret that other factions hate us. So what?
+$p0002:             When the Xengatarn come to save us, they will judge and condemn most of them.
+$p0003:             Hey! You sound just like Brother Daniel!
+$p0004:             He too speaks of peace with other factions. But I don't think it is possible - they are sinful and corrupt...
+$p0005:             He's in the %system% system, on station %station%.
+$p0006:             He is on this very station right now!
+$p0007:             You noticed that too, huh? Everybody literally hates us!
+$p0008:             And, given the situation, I can understand why. But why do you care?
+$p0009:             See ya!
+$p0010:             That's a good sign! Maybe you're not completely lost after all.
+$p0011:             The name's Danny. I've been around here for a while now, so I know a lot about these lunatics.
+$p0012:             And I'm not taking this alien crap seriously. Do you?
+$p0013:             Oh, gee... And you seemed like a sane person...
+$p0014:             Do us both a favor and get lost.
+$p0015:             That's my %sex(man,girl)%!
+$p0016:             You're probably asking yourself, what on earth does this charming man do among these lunatics? Well, let me tell you a story. The short version.
+$p0017:             I was a major dealer around here, even before the Xengatarn showed their teeth. I worked with Jeredan, Federation thugs, whoever - in other words, prospered.
+$p0018:             When Order and Freedom showed up, I managed to establish trade connections within both factions. I gained some benefits from the current situation.
+$p0019:             I had a... slight misunderstanding with Troyden and his thugs. Now I have a bounty on my head so high that I'm seriously considering to sell myself out.
+$p0020:             It was a joke, got it? And you were supposed to laugh! Ah, nevermind...
+$p0021:             Long story short, I made a deal with Melak. I knew him from the old days. Now he gives me protection, and I help him with the other factions.
+$p0022:             I know a lot about the people in the Order and Freedom factions. If Melak needs something that he can't get here, it's myself who makes all the necessary arrangements.
+$p0023:             And I'm also helping to manage our faction reputation...
+$p0024:             Well, our brave fanatics never hesitate to attack the so-called \"unbelievers\", so our situation is a mess. Now we can't get close to other the factions - they blast us on sight.
+$p0025:             But, there's nothing in our world that a good old \"advertisement\" can't fix.
+$p0026:             Indeed I do. As I've already said, I know some important people in both factions. All we need to do is bribe them so they put in a good word about us within their factions - and it is done!
+$p0027:             Well, at least until our fanatics go blasting some more of their people again...
+$p0028:             Leave the thinking to professionals, mate.
+$p0029:             Trust me, I know what I'm doing!
+$p0030:             Hey! Stop insulting me! I know what I'm doing!
+$p0031:             But I need some help...
+$p0032:             It's easy. All you need to do is acquire some items of interest for my friends in the Freedom faction, and some influential people not affiliated to any faction. I'm limited in my freedom of movement because of the bounty on my head, but you can travel freely.
+$p0033:             That's how it works. You are going to bring me some things. Then I make the necessary arrangements and voila! Our reputation among the Freedom faction and neutrals increases! Not the Order however. Those guys are too rigid with their military dogma.
+$p0034:             If you're up for the task - you just need to ask!
+$p0035:             First we need to prove to them that our fanatics have changed. And second, we need something to bribe them with.
+$p0036:             So, what's the best thing to bribe them with? Luxuries of course! And what's the best thing to prove to them that we are not alien worshippers anymore? Blast some aliens and have some proof of it.
+$p0037:             Then I'll make sure that it'll end up in the right hands. The hands of people who can influence others, to be precise.
+$p0038:             The bottom line is - bring me at least 5 packages of luxurious goods and at least one alien organ that looks like a mushroom with tentacles. I believe you can get them from destroyed Xengatarn ships.
+$p0039:             So, did you bring me 5 packages of luxurious goods and one alien brain… thing?
+$p0040:             Seriously, you're giving me a headache.
+$p0041:             Well, that's the difficult part. Sorry buddy, but you are on your own. Eventually you will find everything we need, just keep looking!
+$p0042:             Great! Took you some time to find it, though. But the important thing is that you did find everything we need!
+$p0043:             Now I can definitely fix our situation with these gifts and some good 'ol ass kissing.
+$p0044:             There's nothing that could fix our reputation with the Order however... but I told you that already.
+$c0001:             Isn't it better to live in peace?
+$c0002:             Totally agree.
+$c0003:             Where can I find this Brother Daniel?
+$c0004:             Totally agree.
+$c0005:             I want to change that. Can you help?
+$c0006:             No reason. Goodbye!
+$c0007:             Xengatarn are our gods!
+$c0008:             Of course not.
+$c0009:             But how did you end up here?
+$c0010:             How exactly do you help him?
+$c0011:             What's the problem with our reputation?
+$c0012:             You have an actual plan to fix this?
+$c0013:             You know... I have some serious doubts that it would work...
+$c0014:             That sounds kind of stupid.
+$c0015:             That's pretty much the dumbest idea I've ever heard!
+$c0016:             Alright, what do you want me to do?
+$c0017:             What things exactly?
+$c0018:             Yes, here they are.
+$c0019:             Where can I find them?
+$c0020:             Not yet...
+$t0001:             Bad reputation
+$t0002:             Rare items
+$t0003:             Requested item
+$t0004:             Bad reputation
+$q0001:             Fanatics reputation
+$q0002:             Brother Daniel asked me to bring him 5 packages of luxurious goods and one alien organ that looks like a mushroom with tentacles, which can be obtained from Xengatarn ships. He said he could fix our reputation with Freedom and Neutrals if he can influence the right people. And I am to help him do it.
+$q0003:             Brother Daniel may be able to help me fix the bad reputation the Fanatics have with other factions. I could find him in the %system% system at %station% station.

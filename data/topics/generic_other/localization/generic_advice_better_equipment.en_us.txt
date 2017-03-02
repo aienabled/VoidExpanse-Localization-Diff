@@ -1,0 +1,3 @@
+﻿$p0001:             Oh, you won't find anything interesting here. This station is a godforsaken place. Even merchants rarely visit it.
+$p0002:             Just check your starmap and look for a system with a high tech level. That's where all the good stuff is. It is displayed as a cog in the system information tooltip when you select a particular system.
+$p0003:             Different station types also have different types of equipment. For example if you need guns - visit a military station. They will have the best assortment of weapons.

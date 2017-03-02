@@ -1,0 +1,62 @@
+﻿$p0001:             You've been a loyal, useful member of our society. And you've earned my trust.
+$p0002:             Now, the time has come for you to play an even more important role for the Freedom faction. I'm going to fill you in with the details of our plan.
+$p0003:             I'm going to start from the beginning. Back in the early exploration days of humanity, there was a small company, Lierocorp. This company specialized in collecting and reprocessing garbage.
+$p0004:             Now it's the most powerful corporation in the world. Do you know how that happened?
+$p0005:             Ha! You are close, but it isn't just that.
+$p0006:             That too, but it's still not the main reason.
+$p0007:             The company discovered an untouched Ergrek ruin while dumping their trash pods on a desolate planet. That happened to be one of the greatest discoveries in the history of humanity, after the discovery of the first jumpgate on Europa, of course.
+$p0008:             Since then, for decades all major corporations tried to lay their hands on Ergrek artifacts across the galaxy. It was a hidden war for the biggest technology corporations.
+$p0009:             Patience, my friend, patience. I'm getting to that.
+$p0010:             Before the Lockdown I was CEO of Gemini Corp. One of our primary tasks was to locate unknown Ergrek technologies and artifacts and secretly retrieve them.
+$p0011:             When humanity reached the Far Colonies and started their expansion here, I invested huge amounts of money and effort looking for Ergrek artifacts in this area.
+$p0012:             And I was rewarded beyond my wildest expectations. One of our miner teams discovered something that could have changed the course of our history.
+$p0013:             A huge Ergrek jumpgate, much bigger than the ones found before.
+$p0014:             That jumpgate not only proved that Ergreks inhabited all corners of our galaxy, but gave us a great opportunity to advance our jumpgate technology research by decades, if not hundreds of years.
+$p0015:             Of course, this ancient jumpgate was in rather poor condition. So I took my team of best engineers and scientists and moved to the Far Colonies to oversee this project personally.
+$p0016:             Then... the Xengatarn defeated our fleet, and infested half of the Far Colonies. I was stuck here...
+$p0017:             It was secretly transported to one of the farthest systems in the Far Colonies. There, my engineers worked on restoring it until the Lockdown happened.
+$p0018:             Their work was almost finished when they were forced to flee. And, I have reasons to believe that the Xengatarn weren't able to find this jumpgate yet - it was well hidden from any form of detection possible.
+$p0019:             So, we have a huge jumpgate with enough power to transport our ships halfway across the galaxy, and it's almost functional. Are you following my plan?
+$p0020:             Exactly!
+$p0021:             I'm going to restore this jumpgate and leave the Far Colonies for good. That's my plan, and you are welcome to join.
+$p0022:             The Xengatarn cannot be defeated. It's time we face it. But it doesn't mean that we all have to stay here and die. We can escape this fate, and I'm going to do my best to make sure that happens.
+$p0023:             First, we must repair this jumpgate. Then we must make sure that our people can reach the jumpgate and escape. And then we must escape ourselves and destroy the jumpgate, so no one can follow us. And by no one I mean the Xengatarn.
+$p0024:             The Xengatarn could use it to transport their ships to Federation core systems and spread across the entire galaxy. We cannot allow this to happen. This jumpgate must be destroyed!
+$p0025:             Oh, the central one, my friend!
+$p0026:             As I've said, we will start with repairing this ancient jumpgate. My engineers have already constructed most of the repair parts we need, but for some of them we don't have the necessary materials.
+$p0027:             Ergrek gravity condensers. We cannot replicate this technology with resources we have at our disposal here. So our only chance is to find them in Ergrek ruins.
+$p0028:             My men have already gathered and traded all they could, but we still need fifteen more of them. And that's your job.
+$p0029:             As I've already told you, my men already searched every bit of the accessible systems. There's nothing left in them. But we couldn't search the Xengatarn territories, because we couldn't reach them - the jumpgates were blocked.
+$p0030:             But now, we have this device of yours that gives you access.
+$p0031:             So, here's your task. Go to the Xengatarn systems and bring me fifteen Ergrek gravity condensers. They exhibit a particular gravitational anomaly, so your radar will easily pick up their coordinates if any are located in the system.
+$p0032:             Good luck. And remember, our lives depend on you. Don't let me down.
+$p0033:             Back already? Gathered fifteen condensers?
+$p0034:             Well, you should hurry up. I've received news that the Xengatarn are gathering their fleet and they might attack soon. If they do, we won't need this jumpgate anymore...
+$p0035:             You do? Fantastic!
+$p0036:             I'll tell my men to unload them from your ship. Well done, I'm impressed!
+$p0037:             Here, take some money and grab a drink. You deserve some rest for sure. Then come back to me for your next task. Spare parts for the ancient jumpgate repairs will probably be ready then.
+$c0001:             I'm listening.
+$c0002:             Blind luck?
+$c0003:             Bribery?
+$c0004:             No idea.
+$c0005:             Go on.
+$c0006:             What does it have to do with me?
+$c0007:             What was it?
+$c0008:             Where is this jumpgate now?
+$c0009:             You want to reactivate this jumpgate and jump from the Far Colonies back to the core systems?
+$c0010:             Why don't you tell me yourself?
+$c0011:             Where do we start?
+$c0012:             Destroy the jumpgate? Why?
+$c0013:             What is my part in your plan?
+$c0014:             What parts do you need?
+$c0015:             Where can I find these Ergrek gravity condensers?
+$c0016:             On my way!
+$c0017:             I will see what I can do.
+$c0018:             Yes, I have them.
+$c0019:             Not yet.
+$t0001:             Your plan
+$t0002:             Condensers
+$q0001:             Ergrek gravity condensers
+$q0002:             I should travel to Xengatarn systems and search for ancient gravity condensers. I need to gather fifteen of them and bring them back to Selek Jeredan.
+$q0003:             I delivered Ergrek gravity condensers to Selek Jeredan, and he was very pleased with my work. Now I should rest a bit and then return to him for my next task.
+$q0004:             I've gathered fifteen Ergrek gravity condensers. I should bring them to Selek Jeredan as soon as possible.

@@ -1,0 +1,83 @@
+﻿$p0001:             Hm, yes, we study Xengatarn technology here. What do you want to know?
+$p0002:             No, wait. Actually... do you happen to have any alien artifacts? Or maybe some pieces of their ships or anything like that?
+$p0003:             Oh! That is just perfect. We really need many more of these artifacts to make any noticeable progress.
+$p0004:             We study them in hopes of gaining an upper-hand in this war. There aren't many scientists left here in the Far Colonies, but all of them work hard towards this common goal.
+$p0005:             There are mainly two types of artifacts you can encounter here in the Far Colonies. Ergrek devices would be one and remains, or I should say organs, from Xengatarn ships. Both are equally valuable to us.
+$p0006:             Ergrek artifacts are what's left of that long gone civilization. Nowadays, they command a hefty price on the black market so there is always a high demand.
+$p0007:             Even though most of these artifacts are complete garbage and broken after the millions of years since the Ergrek vanished, sometimes we are able to extract valuable information from them.
+$p0008:             So, we're certainly trying to get as many of these artifacts as we can to progress our research.
+$p0009:             These organs are often left from destroyed Xengatarn ships. They use organic matter for most of their technology, including ships and other devices.
+$p0010:             These are their parts, parts of their mechanisms, or rather organisms. We study them relentlessly, but we are still far away from finding out how exactly they work together.
+$p0011:             Either way, we're trying to get all the Xengatarn organs we can to further our research.
+$p0012:             Brilliant! And to facilitate our transaction history we will award you with \"science points\". Don't worry, it's just a name for convenience.
+$p0013:             For every Xengatarn organ or other artifact you bring to any science station here in the Far Colonies you will get a certain amount of science points.
+$p0014:             So, even though we can't pay you money we could create something useful for your ship or help you in some other way.
+$p0015:             Okay, anytime you wish to donate anything for research just talk to me or any other of the Chief Scientists on other stations.
+$p0016:             Ready to serve science?
+$p0017:             Simple. You bring us Ergrek artifacts or Xengatarn organs and we award you with science points.
+$p0018:             When you've accumulated enough, you can ask us for services. We might be able to create something useful for your ship.
+$p0019:             My records say your current balance is %amount% science points.
+$p0020:             Ah, great! Let me see...
+$p0021:             Looks like you have %count% items in your ship I could find useful for our research. I can give you %reward% science points for that. Is that okay?
+$p0022:             Looks like you don't have anything useful for our research. Come back when you have something we could use.
+$p0023:             Okay, your %count% science points have been successfully recorded on your account. Your current total is %total%. Good job! Come back if you have more.
+$p0024:             Sure, what will it be?
+$p0025:             "I can offer you the following. Choose anything you want:
+                    Radar booster - improves radar range
+                    Warp booster - improves your jump distance and recharge speed
+                    Military radar booster - improves combat properties of your radar
+                    Fuel optimizer - reduces fuel usage
+                    And best of all, our latest invention based on Xengatarn and Ergrek technology - the Hull Regenerator - a special system that will slowly restore all structural damage to your ship."
+
+$p0026:             But remember, these are very advanced boosters. To use them you need some engineering skill.
+$p0027:             We can offer you a pilot course using our holodeck. It will make you more experienced. You will get more... you know, experience.
+$p0028:             We have several courses available depending on your preferences. The longest being the most effective.
+$p0031:             Looks like you don't have enough science points on your account...
+$p0029:             ...
+$p0030:             Okay, you're done. I've also deducted %points% points from your account. Come back again anytime you want to train more!
+$p0032:             Here, your new booster module is awaiting you in your storage. I've also deducted %points% from your account. Thank you and come back again anytime!
+$p0033:             Looks like you don't have enough science points on your account...
+$p0034:             Huh, hard to learn anything new because you already know too much? We can help you with that (and recover all of your skills points), but only for a decent amount of science points (%science_points_required%)... or we can make an exception and accept some funds to further our research (%money_required%d). What do you say?
+$p0037:             Okay, you're done. Your memory is now free to accept any new skills you wish to acquire. So, you have a lot of potential to learn something new. It's your second chance!
+$p0035:             I've also deducted %points% science points from your account.
+$p0036:             Looks like you don't have enough money. Sorry!
+$c0001:             What do you need them for?
+$c0002:             In fact, I do.
+$c0003:             Actually I've got to go. Talk to you later.
+$c0004:             Tell me about Ergrek devices.
+$c0005:             Tell me about Xengatarn organs.
+$c0006:             Tell me about Xengatarn organs.
+$c0007:             Okay, I could try to get more of them for you.
+$c0008:             Tell me about Ergrek devices.
+$c0010:             Sounds good.
+$c0011:             I have something you might find useful for your research.
+$c0012:             Can you remind me how this science thing works?
+$c0013:             How many science points do I have currently?
+$c0014:             I want to spend my science points.
+$c0015:             No, not this time.
+$c0016:             Okay, let's begin then.
+$c0017:             Next time then.
+$c0018:             Okay.
+$c0019:             Yes, you can take these.
+$c0020:             No, I would rather keep them for myself.
+$c0021:             Great.
+$c0022:             I want something for my ship.
+$c0023:             I would like to visit your holodeck.
+$c0024:             Nothing at the moment.
+$c0025:             I will take the Radar booster (50).
+$c0026:             I will take the Warp booster (70).
+$c0027:             I will take the Military radar booster (100).
+$c0028:             I will take the Fuel optimizer (100).
+$c0029:             I will take the Hull Regenerator (500).
+$c0030:             I've changed my mind, maybe next time.
+$c0031:             I'm interested in the longest course (300).
+$c0032:             I'm interested in the medium course (120).
+$c0033:             I'm interested in the short course (50).
+$c0035:             Can you clear my skill memory with holodeck?
+$c0034:             I've changed my mind. Maybe next time.
+$c0036:             [Reset character skills] I will spend science points (%science_points_required%)
+$c0037:             [Reset character skills] I will pay money (%money_required%d)
+$c0038:             No, thanks.
+$n0001:             Skill reset
+$n0002:             Character skill points reset.
+$c0009:             Okay, I could try to get more of them for you.

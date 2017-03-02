@@ -1,0 +1,6 @@
+﻿$x0001:       Generating systems
+$x0002:       Generating links
+$x0003:       Generating factions
+$x0004:       Calculating levels
+$x0005:       Generating system objects
+$x0006:       Final preparations

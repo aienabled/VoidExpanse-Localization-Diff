@@ -1,0 +1,108 @@
+﻿$p0001:             Yes, what about them?
+$p0002:             You do, huh? Well, I can't even imagine why you'd do something like that, but it's your choice.
+$p0003:             I can help you with that. But first you need to make it worth my while.
+$p0004:             Well, as you know Fanatics don't like strangers. They usually blast them on sight, which makes it somewhat difficult to negotiate anything.
+$p0005:             But I do some business with them on the side, so they trust me. And my couriers, of course.
+$p0006:             So, if you help me, I'll make you my courier. Then you'll be able to talk to them, and if they are in the mood they'll take you.
+$p0007:             Ah, nothing special. One of my couriers was killed earlier this week and I've lost a couple of ancient alien artifacts. I need them replaced so I can sell them to the Fanatics.
+$p0008:             The deal is simple. Bring me two alien relics and I'll make you my courier.
+$p0009:             So, did you bring me two alien relics?
+$p0010:             No? You do remember our deal, right? I need TWO ancient alien artifacts. No less. Return to me when you have them.
+$p0011:             Ah, great! Now, back to business. I will send word to the Fanatics about you. They won't shoot you on sight and will listen to what you have to say. Use this chance wisely.
+$p0012:             You should find a man named Dostan. He's one of their so called Guardians, apparently – a high rank in their faction. He's on %station% station in the %system% system.
+$p0013:             Alien artifacts usually can be found in special secured crates in almost every system. They're marked as yellow dots on your system map. You just have to look for them.
+$p0014:             Well well well. If it's not Mannis' newest courier. And now you want to join us? What do you know about us? Do you even know who we are?
+$p0015:             Wrong guess. So, you know nothing. And still you want to join us. May I know why?
+$p0016:             You... feel? That's unusual. First, let me tell you a couple of things about us.
+$p0017:             Humans are the worst, filled with hunger, lust, and desire to kill each other. That's as simple as it is, and nothing can fix it. I cannot logically explain why I didn't understand this earlier, but I do now. And so will you.
+$p0018:             When the Xengatarn liberated the Far Colonies, all they wanted was to enlighten us, to bring us peace. But the Federation sent their stupid forces to kill, to crush them. The Xengatarn were forced to retaliate.
+$p0019:             But they didn't give up on us. They used their sacred technology to save some of us who deserved to be saved. With this blast of knowledge, some people suddenly understood the truth about humanity - that humans are nothing more than a blight, and they need to be purified.
+$p0020:             I was among those lucky ones, who were granted the blessing of knowledge.
+$p0021:             For some time we were clueless, wandering around with no purpose. And then HE found us. Arthur Melak — our leader and prophet. He was the only one to whom the Xengatarn granted the power to truly listen and understand them.
+$p0022:             Only he can hear their words clearly and pass them on to us. After Arthur Melak arrived, we found a new purpose.
+$p0023:             Now, we all are following the sacred words of the Xengatarn, passed to us by their prophet, Arthur Melak.
+$p0024:             Now our scouts are looking for ancient Ergrek artifacts and bringing them to Arthur Melak.
+$p0025:             That day, he walked among us and everyone he touched could hear the sacred words of the Xengatarn too. They spoke to us with pictures and images, and they told us to obey Arthur Melak, that he will lead us to salvation. He is not a false prophet, but a true one!
+$p0026:             Order thugs believe in force and violence. They're arrogant and brutal.
+$p0027:             Freedom are greedy and ignorant. They're only thinking about themselves, a true embodiment of human nature.
+$p0028:             I do know it, but I have no intentions to discuss it with you.
+$p0029:             The question is, do you believe in our prophet, Arthur Melak? Do you believe in our cause? Do you TRULY want to join us?
+$p0030:             I thought so. You're not ready yet.
+$p0031:             You just need to answer a set of questions. All of them are from the sacred speech, which the Xengatarn granted us through the Prophet. If you answer them correctly, we will gladly accept you.
+$p0032:             Here are the questions:
+$p0033:             Who are you?
+$p0034:             What do you dream of?
+$p0035:             What are you waiting for?
+$p0036:             What is leading you?
+$p0037:             Well, that's the trick, isn't it? You need to learn the answers by yourself, to feel them. And in that my brothers will be happy to help. You just have to ask them.
+$p0038:             You're to begin your journey of salvation here. Come back when you learn all four answers - and we will talk.
+$p0039:             Are you ready to give the answers?
+$p0040:             Who are you?
+$p0041:             What do you dream of?
+$p0042:             What are you waiting for?
+$p0043:             What is leading you?
+$p0044:             You've answered correctly. And you've earned respect among my brothers. What you've just said comes from a speech where Arthur Melak passed on to us parts of the message from the Xengatarn.
+$p0045:             Now I see that you're devoted to our cause. So I'm giving you a chance to join us. What do you say?
+$p0046:             I understand. Take your time.
+$p0047:             Then... Welcome! Now you're one of us! Congratulations, brother.
+$p0058:             And now, since you are one of us we are happy to give you one of our ships - Stingray Mk2. You can find it waiting in your storage on this station!
+$p0048:             Sure, I will help you! What's the first question? \"Who are you\"? It's rather simple.
+$p0049:             The answer is: \"I'm nothing\". Humans are low, dirty creatures, and we have no value to the universe and global history. We are nothing. It's essential to understand this fact.
+$p0050:             Of course I'll help, brother! What's the second question? \"What do you dream of\"?
+$p0051:             The answer is: \"I dream of purification.\" Every human subconsciously wants to be purified, because every human is dirty by nature.
+$p0052:             Say no more, brother. What's the third question? \"What are you waiting for\"?
+$p0053:             The answer is: \"I'm waiting for awakening and guidance\". Have you ever felt like you've been half-asleep all your life, and then something happened - and you awoke? That's what Melak did for us. He woke us and has guided us since.
+$p0054:             My knowledge is your knowledge, brother. What's the last question? \"What is leading you\"?
+$p0055:             You could've guessed that yourself. \"The light of Arthur Melak is leading me\". Since we feel the truth about humanity, Arthur Melak is leading and directing us.
+$p0056:             Now you have all the answers. You've learned our ways. You should go back to Dostan and tell him what you've learned.
+$p0057:             Sorry, but I don't trust you enough yet to share our secrets.
+$c0001:             I want to know how to join them.
+$c0002:             Nevermind.
+$c0003:             What do you need?
+$c0004:             I guess I don't need your help after all.
+$c0005:             What do you want me to do exactly?
+$c0006:             I'll see what I can do.
+$c0007:             I need to think about it.
+$c0008:             Where can I find these artifacts?
+$c0009:             Okay, I'll go find them.
+$c0010:             Cultists?
+$c0011:             Madmen?
+$c0012:             Alien worshippers?
+$c0013:             I just feel that I belong here.
+$c0014:             Ehm... I think I'll be going now.
+$c0015:             Tell me more.
+$c0016:             What happened next?
+$c0017:             Right...
+$c0018:             Did it occur to you that Melak can just manipulate you? That he is a false prophet?
+$c0019:             What do you think of the other factions?
+$c0020:             Do you know what Arthur Melak's plan is?
+$c0021:             Yes. What could I do to join the Fanatics?
+$c0022:             Not really.
+$c0023:             I'm ready.
+$c0024:             But... How am I supposed to answer these questions?
+$c0025:             I'm ready.
+$c0026:             Not yet. I don't have all the answers.
+$c0027:             I'm nothing.
+$c0028:             I dream of purification.
+$c0029:             I'm waiting for awakening and guidance.
+$c0030:             The light of Arthur Melak is leading me.
+$c0031:             I'm ready to join the Brotherhood!
+$c0032:             I need to think about it.
+$t0001:             Fanatics
+$t0002:             Alien relics
+$t0003:             Join Fanatics
+$t0004:             Help with questions
+$q0001:             Broker Mannis will help me join the Fanatics if I bring him two ancient alien relics. These relics can be found in ancient crates, which are marked on the system map with a yellow color. I should be careful though. These crates are usually heavily guarded.
+$q0002:             If I want to join the Fanatics, I should find Guardian Dostan. He's the one in charge of newcomers. He was last seen at %station% station in the %system% system.
+$q0003:             "To join Fanatics, I must answer four questions:
+                    - Who are you?
+                    - What do you dream of?
+                    - What are you waiting for?
+                    - What is leading you?"
+
+$q0004:             Brother %npc% told me the answer to the first question: \"Who are you\"? The answer is \"I'm nothing\".
+$q0005:             Brother %npc% told me the answer to the second question: \"What do you dream of?'. The answer is \"I dream of purification\".
+$q0006:             Brother %npc% told me the answer to the third question: \"What are you waiting for\"? The answer is \"I'm waiting for awakening and guidance\".
+$q0007:             "Brother %npc% told me the answer to the last question: \"What is leading you\"? The answer is \"The light of Arthur Melak is leading me\".
+                    Now that I know all the answers, I should go back to Guardian Dostan and pass his test."
+

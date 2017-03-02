@@ -1,0 +1,7 @@
+﻿$p0001:             One of the most ambitious projects in the history of the human race. About two hundred years ago the Federation sent probes to every part of the galaxy. They were sent to explore worlds and find useful minerals and resources.
+$p0002:             About 50 years ago one of the probes sent back data about this part of the galaxy. Livable worlds, tons of natural resources, and serizonite - a very rare ore on which our energy sources work. You can fly a middle-sized ship for a year on one cube of serizonite.
+$p0003:             The Federation decided to colonize this part of our galaxy. It was rather distant from the core systems, so they built a pair of super massive jumpgates and delivered one of them to the Far Colonies.
+$p0004:             Then colonization began.
+$p0005:             For a decade everything was fine. The Far Colonies developed and lived in prosperity. Until we stumbled upon the Xengatarn. Then everything went to hell.
+$c0001:             What happened next?
+$c0002:             That's all I needed to know.

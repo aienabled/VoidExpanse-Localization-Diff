@@ -1,0 +1,36 @@
+﻿$p0001:             Finally, you're back. Are you ready for our final mission?
+$p0002:             Take your time, prepare yourself.
+$p0003:             Great! It's time we finally leave these godforsaken colonies! Our men are ready.
+$p0004:             I've tried to negotiate with Troyden, leader of The Order, but he is too stubborn. He still believes that the Xengatarn can be beaten by force.
+$p0005:             The Fanatics said they're waiting for the Xengatarn to come and save them. I believe that means 'no'.
+$p0006:             But most of our Freedom people and a few neutrals are ready to leave with us.
+$p0007:             I'm leaving the station and gathering the civilian and military fleets so we can move together to the ancient jumpgate.
+$p0008:             However, I need some more time to gather all of the ships. Meet me in the %system% system next to the Ergrek jumpgate. I will need your assistance there!
+$p0009:             Good luck!
+$p0010:             I won't lie to you. The situation is not so good. All of our military ships are fighting the Xengatarn in nearby systems drawing their attention so we can escape unnoticed.
+$p0011:             Yes. Our civilian fleet is hiding in a nearby system and is safe... for now. But we need to move them to the jumpgate, and such a massive fleet inevitably is going to attract Xengatarn attention.
+$p0012:             I don't have enough firepower to secure their passage to the jumpgate.
+$p0013:             Are you sure you can do it?
+$p0014:             Okay. Come back to me when you're ready.
+$p0015:             So be it. I'm ordering the civilian fleet to move towards the jumpgate in small groups. Try to save as many of them as you can.
+$p0016:             Good luck, and god help us all!
+$p0017:             That was the last group. Now it's our turn. Say goodbye to the Far Colonies and let's leave this place forever. Are you ready?
+$c0001:             I'm ready.
+$c0002:             Not yet.
+$c0003:             What about the other factions?
+$c0004:             What do we do now?
+$c0005:             I'll be there, don't worry.
+$c0006:             It works?
+$c0007:             I will help.
+$c0008:             Give me one more minute.
+$c0009:             Yes, I'm ready.
+$c0010:             Yes. Let's leave. ( leave the Far Colonies )
+$c0011:             No, I still have a couple of things to do.
+$t0001:             Everything ready?
+$t0002:             Current situation
+$q0001:             Exodus
+$q0002:             We're finally ready to leave these damned Far Colonies. Selek Jeredan is gathering civilian and military fleets and leading them to the ancient jumpgate. I should meet him there and see if I can be of any use.
+$q0003:             Jeredan gave the order to the civilian fleet to move through the ancient jumpgate. They will attract Xengatarn attention, so I need to eliminate all Xengatarn threats to civilian ships.
+$q0004:             I've protected the civilian ships. Most of them reached the jumpgate in one piece and jumped to safety. I should talk to Selek Jeredan now.
+$i0001:             Selek Jeredan
+$i0002:             Xengatarn

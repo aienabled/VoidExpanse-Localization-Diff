@@ -1,0 +1,72 @@
+﻿$p0001:             You want to join The Order? Well, it's me who will decide that.
+$p0002:             I'm Sgt. Ragnar. I deal with all new recruits.
+$p0003:             Right now I'm the person responsible for you. If I take you in and you screw up and blow half this station to hell, I will be the one held responsible.
+$p0004:             You think you're funny, huh? Well, let's hope you'll keep your sense of humor when one hundred Xengatarn missiles fly towards your ship.
+$p0005:             They never do, kid. But accidents happen. You know why?
+$p0006:             Because some people are incurably dumb!
+$p0007:             So, in other words, I will not take you unless you prove yourself trustworthy. You need to prove that you'll be useful to us.
+$p0008:             Well, first of all, we need only experienced pilots. We cannot accept newbies. [Level 10 required]
+$p0009:             Then, you need the support of at least FOUR of our officers.
+$p0010:             If four of our officers are willing to give you their recommendations, then I will accept you into our ranks.
+$p0011:             They're usually in the Order systems, doing their work. Try visiting our stations in the different Order systems - and you will find them.
+$p0012:             Now, don't waste any more of my time. Come back when you have results.
+$p0013:             Dismissed.
+$p0014:             You're back. Anything to report?
+$p0015:             Yeah? Okay, let's see...
+$p0016:             Are you taking me for a fool? You don't have any recommendations! Dismissed!
+$p0017:             Officer Aims told me that you can be trusted. A good sign.
+$p0018:             Officer Gorth told me that you helped with some pirates. It's good that you can handle these bastards.
+$p0019:             Officer Kolosov speaks highly of you.
+$p0020:             Officer Threepwood wrote a great recommendation. I think you impressed him.
+$p0021:             Officer Whistler recommends you. His opinion has certain weight in the Order.
+$p0022:             Officer Whistler thinks that you're the dumbest person he has ever met.
+$p0023:             Rosco told us that you managed to hack the Fanatics device. That must have been difficult.
+$p0024:             Officer Coldridge told me that you helped him with something. Now he's on your side.
+$p0025:             Not bad for a start, but as I've already told you, you need at least FOUR recommendations.
+$p0026:             Dismissed.
+$p0027:             You've done a good job, but you're too inexperienced. You should come back later. [Level 10 required]
+$p0028:             Dismissed.
+$p0029:             You've done a good job. The Order needs people like you. So, I'm giving you a chance.
+$p0030:             I understand. Take your time. Dismissed.
+$p0031:             Congratulations! Now you're now one of us!
+$p0047:             I am also giving you our standard issue combat ship - Crab. Make sure you take proper care of it! You can find it in the storage on this station.
+$p0032:             Ah, so you wanna join us in our noble cause? That's good. But why do you think we need you?
+$p0033:             There were plenty of good pilots out there. And most of them are dead now. You need to come up with something better then that.
+$p0034:             Connections? Well, if you had connections with the Xengatarn - then you could persuade them not to kill you.
+$p0035:             And this, my friend, is the right answer.
+$p0036:             We, in the Order, are very different - former military, soldiers, mercenaries, traders, brokers. Sometimes we live in peace, sometimes we argue - it's life. But we all have one thing in common - a purpose.
+$p0037:             We all want to get rid of these damned Xengatarn once and for all.
+$p0038:             And that makes us allies.
+$p0039:             Okay, I'm willing to give you a chance. What do you say?
+$p0040:             Take your time. It's a major decision, so you need to be absolutely sure about that. Once you join us - there's no going back.
+$p0041:             Okay, let's take a look at your ship.
+$p0042:             You're flying THIS THING? Damn, you're braver than I thought.
+$p0043:             Get yourself a decent ship first and then I will give you a recommendation.
+$p0044:             That's a nice ship you got there. That will do. Okay, here's your recommendation. Take it to Sgt. Ragnar in the Order's capital, %system% system. He's on station %station%.
+$p0045:             He will decide whether to accept you or not.
+$p0046:             Good luck, kid!
+$c0001:             Who are you?
+$c0002:             Actually, that's exactly what I was going to do.
+$c0003:             But I'm not planning to do anything like that.
+$c0004:             How can I prove that?
+$c0005:             Where can I find these officers?
+$c0006:             I've received some recommendations...
+$c0007:             No, not yet.
+$c0008:             So, is this enough?
+$c0009:             So, is this enough?
+$c0010:             I'm ready to join.
+$c0011:             I need to think about it.
+$c0012:             I'm a good pilot.
+$c0013:             I have connections.
+$c0014:             I hate aliens.
+$c0015:             I have connections.
+$c0016:             I hate aliens.
+$c0017:             I'm a good pilot.
+$c0018:             I hate aliens.
+$c0019:             I want to join your cause.
+$c0020:             I want to join the Order.
+$c0021:             I need to think about that.
+$t0001:             Join Order
+$q0001:             Join the Order faction
+$q0002:             I spoke to Sgt. Ragnar about joining the Order. To join the Order, I need to bring to Ragnar at least 4 recommendations from Order officers. I can find Order officers on different stations in Order systems.
+$q0003:             If I want to join the Order faction I need to talk to Sgt. Ragnar. I can find him in the Order's capital, %system% system. He will decide whether to accept me or not.

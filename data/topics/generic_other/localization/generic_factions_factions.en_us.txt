@@ -1,0 +1,12 @@
+﻿$p0001:             There are four major human factions in the Far Colonies: Order, Freedom, Fanatics and Pirates.
+$p0002:             And there are also neutrals, which don't belong to any faction.
+$p0003:             As for me, the Order is the only faction that has what it takes to bring down the Xengatarn.
+$p0004:             Freedom are just a bunch of losers, Fanatics are insane, and well... what can I say? Pirates are just pirates.
+$p0005:             Freedom, by the way, is the only faction that still does something useful for humanity. Not these butchers from the Order or the madmen from Fanatics.
+$p0006:             We, Fanatics as people call us, are the only faction working together to achieve the greater goal. Others are just a distraction to our cause.
+$p0007:             That depends on what faction you have in mind. Feel free to ask me about a particular faction and I may be able to help.
+$c0001:             How do I join a faction?
+$c0002:             Can you tell me about the Order faction?
+$c0003:             Can you tell me about the Freedom faction?
+$c0004:             Can you tell me about the Fanatics faction?
+$c0005:             That's all I needed to know.

@@ -1,0 +1,7 @@
+﻿$s0001:       You can use commands by putting a slash \"/\" and a command name after it. Different mods can add different commands.
+$s0002:       [PM]
+$s0003:       Player %0% is does not exists.
+$s0004:       Player %0% is offline.
+$s0005:       [PARTY]
+$s0006:       You don't have a party.
+$s0007:       [PM to %0%]

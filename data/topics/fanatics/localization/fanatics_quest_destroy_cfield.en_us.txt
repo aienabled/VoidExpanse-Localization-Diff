@@ -1,0 +1,19 @@
+﻿$p0001:             Good. Me too. I've constructed the device for you.
+$p0002:             It's simple really. You just need to fly towards a C-Field emitter and use the device. It will emit a huge pulse of energy that will counter the C-Field and cause it to overload.
+$p0003:             One use probably won't be enough. It'll take a few uses to fry the C-Field emitter completely. And I think this thing is going to defend itself.
+$p0004:             Our best chance here is secrecy. If you fly with an armada, the Xengatarn will launch all their forces at you and you'll be destroyed.
+$p0005:             But they won't notice a small single ship.
+$p0006:             Are you ready?
+$p0007:             As soon as you're ready, come back to me. This is a job that needs to be done, and no one but you can do it.
+$p0008:             Good. Here's the device. Don't forget to equip it on your ship.
+$p0009:             I'm not religious, but... God help you.
+$p0010:             Our fate is now in your hands.
+$c0001:             What exactly should I do with this device?
+$c0002:             Should I do it alone?
+$c0003:             Yes, I am.
+$c0004:             Not yet.
+$t0001:             I'm ready
+$t0002:             C-Field generator
+$q0001:             Unwilling enemies
+$q0002:             I have a chance to stop this war once and for all. I must go to the %system% system and use the device that Melak constructed specially for me on the C-Field emitter to destroy it and neutralize the Xengatarn.
+$i0001:             Xengatarn

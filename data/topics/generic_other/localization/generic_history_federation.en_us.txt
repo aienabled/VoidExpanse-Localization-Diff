@@ -1,0 +1,10 @@
+﻿$p0001:             The Federation is a political structure that includes over a thousand human colonized worlds. In fact, the Federation IS humanity.
+$p0002:             The Federation is ruled by a high council and a president. Before the Lockdown, the last president was Valerian Kilah. He was the one who initiated the Lockdown as far as I know. But actually, it is mostly a bureaucracy. Most of the control is in the hands of corporations, as you know.
+$p0003:             Well, they wanted to make sure that the Xengatarn couldn't invade the Federation core systems. So, after the Suppression Force was defeated, the President gave the order to destroy the jumpgate that linked the Far Colonies to the rest of the Federation.
+$p0004:             Now we're all stuck here.
+$p0005:             The Far Colonies are called 'far' for a reason. It's because they're FAR. To begin colonization of this area, we waited 35 years for our carrier ships to transport the jumpgate here.
+$p0006:             And it wasn't any jumpgate. It was one of the most advanced, powerful, and expensive jumpgates ever built. We have zero chance to create one like it on this side, especially now that we're at war with the Xengatarn.
+$c0001:             Why did the Federation abandon us?
+$c0002:             That's all I wanted to know.
+$c0003:             Why can't we recalibrate another jumpgate to travel back to the Federation core systems?
+$c0004:             That's all I wanted to know.

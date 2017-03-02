@@ -1,0 +1,23 @@
+﻿$p0001:             Is there anything in particular you want to know about the Order?
+$p0002:             The Order was founded from the remaining people of the Suppression Force, which was sent here by the Federation to bring down the Xengatarn. If not for General Troyden we'd all be dead by now. He organized people and created the Order faction to help people survive here and destroy the Xengatarn.
+$p0003:             Well, the Order faction is what is left of the Suppression Force, which was sent here by the Federation to bring down the Xengatarn. After their defeat, they tried to regroup and reorganize here. That's how the Order was created. For better or worse.
+$p0004:             Well, the Order is the only faction that actually does something about the Xengatarn threat. Freedom guys are only thinking about getting rich, and Fanatics - I'm not sure they're capable of thinking at all.
+$p0005:             The Order are a bunch of military-minded butchers. Their commander doesn't care about how many soldiers die out there, and their soldiers are stupid enough to follow him.
+$p0006:             Order is a blight.
+$p0007:             Well, I'm not sure about them. Maybe they will save us all, or maybe they'll just piss off the Xengatarn even more. At least it seems like they are trying to do something about it.
+$p0008:             Certainly. We always welcome new pilots to join our cause.
+$p0009:             I don't know why you would want to join them, but yeah. As far as I know they are hiring.
+$p0010:             I don't know anything about it.
+$p0011:             I believe so. You can test your luck and try to enlist.
+$p0012:             I don't know anything about it.
+$p0013:             You are already in a faction. I don't think you can join another.
+$c0001:             What's the history of the Order?
+$c0002:             What do you think of the Order?
+$c0003:             Is the Order hiring?
+$c0004:             Nevermind.
+$c0005:             I'd like to ask one more thing...
+$c0006:             That's all I needed to know.
+$c0007:             I'd like to ask one more thing...
+$c0008:             That's all I needed to know.
+$c0009:             I'd like to ask one more thing...
+$c0010:             That's all I needed to know.

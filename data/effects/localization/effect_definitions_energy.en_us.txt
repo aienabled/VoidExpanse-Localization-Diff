@@ -1,0 +1,13 @@
+﻿$energy_production_generator_title:                Energy generation (generator)
+$energy_production_generic_title:                  Energy generation (other)
+$energy_capacity_title:                            Energy capacity
+$energy_consumption_engine_title:                  Engine energy consumption
+$energy_consumption_shield_title:                  Shield energy consumption
+$energy_consumption_grappler_title:                Grappler energy consumption
+$energy_consumption_radar_title:                   Radar energy consumption
+$energy_consumption_warp_title:                    Warp energy consumption
+$energy_consumption_energy_weapons_title:          Energy weapons energy consumption
+$energy_consumption_ballistic_weapons_title:       Ballistic weapons energy consumption
+$energy_consumption_missile_weapons_title:         Missile weapons energy consumption
+$energy_consumption_mine_weapons_title:            Mine weapons energy consumption
+$energy_consumption_generic_title:                 Other energy consumption

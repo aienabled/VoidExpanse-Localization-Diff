@@ -1,0 +1,123 @@
+﻿$p0001:             Hey, kid! You're from one of those farmers' planets down there right? What brought you here?
+$p0002:             Huh, stole your father's rusty piece of junk and think you're a fighter now? The Galaxy is a dangerous place, you know.
+$p0003:             Well, with the Xengatarn around you're definitely gonna get yourself an adventure. The Galaxy is a dangerous place, you know.
+$p0004:             Huh, you want to make money in a time like this?
+$p0005:             We're in the middle of a war. If you want to achieve anything, you should consider joining a faction - to have someone watch your back.
+$p0006:             Yes. See that guy over there? With green markings on his coat? He's an Order recruiter. If you wanna join the Order - he's your best shot. But he won't take you seriously unless you have a decent ship. I can help you with that.
+$p0007:             Of course, there are other factions. Since you're new here, I can fill you in with the current situation if you want. But really, I think only the Order has any chance of ever winning this war.
+$p0008:             I don't really know. Maybe I see something in your eyes, that fire that I used to have...
+$p0009:             Better ship? Hmmm... Okay, here's the deal. I've got a couple of old Banshee hulls here on this station. Fixed them up myself, you know. Flying like an eagle! At least, in theory.
+$p0010:             But first, do me a favor, would you? I'm having some trouble with one of the local pirates. Name is Scurvy. He hijacked one of my caravans and stole a special container from me. Find him and convince him to give back what he stole.
+$p0011:             Bring the package back to me, and you'll get your new Banshee. Well, not completely new, but it will do.
+$p0012:             Oh! And one very important thing! Don't forget to use your ship's cruise mode, usually activated by [C], unless you changed the controls. It will make long journeys much, much faster. Give it a try!
+$p0013:             Anyway, here. I've got a tracer on this package. It will help you find Scurvy. Just take a look at your navigation map, and you will see him.
+$p0014:             I already told you, you'll get your ship no sooner than I get my package. Gotta stick to the rules of the game, you know.
+$p0015:             Just go out there and convince Scurvy to give back my package. You can use the tracker (yellow marker) on your radar to see where you need to go.
+$p0016:             Ah, I see you got my package. Reasoned with Scurvy, did you? Good job. These pirates are getting worse by the hour. Damn Morgulis, he gives us a lot of trouble these days.
+$p0017:             As I've promised, your new hull is waiting for you in your storage. As you can see, it's much better then yours, and it has two weapon mounts.
+$p0018:             Yes, it means you can mount two weapons at the same time.
+$p0019:             And by the way, you can bind your weapons to different mouse buttons. There's a special control for that in your inventory next to the weapon slots.
+$p0020:             It's incredibly important for you to learn how to assign weapons to different groups!
+$p0021:             Yeah, you're probably right, kid...
+$p0022:             Okay, you'll probably need some consumables to keep your ship together during the fight. Right?
+$p0023:             Yeah, it's a special container that you put into your ship's consumable slots. These allow you to quickly restore shields, repair your hull, replenish fuel and energy, and even restock ammunition.
+$p0024:             These containers are rather expensive, but I can give you a couple of them in exchange for a little service.
+$p0025:             You see, here in the Far Colonies, there are a lot of really valuable minerals. That's the reason why the Federation tried to expand in this direction in the first place. Minerals from here can be used for almost anything: weapons crafting, station construction, medicinal devices, etc.
+$p0026:             These minerals can be extracted from almost any asteroid around here with a special mining device.
+$p0027:             I'm a little short on miners right now, so you can help me with that. Bring me 50 pieces of glepsite ore - and I'll give you, let's say, five consumables to mend your ship. Deal?
+$p0028:             Then you'd better start mining before I change my mind!
+$p0029:             And don't forget to buy and equip a Civilian Miner Device from the store.
+$p0030:             You're already back? That's the spirit! Thanks for the ore. I'll put it to good use. Here are your consumables, as I promised! Don't forget to equip them, though.
+$p0031:             Well, I think you're ready for the final task!
+$p0032:             Got 50 pieces of glepsite ore? No? Well, take your time.
+$p0033:             Okay, listen again. And pay attention this time. First you need to get a mining device. You can use a civilian version for now. It's available for free in the store on this station. Just grab one.
+$p0034:             Once you have it, you need to equip it into your device slot. Then just undock from the station and find an asteroid rich in glepsite.
+$p0035:             When you found an asteroid make sure to stop your ship close to it and use the device on the asteroid. You will see that the mining beam is activated. Do that several times until you get enough glepsite. Then return to me.
+$p0051:             Yes. You need these gate access keys to leave this star system, right? And I may just be able to help you with that!
+$p0052:             I heard recently that pirates use one of the old terminals here, in this very system to store some stolen goods.
+$p0053:             You will help me to give them a lesson by stealing all their loot! And in the process you will also get access to the gate network.
+$p0054:             Normally you would need to put some effort if you want to break such a terminal.
+$p0055:             But it seems they completely ruined the security system in the process of trying to hack it, so it will be a piece of cake for you.
+$p0056:             I've marked the location on your system map. Now go! When you are done, come to see me and I will explain you how to use these gate codes.
+$p0057:             Hm? I already told you to go and hack that old terminal. Who needs these gate codes me or you? Go!
+$p0058:             Good job. I had no doubts you would be able to hack that thing! Now about these gate codes.
+$p0059:             These codes are entered into your ship's computer automatically and when you want to jump through a gate - simply activate the gate and the software will handle everything for you!
+$p0060:             Good luck with your adventures, my friend!
+$p0036:             Next? Well, it's up to you! As they say, you can be whatever you wanna be. Got it?
+$p0037:             But I really think you should join a faction. You won't get far unless you join one of the big powers here. Order might be a good option for you.
+$p0038:             What package? I don't know anything about your package... This is an insult! I'm an honest tradesman!
+$p0039:             Are you trying to trick me? You don't have enough money!
+$p0040:             Oh, THAT package! Well, hypothetically, if I had it, I could give it to you... but not for free. I have to feed my family. I'd give it over for... let's say... 500d. Deal?
+$p0041:             My family? Eh, okay...
+$p0042:             I have a wife... her name is... eh... Molly!
+$p0043:             And I have two sons... ehm... Tango and Cash.
+$p0044:             How old?.. Five.
+$p0045:             Eh... Yeah. They're twins. Yeah, that's right.
+$p0046:             My wife has a lot of trouble with them, mischievous kids! Ha-ha!
+$p0047:             Wife's name you say? Ehmmm... Melanie! That's right, Melanie!
+$p0048:             Ah, damn... Okay, you got me! Take this package and leave me alone!
+$p0049:             What a tenacious bastard...
+$p0050:             Mind your own business. You got your package. Now get lost.
+$c0001:             I've come to help fight aliens.
+$c0002:             I've come looking for adventure.
+$c0003:             I want to make a fortune.
+$c0004:             Join a faction?
+$c0005:             Why are you helping me?
+$c0006:             Okay, can you get me a better ship?
+$c0007:             And then what?
+$c0008:             Okay, I got it.
+$c0009:             How do I do it again?
+$c0010:             Two weapon mounts?
+$c0011:             Mouse buttons? Joe, I think you should stop drinking.
+$c0012:             Consumables?
+$c0013:             What kind of service?
+$c0014:             Sure, that sounds fair.
+$c0015:             Okay.
+$c0016:             How do I mine asteroids, again?
+$c0030:             Wait, Joe... I've recently hacked one old terminal in this system...
+$c0029:             So, what do I need to do?
+$c0017:             Give me the package you stole, now!
+$c0018:             You're lying! And you'll die for that!
+$c0019:             Deal.
+$c0020:             Tell me about your family.
+$c0021:             Ah, okay. I'll give you 500d.
+$c0022:             How old are your sons?
+$c0023:             Ah, okay. I'll give you 500d.
+$c0024:             Both of them?
+$c0025:             Ah, okay. I'll give you 500d.
+$c0026:             What's your wife's name again?
+$c0027:             Ah, okay. I'll give you 500d.
+$c0028:             But you just said her name was Molly!
+$t0001:             Hello! I'm new here.
+$t0002:             Get a better ship
+$t0003:             Get the ship
+$t0004:             Got the package
+$t0005:             Consumables
+$t0006:             Got some ore
+$t0010:             Final task
+$t0007:             What's next?
+$t0008:             Package
+$t0009:             Fix your life
+$q0001:             Join a faction
+$q0002:             Package for a Banshee
+$q0003:             Mining for consumables
+$q0012:             Final task
+$q0004:             In order to achieve something in this world, I should join a faction.
+$q0005:             I should find the pirate named Scurvy and retrieve the package he stole from One-Eyed Joe. I should also try using the cruise mode of my ship. It will make the trip much faster.
+$q0006:             I successfully completed Joe's task. He gave me a new ship hull as promised.
+$q0007:             I should buy a mining device, equip it, and try to extract 50 pieces of glepsite ore from nearby asteroids. Then I should bring it back to One-eyed Joe and collect my reward.
+$q0008:             I've completed Joe's task, and he gave me my reward, just as we agreed.
+$q0013:             Joe said that he has a new task for me, which should be the last one. I need to ask him about it.
+$q0014:             I need to find an old terminal which is currently used by pirates as their secret stash location. Then I need to hack it and grab all the loot there. This should give me the necessary access codes to the gate network allowing me to leave this star system. I should report to Joe when I'm done with hacking.
+$q0015:             Joe explained to me how to use the access codes to travel through the gate network. Now I can finally leave this star system!
+$q0016:             I hacked the terminal successfully. Now I should report to Joe, so he can explain to me how to use the gate network.
+$q0009:             I've got the package. Now I need to take it back to One-Eyed Joe.
+$q0010:             I've got the package. Now I need to take it back to One-Eyed Joe.
+$q0011:             Scurvy is dead. I should search for a package in his wreck.
+$n0001:             Access codes to Jumpgates network received.
+$n0002:             
+$n0003:             Inventory is full
+$n0004:             You cannot take the package because your inventory is full.
+$n0005:             Inventory is full
+$n0006:             You cannot take the package because your inventory is full.
+$i0001:             Scurvy

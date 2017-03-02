@@ -1,0 +1,36 @@
+﻿$p0001:             Help? A most unusual offer these days. Everyone seems to only care about their own skin.
+$p0002:             That's what the Order is now missing - the spirit of brotherhood, mutual help. Weird things happened to our soldiers. Some went crazy, some even became drug addicts.
+$p0003:             Have you ever heard of astinix?
+$p0004:             It's a very strong drug. Produced from some kind of local flora. It's rather cheap and extremely addictive.
+$p0005:             The thing is, pirates are somehow smuggling astinix into our stations and selling it to our pilots! We have to stop it.
+$p0006:             And I think I figured out how they're doing it.
+$p0007:             Did you notice merchants constantly travelling from one station to another? I think some of them are not actually merchants, but pirates in disguise! I need proof of it though.
+$p0008:             This is where you step in. I'm giving you an easy task - go out there and ask some travelling merchants about astinix. You don't look like one of the Order officials, so if they're smugglers, they'll most likely try to sell some of that crap to you.
+$p0009:             And this is where you confront them!
+$p0010:             Well, let's just say if you kill a smuggler - no one will miss him. That will teach them a lesson.
+$p0011:             It would also give me proof to take to General Troyden, so he could arrange security measures against these drug dealers. So... What do you say?
+$p0012:             Totally understandable. Well, if you change your mind come find me. I really wish we could deal with that problem sooner, before more of our boys fall for that poison.
+$p0013:             Great! I'll be here, waiting for your report.
+$p0014:             And remember, catch them red-handed in open space. They won't risk offering you astinix on a station - they're smarter than that.
+$p0015:             And... one more thing. Try to catch them next to our station. Our turrets will make short work of them for you.
+$p0016:             Why are you still here? You should be going after these drug dealers!
+$p0017:             Well, if it isn't our hero! Thanks to your report, General Troyden won't ignore this drug smuggling problem anymore!
+$p0018:             Here's your reward. And, I gotta say, the Order needs people like you!
+$p0019:             Sure, pal. I can sell you some astinix! Just 3000d for a dose. Deal?
+$c0001:             Yes, it's some kind of drug. So what?
+$c0002:             No, tell me about it.
+$c0003:             What does that have to do with anything?
+$c0004:             How?
+$c0005:             And then what?
+$c0006:             Okay, I'm in.
+$c0007:             No, it sounds too risky.
+$c0008:             No deal, you pirate maggot!
+$c0009:             Maybe another time.
+$t0001:             Need help?
+$t0002:             Smugglers
+$t0003:             Dead smuggler
+$t0004:             Buy drugs
+$q0001:             Catch drug dealers
+$q0002:             Officer Threepwood ordered me to catch a pirate drug dealer. He said that pirates are disguised as merchant ships. I should catch one of these ships while it's in open space and try to buy some drugs from them.
+$q0003:             A Pirate smuggler attacked me! Now I have no choice but to kill him.
+$q0004:             I've killed that smuggler. Now I should report back to Officer Threepwood.

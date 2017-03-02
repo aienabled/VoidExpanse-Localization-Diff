@@ -1,0 +1,39 @@
+﻿$p0001:             You're just in time! I was able to triangulate the position of the C-Field emitter. But I'm afraid the news isn't good.
+$p0002:             The C-Field emitter is located deep in Xengatarn territory, in their home system, in which the invasion started - %system%.
+$p0003:             To destroy it, we need to pass through all the Xengatarn defences into the very heart of their hive.
+$p0004:             Wait, there's more.
+$p0005:             It appears the C-Field emitter has an almost unlimited supply of energy and is probably surrounded by an unpenetrable energy shield.
+$p0006:             It'd make it invincible against our attacks.
+$p0007:             No, I don't think so. This C-Field emitter has an unlimited source of energy, and we can use it against itself.
+$p0008:             It spends all this energy into maintaining the C-Field, so if we interrupt this process even for a small amount of time, this will cause an overload which, in turn, will lead to the malfunction of its systems.
+$p0009:             Well, I could assemble such a device. But to make this device work, we will need a huge energy supply, like the one the C-Field emitter uses.
+$p0010:             Not necessarily. Of course, creation of an energy source of such power is beyond our capabilities. But I could create a device that can gather enough energy to maintain it for a short period of time.
+$p0011:             And a short period of time is all we need.
+$p0012:             I need a very rare mineral called Irdanium. It's extremely rare and much more expensive than seralucite.
+$p0013:             I sent out a few of my followers with special scanners of my own design. They found only one dim source of it deep within Xengatarn territories.
+$p0014:             But it's our only chance. I can't see any other option.
+$p0015:             I knew I could count on you!
+$p0016:             Here, take these coordinates. Go there and don't forget your mining equipment! Look for an asteroid in the vicinity. Mine it for Irdanium and, once you get it, bring it to me.
+$p0017:             You should hurry. Every second the Xengatarn are gathering their forces, mustering more troops.
+$p0018:             It won't be long before they attack.
+$p0019:             You brought Irdanium? Great!
+$p0020:             That's it. After I create this device, you will be humanity's best chance to stop this war.
+$p0021:             I'm starting my work immediately.
+$p0022:             Now? Have some rest. Prepare yourself for battle.
+$p0023:             Here, take some money and buy yourself better equipment. Then come back to me.
+$c0001:             This is a dangerous task.
+$c0002:             Like a walk in the park.
+$c0003:             So, we're doomed?
+$c0004:             How can we do it?
+$c0005:             But it's impossible.
+$c0006:             What do you need to create such a device?
+$c0007:             Just tell me what I need to do.
+$c0008:             What should I do now?
+$t0001:             C-Field generator
+$t0002:             Irdanium
+$q0001:             Irdanium for Melak
+$q0002:             I've brought Irdanium to Arthur Melak. He began to construct the device for me, which will be able to bring down the C-Field emitter. I should take care of my equipment and then come back to him.
+$q0003:             "Melak asked me to find a rare mineral - Irdanium. He needs it to build a special device that will be able to destroy the C-Field generator, which is supposedly controlling the Xengatarn and turning them against humanity.
+                    NOTE: Before I depart, I should equip a mining device."
+
+$q0004:             I've found a piece of Irdanium. I should bring it back to Melak.

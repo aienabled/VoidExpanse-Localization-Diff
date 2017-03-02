@@ -1,0 +1,55 @@
+﻿$p0001:             Uh-oh, Batto sent you? I'm so screwed...
+$p0002:             Well, I was transporting some stuff for Batto, like always. But suddenly those guys from the Order showed up. So I panicked, okay?
+$p0003:             I tried to drop my cargo and leave, but those guys shot a couple of rockets at me. They damaged my engines. So now I'm stuck here.
+$p0004:             Oh, well... about that... It's a matter of perspective...
+$p0005:             Well, yeah! So what? Big surprise. Half of Freedom traders are smugglers.
+$p0006:             Will you help me or not?
+$p0007:             Go to Batto, tell him I need a repair kit for my vessel, and then bring it to me. I will fix my ship and return to Batto.
+$p0008:             Oh, that was a joke? Heh, you're a real comedian.
+$p0009:             You want to talk NOW?! Kill these aliens before they get us both!
+$p0010:             God damn it. That was close! You showed up just in time or those Xengatarn would have torn my ship apart!
+$p0011:             Did you bring me the repair kit?
+$p0012:             Thank you! I'll fix my engine now and be at Batto's in no time!
+$p0013:             You can go to him and tell him the good news. I hope you didn't mention anything about the cargo...
+$p0014:             My friend's vessel lost signal not so far away from here. It would be a good idea to go check on him.
+$p0015:             Are you up for this?
+$p0016:             We'll see about that when the task is done.
+$p0017:             Watch your back.
+$p0018:             Here's his last known coordinates. Make sure he gets here in one piece.
+$p0019:             Anything to report?
+$p0020:             Damaged? I see. What about his cargo?
+$p0021:             I see. Thank you for your honesty.
+$p0022:             I will deal with Declan as soon as he comes back.
+$p0023:             That is suspicious.
+$p0024:             Okay, here's your repair kit. Bring it to Declan. He will know what to do with it.
+$p0025:             Good work.
+$p0026:             Yes? Anything else?
+$p0027:             Yes, I think you do.
+$p0028:             Here.
+$c0001:             What happened?
+$c0002:             I don't understand. Why did you panic? You did nothing wrong.
+$c0003:             Let me guess. You were smuggling stolen goods?
+$c0004:             How can I help?
+$c0005:             Okay, I'll do it. Don't go anywhere.
+$c0006:             Here it is.
+$c0007:             What do I get in return?
+$c0008:             Okay, I'm in.
+$c0009:             Maybe next time.
+$c0010:             Declan's ship was damaged. He needs a repair kit.
+$c0011:             He dropped it.
+$c0012:             I know nothing about that.
+$c0013:             ...
+$c0014:             Don't I deserve some kind of reward or something?
+$t0001:             Need help?
+$t0002:             Found Declan
+$t0003:             Helped Declan
+$t0004:             Batto sent me
+$t0005:             What happened?
+$q0001:             Batto's friend
+$q0002:             I need to get back to Batto and ask for a repair kit for Declan.
+$q0003:             I've brought the repair kit to Declan. He will fix his ship and return to Batto. I should tell this to Batto.
+$q0004:             Mercenary Batto sent me to help his friend, who is obviously in trouble. I need to proceed to the %system% system and find him.
+$q0005:             Batto gave me the repair kit. Now I should bring it back to Declan.
+$q0006:             I've destroyed the Xengatarn ships that attacked Declan.
+$i0001:             Declan
+$i0002:             Xengatarn

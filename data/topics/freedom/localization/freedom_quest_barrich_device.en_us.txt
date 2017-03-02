@@ -1,0 +1,51 @@
+﻿$p0001:             I've heard that Selek Jeredan is looking for you.
+$p0002:             I think you should go straight to him. The man doesn't like to wait.
+$p0003:             Yes, what is it?
+$p0004:             Ah, you must be %name%! It's nice to finally meet you!
+$p0005:             My name is Selek Jeredan and I run the Freedom faction. Recently, I've heard a lot about you. And yes, I wanted to see you. Not only out of curiosity.
+$p0006:             Well, let's make this meeting even more pleasant for both of us by making a deal, shall we? I will get straight to the point.
+$p0007:             You're straightforward. I respect that. Yes, you're right. I want to make a deal with you.
+$p0008:             I have a certain... interest in the Xengatarn territories. There's a thing of mine of great value, which is hidden inside a system captured by the Xengatarn. And I want it back. But there is a small problem.
+$p0009:             As you may already know, the Xengatarn are blocking our jumpgates. So, my men and I cannot get to their territory.
+$p0010:             All jumpgates are linked with each other into one giant network. Every pair of jumpgates are connected. So when you enter a jumpgate, the linked jumpgate gives you a vector for the jump.
+$p0011:             This exchange between jumpgates goes through a special communication link, which goes through subspace. Don't ask me what it is, I don't know.
+$p0012:             Our jumpgate technology uses this link based on the reverse-engineering of an Ergrek jumpgate. Basically we use it, but we don't fully understand it. Apparently the Xengatarn understand it a little bit better than us.
+$p0013:             They've found a way to disrupt communications between jumpgates with some kind of biological energy field. And now they're in full control of our jumpgates.
+$p0014:             As I've already told you, I have my interests inside Xengatarn-infested territories. So I've put a lot of my time into this already. And I think I've found a solution.
+$p0015:             A local scientist named Barrich has found a way to establish communication between jumpgates despite the Xengatarn interference. He was working for me once, but since the Lockdown he went underground.
+$p0016:             Recently, I sent one of my mercenaries, Marion, to him to find out if he had some technology I could use. And guess what? Marion found out that Barrich did have the technology, which allows our ships to travel through blocked jumpgates.
+$p0017:             Not quite, no. Barrich made some kind of device for Marion, and that fool went to test it. Of course, he was immediately destroyed by Xengatarn ships after he jumped to one of their systems.
+$p0018:             But he did it! So, I know there's a way. Now, I want you to go to Barrich and ask him to make another device. For you.
+$p0019:             Well, Barrich made it clear that he doesn't want to have any business with me ever again. You see, it was I who invited him to the Far Colonies in the first place. Naturally, after the Lockdown he blames me.
+$p0020:             So, here's my deal. Help me with this task and I will reward you appropriately. What do you say?
+$p0021:             I don't accept this answer. I'm sorry, but I have to insist.
+$p0022:             Great! You won't regret this decision, I promise.
+$p0023:             Now, here's Barrich's coordinates. He's in the %system% system. Go to him and persuade him to create another device for you. Then come back to me.
+$p0024:             Safe travels!
+$p0025:             Come back to me when you have the device I need.
+$p0026:             You brought the device! Good job! I will ask our engineers to examine it so we can create more for our people.
+$p0027:             Here's your reward, as promised and you can keep the device as well.
+$p0030:             Note: You are playing a multiplayer game you can only complete the entire story in singleplayer game! And now you are free to continue the game in sandbox mode.
+$p0028:             Now, with this device we've made a first step towards escaping these damned Far Colonies. All thanks to you.
+$p0029:             I have another task for you of much greater importance. Now go, take a break, and then talk to me again. You won't be disappointed. I promise.
+$c0001:             I've been told that you wanted to see me.
+$c0002:             Nothing. Sorry for bothering you.
+$c0003:             Nice to meet you too.
+$c0004:             What do you want from me?
+$c0005:             What problem exactly?
+$c0006:             What do you mean by 'blocking'?
+$c0007:             And how can I help with that problem?
+$c0008:             And how can I help with that problem?
+$c0009:             So, the problem is solved then?
+$c0010:             Why can't you ask him yourself?
+$c0011:             Okay, I'm in.
+$c0012:             Well, I need to think about that.
+$c0013:             Okay, I'm in.
+$t0001:             Special task
+$t0002:             Barrich
+$t0003:             Special task
+$q0001:             Special task from Jeredan
+$q0002:             Selek Jeredan is looking for me personally. I should go to him immediately. He's in the %system% system on station %station%.
+$q0003:             I need to get to the %system% system and find a scientist named Barrich. Then I should persuade him to create a special device for me, which will allow me to travel to Xengatarn territories.
+$q0004:             I've delivered Barrich's device to Selek Jeredan. He was very pleased with my work.
+$q0005:             I've got the device, which allows me to travel through blocked jumpgates. I should bring it to Selek Jeredan in the %system% system, station %station%.

@@ -1,0 +1,48 @@
+﻿$p0001:             Well, it depends. You have an honest face, but... can I trust you?
+$p0002:             Then no, I do not need your help.
+$p0003:             Hmmm... anyone could say that. But the truth is no one can be trusted. You think you can trust someone, and then - he betrays you!
+$p0004:             Yes, my best friend, Portridge. We were friends even before the Xengatarn intervention. Then we both were saved by the Xengatarn enlightenment and followed Arthur Melak, our prophet, on his way to salvation.
+$p0005:             But suddenly Portridge turned completely insane! He ran into my house, cried that our Brotherhood is fake, that the Xengatarn are mindless beasts, that we all are brainwashed by some kind of alien technology.
+$p0006:             I don't know! He was in the field, looking for artifacts, as always. And then... suddenly... he changed.
+$p0007:             I tried to calm him down, told him that he's not himself. Even tried to take him to Guardian Dostan, but he shouted at me, hit me, and ran away. He betrayed the Brotherhood. And our friendship.
+$p0008:             Now he's probably sitting with his new friends from the Order and telling them all of our secrets.
+$p0009:             I want him dead.
+$p0010:             As I've said, no one can be trusted. NO ONE!
+$p0011:             Yes, I do! I want you to poison him with this special poison. I've created it myself, and it will kill him in two weeks. Two weeks of agony and pain - that's what I want for him.
+$p0012:             Will you do that for our Brotherhood?
+$p0013:             Great! I know that he is hiding on the Order station %station% in the %system% system. Go there and PERSUADE him to drink this potion.
+$p0014:             After you do this, come back and tell me how it all went.
+$p0015:             So, how did it go? Did he drink my potion?
+$p0016:             You did a good job for the Brotherhood! Soon, very soon he will be dead.
+$p0017:             Accept my gratitude and this small reward.
+$p0018:             What?! I trusted you, and you betrayed me! No one can be trusted!
+$p0019:             Don't worry, I will kill Portridge myself! One way or another. And then... you will be next for betraying the trust of our brotherhood!
+$p0020:             What is this potion?
+$p0021:             Ehm... No, I don't think I will, thanks.
+$p0022:             Oh... Okay, give it to me then.
+$p0023:             Ugh… it tastes like a shoe. Thanks anyway.
+$p0024:             What?! Oh, poor bastard...
+$p0025:             He's still under this Xengatarn \"curse\", isn't he? I'm telling you, it's some kind of brainwashing machine. It replaces some core principles in your brain, and you're not yourself anymore.
+$p0026:             Still, he wanted me dead... That makes me very sad. I hope one day, when the Order destroys the Xengatarn, he will become himself again. And then he will apologize for this stupidity and we will be friends again.
+$p0027:             But for now I'm going to be more careful and test everything I eat or drink. Thanks for the warning.
+$c0001:             Yes, you can trust me.
+$c0002:             No, you can't.
+$c0003:             Did someone betray you?
+$c0004:             Wow. How did he think of that?
+$c0005:             You want me to kill him?
+$c0006:             I don't want to be a part of that.
+$c0007:             Yes, I will poison Portridge.
+$c0008:             I don't want to be a part of that.
+$c0009:             No. Instead I warned him that you want him dead.
+$c0010:             [Persuade] Yes, and I hope he will die in pain!
+$c0011:             Yes.
+$c0012:             You should drink it!
+$c0013:             Brother Derryl gave it to me to poison you.
+$c0014:             [Persuade] I'm from the medical deck. You need to drink this mixture to prevent any side-effects of the artifact's radiation.
+$t0001:             Need help?
+$t0002:             I'm back
+$t0003:             Potion
+$q0001:             Poisoning
+$q0002:             Brother Derryl asked me to poison his former friend, Brother Portridge. He left the Brotherhood and is now hiding on station %station% in the %system% system.
+$q0003:             I've poisoned Brother Portridge. Now I should get back to Brother Derryl and tell him the news.
+$q0004:             I warned Portridge, that Brother Derryl wants him dead. Portridge promised to be more careful from now on. Now I should go back to Brother Derryl and confront him.

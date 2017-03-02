@@ -1,0 +1,28 @@
+﻿$p0001:             Ah, so you want to learn about mining? That's good, the Far Colonies definitely need good miners these days. This endless war takes a lot of ore, you know.
+$p0002:             Well, suit yourself. But if you need help with mining you know where to find me.
+$p0003:             What would you like to know about asteroid mining?
+$p0004:             Starting out as a miner is actually very easy. You just need to buy an asteroid mining device and you are pretty much good to go.
+$p0005:             If you don't have the skills to use Advanced mining devices yet you can grab the civilian version for now.
+$p0006:             It's always available for free on every station and it doesn't require any skill to use. Just search for a civilian mining device.
+$p0007:             Make sure you equip the mining device on your ship before you leave the station, though. You can't do it in space.
+$p0008:             To mine an asteroid, you need to fly towards one. Then use your ship braking system to completely stop. Mining requires your ship to be completely stationary.
+$p0009:             Then activate your mining device on that asteroid and wait for the results! When the mining process is complete, you'll get some ore from that asteroid.
+$p0010:             Remember though, you must not move or take damage during the mining process, or your mining device will stop the mining cycle halfway and you won't get anything.
+$p0011:             Skills and experience are very important in this profession. You want to make sure you pick at least some skills related to mining to maximize your results.
+$p0012:             I would suggest to pick astrogeology at least. It lets you see what ores are inside a particular asteroid.
+$p0013:             Oh, and try using better mining equipment. Certain ores can only be mined if you have the best mining devices and decently developed mining skills.
+$p0014:             Hmmm, well there are a few things that might not be apparent to beginners.
+$p0015:             First of all - not all asteroids are the same. There are many different types and each yields a certain kind of ore. You might experiment and see which one is the most profitable for you.
+$p0016:             You should also know that your mining devices aren't that simple too. The effect on mining amount does not scale linearly. It is more of a measure of what ore you can mine.
+$p0017:             To be honest it is hard to explain. You should just try and see for yourself how different mining devices work and choose one that works for you.
+$p0018:             Just sell your ore! Ha-ha.
+$p0019:             Though, not all stations offer the same price for your ore. You might get significantly more money if you sell your ore in a place where there is a higher demand.
+$p0020:             On the other hand a lot of times it might not be worth the trouble to search for better prices, just drop your ore wherever and go mining for more!
+$c0001:             What can you tell me about asteroid mining?
+$c0002:             Actually, nevermind. I have to go.
+$c0003:             What do I need to start mining?
+$c0004:             How do I actually mine?
+$c0005:             How do I become proficient a miner?
+$c0006:             Are there any tricks?
+$c0007:             How do I make money from mining?
+$c0008:             That's all I needed to know.

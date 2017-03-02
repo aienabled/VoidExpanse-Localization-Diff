@@ -1,0 +1,7 @@
+﻿$p0001:             The Xengatarn was a species we came across while exploring this part of the galaxy. A couple of planets with a low-grade organic civilization. Their technology, as far as I can see, is partially biological - their ships look like something alive. Well, I'm not an expert in this matter.
+$p0002:             As I know it, they suddenly became aggressive and destroyed our drones and jumpgate. The Federation considered the aliens a threat, even gave them their name - Xengatarn, which means something like 'outside aggressor'. Shortly after, the Federation decided to wipe them out. 'For the sake of humanity', they said.
+$p0003:             Next? The Federation sent a new jumpgate there. It took almost 3 years to deliver it by our carrier ships. Our squadron jumped in. They thought they'd kill them with just one squadron.
+$p0004:             Next thing we know - thousands of Xengatarn ships came out of our jumpgate and attacked our colonies, spreading across the galaxy like a plague. From our own jumpgates.
+$p0005:             We just didn't expect they'd build such a huge armada in 3 years. We thought we'd squish them under our thumb. Humanity underestimated the Xengatarn - and now we're paying the price.
+$c0001:             What happened next?
+$c0002:             That's all I needed to know.

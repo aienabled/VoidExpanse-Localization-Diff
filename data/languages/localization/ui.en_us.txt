@@ -1,0 +1,1058 @@
+﻿LanguageSelectionScreen.SelectYourLanguage:                                 Select your language
+LanguageSelectionScreen.Continue:                                           Continue
+MainMenu.Label:                                                             All rights reserved.
+MainMenu.LoginToolbar.Youloggedinas:                                        You are logged in as:
+MainMenu.LoginToolbar.Logout:                                               Logout
+MainMenu.Button.Singleplayer:                                               Single Player
+MainMenu.Button.Multiplayer:                                                Multiplayer
+MainMenu.Button.Options:                                                    Options
+MainMenu.Button.Mods:                                                       Mods
+MainMenu.Button.Extras:                                                     Extras
+Quit:                                                                       Quit
+ConnectionDroppedWindow.Label:                                              Error: Connection dropped
+ConnectionDroppedWindow.TextBlock:                                          Connection with the Game server dropped. Do you want to reconnect?
+CharacterCreationWindow.Title:                                              Create character
+CharacterCreationWindow.SelectClass:                                        Select class
+CharacterCreationWindow.BtnRandom:                                          Random
+CharacterCreationWindow.BtnContinue:                                        Create
+GalaxyMapControl.GalaxyMap.TextBlock:                                       Click on a star to build a route
+GalaxyMapControl.StarTooltip.UnavailableSystemTitle:                        No access
+GameOverWindow.Title:                                                       Your ship has been destroyed!
+GameOverWindow.Text:                                                        "And your character along with it.
+                                                                            You are playing hardcore mode, which means there is no turning back.
+                                                                            Better luck next time!"
+
+GameOverWindow.BtnOk:                                                       Oh, well...
+HelpWindow.Label:                                                           Keyboard layout
+HelpWindow.BtnOk:                                                           Got it!
+RadarControl.OfflineCaption.docked:                                         OFFLINE
+RadarControl.OfflineCaption.interference:                                   INTERFERENCE
+ContainerExchangeWindow.BtnTakeAll:                                         Take all
+ContainerExchangeWindow.BtnClose:                                           Close
+ControlsSchemeToggle.RadioButtonManual.Title:                               MANUAL
+ControlsSchemeToggle.RadioButtonManual.Description:                         "You control the ship's movement and rotation
+                                                                            fully with the keyboard and aim with the mouse."
+
+ControlsSchemeToggle.RadioButtonAuto.Title:                                 AUTO
+ControlsSchemeToggle.RadioButtonAuto.Description:                           Ship will automatically steer following the mouse cursor.
+ItemAmountSelectionWindow.Label:                                            How much?
+ItemAmountSelectionWindow.BtnAll:                                           All
+ItemSlotTooltip.Titles.Count:                                               Count:
+ItemSlotTooltip.Titles.DefaultPrice:                                        Default price:
+ItemSlotTooltip.Titles.Durability:                                          Durability:
+ItemSlotTooltip.WEAPONSLOTS:                                                WEAPON SLOTS
+ItemSlotTooltip.UTILITYSLOTS:                                               UTILITY SLOTS
+ItemSlotTooltip.TextBlock:                                                  NOTE: hold CTRL while moving this item to select amount.
+ItemComparisonTooltipControl.TextBlock:                                     Currently Equipped
+WeaponSlotInformation.TrackingString:                                       TRACKING:
+LoadingSplashScreen.label:                                                  Loading...
+LocalServerFatalErrorWindow.Localserverfatalerror:                          Local server fatal error
+LocalServerFatalErrorWindow.TextBlock:                                      Something bad happened with the local game server. Try to load your last save game or start a new game.
+LocalServerFatalErrorWindow.BtnCancel:                                      Main Menu
+SkillIconTooltip.RequirementsTitle:                                         REQUIREMENTS
+SkillIconTooltip.EFFECTS:                                                   EFFECTS
+SkillIconTooltip.CurrentLevelTextBlock:                                     CURRENT LEVEL:
+SkillIconTooltip.NextLevelTextBlock:                                        NEXT LEVEL:
+SkillIconTooltip.cost:                                                      cost:
+SkillIconTooltip.pts:                                                       pts
+NpcDialogWindow.BtnClose:                                                   Goodbye
+OnlineUsersListWindow.Title:                                                Online
+OnlineUsersListWindow.Player.ping:                                          ping
+OnlineUsersListWindow.Player.ms:                                            ms
+OnlineUsersListWindow.BtnClose:                                             Close
+PlayerShipRespawnedWindow.Title:                                            Your ship has been destroyed
+RpgWindow.PanelPlayer.Level:                                                Level
+RpgWindow.PanelPlayer.Points:                                               Points
+RpgWindow.PanelPlayer.Class:                                                Class:
+RpgWindow.PanelPlayer.EXP:                                                  EXP:
+CanteenAreaControl.RESTRICTED:                                              RESTRICTED
+SystemMapControl.TextBlock:                                                 Click on the map to add a new Nav Point
+SystemMapControl.DELETENAVPOINT:                                            DELETE NAV POINT
+SystemMapControl.SETNAVPOINT:                                               SAVE NAV POINT
+SystemMapControl.AUTOPILOT:                                                 AUTOPILOT
+SystemMapControl.POINTEDCOORDS:                                             POINTED COORDS
+SystemMapControl.CURRENTCOORDS:                                             CURRENT COORDS
+WorldCreationProgressWindow.CreatingGalaxy:                                 Creating Galaxy
+GameTheme.SlotWeaponSizeSmall.Smallslot.Tooltip:                            Small slot
+GameTheme.SlotWeaponSizeMedium.Mediumslot.Tooltip:                          Medium slot
+GameTheme.SlotWeaponSizeBig.Bigslot.Tooltip:                                Big slot
+GameTheme.SlotWeaponTypeEnergy.Energyslot.Tooltip:                          Energy slot
+GameTheme.SlotWeaponTypeBallistic.Ballisticslot.Tooltip:                    Ballistic slot
+GameTheme.SlotWeaponTypeMissile.Missileslot.Tooltip:                        Missile slot
+GameTheme.SlotWeaponTypeMine.Mineslot.Tooltip:                              Mine slot
+GameTheme.ButtonDeleteStyle.Tooltip:                                        Delete
+GameTheme.ButtonEditStyle.Tooltip:                                          Edit
+GameTheme.ButtonRefreshStyle.Caption:                                       Refresh
+GameTheme.ListBoxMultiplayerServersItemTemplate.Incompatible:               Incompatible
+CreditsWindow.Credits:                                                      Credits
+ExtrasSlideMenu.BtnShowUpcomingFeatures:                                    Upcoming
+ExtrasSlideMenu.BtnOpenWebsiteDev:                                          Developers blog
+ExtrasSlideMenu.BtnOpenWebsiteGame:                                         Game website
+ExtrasSlideMenu.BtnShowCredits:                                             Credits
+ExtrasSlideMenu.Extras:                                                     Extras
+UpcomingFeatures.Upcomingfeatures:                                          Upcoming features
+InGameMenuWindow.Menu:                                                      Menu
+InGameMenuWindow.BtnResume:                                                 Continue
+InGameMenuWindow.BtnOptions:                                                Options
+InGameMenuWindow.BtnQuit:                                                   Save and Quit
+MasterServerLoginWindow.Login:                                              Login
+MasterServerLoginWindow.Email:                                              Email
+MasterServerLoginWindow.Password:                                           Password
+MasterServerLoginWindow.BtnLogin:                                           Login
+MasterServerLoginWindow.CbRememberMe:                                       Save login details
+AddOrEditServerWindow.TextBlock:                                            Please enter the server address in \"host:port\" format: (e.g.: \"example.com:1234\")
+MultiplayerMenuWindow.Multiplayer:                                          Multiplayer
+MultiplayerMenuWindow.BtnConnect:                                           Connect
+MultiplayerMenuWindow.BtnAdd:                                               Add
+KeyBinderDialog.Title:                                                      Press a key...
+OptionsWindow.Options:                                                      Options
+OptionsWindow.BtnReset:                                                     Reset
+OptionsWindow.BtnApply:                                                     Apply
+LoadGameWindow.Title:                                                       Load Game
+LoadGameWindow.BtnLoadGame:                                                 Load Game
+LoadGameWindow.Nosavegamesavailable:                                        No save games available
+LoadGameWindow.Loading:                                                     Loading...
+GameTheme.UnavailableDisplay.Tooltip:                                       Slot unavailable
+GameTheme.ListBoxSaveGameItemTemplate.Incompatible:                         Incompatible
+GameTheme.WeaponKeyBindingInventoryTemplate.BtnLeft.Tooltip:                Bind to the Left mouse button
+GameTheme.WeaponKeyBindingInventoryTemplate.BtnRight.Tooltip:               Bind to the Right mouse button
+GameTheme.WeaponKeyBindingInventoryTemplate.BtnMiddle.Tooltip:              Bind to the Middle mouse button (wheel)
+CreateWorldWindow.CreateWorld:                                              Create World
+CreateWorldWindow.BtnStartGame:                                             Start Game
+CreateWorldWindow.WorldnameLabel:                                           World name
+CreateWorldWindow.Seed:                                                     Seed
+CreateWorldWindow.Difficulty:                                               Difficulty
+CreateWorldWindow.NormalTitle:                                              Normal
+CreateWorldWindow.NormalDescription:                                        "If you die you will lose all inventory, cargo,
+                                                                            and 10% of your money."
+
+CreateWorldWindow.SemiHardcoreTitle:                                        Semi-hardcore
+CreateWorldWindow.SemiHardcoreDescription:                                  "If you die you will lose all inventory, cargo,
+                                                                            10% of your money, and your current ship
+                                                                            with all equipment."
+
+CreateWorldWindow.HardcoreTitle:                                            Hardcore
+CreateWorldWindow.HardcoreDescription:                                      Permadeath. Only if you have balls of steel.
+GalaxyMapControl.GalaxyMap.AUTOPILOT:                                       AUTOPILOT
+ItemSlotTooltip.EFFECTS:                                                    EFFECTS
+ItemSlotTooltip.REQUIREMENTS:                                               REQUIREMENTS
+SingleplayerSlideMenu.BtnCreateWorld:                                       Create World
+SingleplayerSlideMenu.BtnLoadGame:                                          Load Game
+RpgWindow.TabControl.Piloting:                                              Piloting
+RpgWindow.TabControl.Combat:                                                Combat
+RpgWindow.TabControl.Engineering:                                           Engineering
+RpgWindow.TabControl.Social:                                                Social
+RpgWindow.StatsPanel:                                                       Effects
+PlayerMenuWindow.Tab.INVENTORY:                                             INVENTORY
+PlayerMenuWindow.Tab.SKILLS:                                                SKILLS
+PlayerMenuWindow.Tab.JOURNAL:                                               JOURNAL
+PlayerMenuWindow.Tab.SYSTEM:                                                SYSTEM
+PlayerMenuWindow.Tab.GALAXY:                                                GALAXY
+PlayerMenuWindow.Tab.FACTIONS:                                              FACTIONS
+PlayerInventoryControl.PlayerMoney:                                         Money:
+PlayerInventoryControl.PanelEquipment.Label:                                Control scheme
+PlayerInventoryControl.PanelEquipment.Boosters:                             Boosters
+PlayerInventoryControl.ItemsListInventory:                                  Items (Ship)
+PlayerInventoryControl.ItemsListStorage:                                    Items (Storage)
+PlayerInventoryControl.CargoListInventory:                                  Cargo (Ship)
+PlayerInventoryControl.CargoListStorage:                                    Station Storage
+PlayerInventoryControl.TabItemShipInventory:                                Ship
+PlayerInventoryControl.TabItemStorage:                                      Storage
+PlayerInventoryControl.PanelEquipment:                                      Equipment
+PlayerInventoryControl.PanelWeapons:                                        Weapons
+PlayerInventoryControl.PanelConsumables:                                    Consumables
+PlayerInventoryControl.PanelModules:                                        Devices
+ItemType.Hull:                                                              Hull
+ItemType.Engine:                                                            Engine
+ItemType.RCS:                                                               RCS
+ItemType.Fueltank:                                                          Fuel tank
+ItemType.Generator:                                                         Generator
+ItemType.Shield:                                                            Shield
+ItemType.Radar:                                                             Radar
+ItemType.Grappler:                                                          Grappler
+ItemType.Device:                                                            Device
+ItemType.Booster:                                                           Booster
+ItemType.Weapon:                                                            Weapon
+ItemType.StaticObject:                                                      Object
+ItemType.Consumable:                                                        Consumable
+ItemType.Resource:                                                          Resource
+WeaponType.Energy:                                                          Energy
+WeaponType.Ballistic:                                                       Ballistic
+WeaponType.Missile:                                                         Missile
+WeaponType.Mine:                                                            Mine
+JournalControl.BtnAbandon:                                                  Abandon
+JournalControl.BtnShow:                                                     Show map
+JournalControl.ActiveSwitch:                                                Active
+JournalControl.FinishedSwitch:                                              Finished
+JournalControl.FailedSwitch:                                                Failed
+OptionsWindow.TabControl.Game:                                              GAME
+OptionsWindow.TabControl.Video:                                             VIDEO
+OptionsWindow.TabControl.Sound:                                             SOUND
+OptionsWindow.TabControl.Controls:                                          CONTROLS
+CharacterSexSelector.RadioButtonSexMale:                                    Male
+CharacterSexSelector.RadioButtonSexFemale:                                  Female
+AsteroidContentsControl.Title:                                              ASTEROID COMPOSITION:
+ItemDestroyAndDiscardControl.DiscardControl:                                JETTISON
+ItemDestroyAndDiscardControl.DestroyControl:                                DESTROY
+OverviewControl.BtnRepair:                                                  Repair
+OverviewControl.BtnRefuel:                                                  Refuel
+SpaceStationWindow.OVERVIEW:                                                OVERVIEW
+SpaceStationWindow.DECKS:                                                   DECKS
+SpaceStationWindow.SHOP:                                                    SHOP
+SpaceStationWindow.HANGAR:                                                  HANGAR
+SpaceStationWindow.SKILLS:                                                  SKILLS
+SpaceStationWindow.JOURNAL:                                                 JOURNAL
+SpaceStationWindow.SYSTEM:                                                  SYSTEM
+SpaceStationWindow.GALAXY:                                                  GALAXY
+SpaceStationWindow.FACTIONS:                                                FACTIONS
+SpaceStationWindow.BtnUndock:                                               Undock
+ShopControl.SHOP:                                                           SHOP
+ShopControl.INVENTORY:                                                      INVENTORY
+ShopControl.STORAGE:                                                        STORAGE
+ShopControl.Yourmoney:                                                      Your money:
+VersionNotice.Text1:                                                        VoidExpanse v
+VersionNotice.Text2:                                                        Date:
+CreateUsernameWindow.Title:                                                 Create username
+CreateUsernameWindow.Username:                                              Username
+CreateUsernameWindow.BtnContinue:                                           Continue
+SteamAuthWindow.Title:                                                      AtomicTorch.com Account
+SteamAuthWindow.TextBlock:                                                  "Do you have account on AtomicTorch.com?
+                                                                            
+                                                                            You DON'T need an account, but if you
+                                                                            already have it, you can link all your
+                                                                            achievements, saves, config, stats and
+                                                                            all other data and most importantly your
+                                                                            existing identity (NICKNAME) between
+                                                                            your existing account and Steam."
+
+SteamAuthWindow.ButtonYesHaveAccount:                                       Yes, I do
+SteamAuthWindow.ButtonNoCreateAccount:                                      No, thanks
+SteamAuthWindow.Connecting:                                                 Connecting...
+ItemsContainer.TakeAllError.NotEnoughRoom:                                  Not enough room.
+ItemsContainer.TakeAllError.Unknown:                                        Unknown error.
+ItemsContainer.TakeAllError.Title:                                          Take all failed
+Notifications.Money.Removed:                                                %amount%d removed
+Notifications.Money.Added:                                                  %amount%d added
+Notifications.Item.Removed:                                                 %title% removed
+Notifications.Item.RemovedQuantity:                                         %quantity% %title% removed
+Notifications.Item.Added:                                                   %title% added
+Notifications.Item.AddedQuantity:                                           %quantity% %title% added
+Notifications.DeviceActivationError.Title:                                  Unable to activate %title%
+Notifications.DeviceActivationError.Unknown:                                Error occured.
+Notifications.DeviceActivationError.DeviceNotFound:                         Don't have device to activate.
+Notifications.DeviceActivationError.TooFar:                                 You're too far away to use this device. Get closer!
+Notifications.DeviceActivationError.ObjectNotFoundGeneric:                  To activate this device point the cursor at an object.
+Notifications.DeviceActivationError.ObjectOfType:                           To activate this device point the cursor at an object of the type \"%target_type%\".
+Notifications.DeviceActivationError.ObjectOfTypes:                          To activate this device point the cursor at an object of the following types: %target_types%.
+Notifications.LockError.Title:                                              Lock failed
+Notifications.LockError.ObjectTooFar:                                       Target too far away.
+Notifications.LockError.NoObjectsWithinRange:                               No available targets within range.
+FactionRelationInfoControl.FactionRelation:                                 Faction relation
+FactionRelationInfoControl.PersonalRelation:                                Personal relation
+PlayerInventory.ShipStatsControl.Structure:                                 Structure
+PlayerInventory.ShipStatsControl.Shield:                                    Shield
+PlayerInventory.ShipStatsControl.Energy:                                    Energy
+PlayerInventory.ShipStatsControl.Fuel:                                      Fuel
+MultiplayerMenuWindow.Public:                                               PUBLIC
+MultiplayerMenuWindow.Custom:                                               CUSTOM
+MultiplayerMenuWindow.Favorite:                                             FAVORITE
+MultiplayerMenuWindow.History:                                              HISTORY
+MultiplayerMenuWindow.Sortby:                                               Sort by
+MultiplayerMenuWindow.SortBy.title:                                         title
+MultiplayerMenuWindow.SortBy.ping:                                          ping
+MultiplayerMenuWindow.ReloadPublicList:                                     Reload list
+MultiplayerMenuWindow.Refreshing:                                           Refreshing
+MultiplayerMenuWindow.TableServer:                                          Server
+MultiplayerMenuWindow.TablePing:                                            Ping
+MultiplayerMenuWindow.TablePlayers:                                         Players
+MultiplayerMenuWindow.EmptyList:                                            List is empty
+MultiplayerMenuWindow.EmptyList.NoPublicServersAvailable:                   No public servers available
+TutorialWindow.CheckBoxDoNotShowAgain:                                      Do not show tutorials again
+TutorialWindow.SkipTutorial.Title:                                          Disable tutorials?
+TutorialWindow.SkipTutorial.Message:                                        "Are you sure you want to completely disable tutorial messages?
+                                                                            If you are playing for the first time we STRONGLY recommend that you go through the tutorial."
+
+Dialog.Yes:                                                                 Yes
+Dialog.No:                                                                  No
+Dialog.Ok:                                                                  OK
+Dialog.Cancel:                                                              Cancel
+Dialog.Continue:                                                            Continue
+Dialog.Close:                                                               Close
+SystemMapControl.ENTER.NAME:                                                ENTER NAME
+LoadGameWindow.Time.played:                                                 Time played: %0%
+LoadGameWindow.DescriptionFormat:                                           "Location: %location%  -  Galaxy size: %galaxy_size% systems
+                                                                            Class: %class%  -  Level: %level%
+                                                                            Money: %money%
+                                                                            Difficulty: %difficulty%"
+
+ItemSlotTooltipControl.Pts.in.seconds.format:                               %points% pts in %seconds% seconds
+ItemSlotTooltipControl.Tracking.format:                                     Tracking: %degree%° (%degree_per_second%°/sec)
+ItemSlotTooltipControl.Tracking.stationary.mounted:                         Stationary mounted
+ItemSlotTooltipControl.SlotsConsumables:                                    Consumables
+ItemSlotTooltipControl.SlotsBoosters:                                       Boosters
+ItemSlotTooltipControl.SlotsDevices:                                        Devices
+ItemAmountSelection.PriceFormat:                                            for %0%d
+ItemAmountSelectionWindow.DefaultText:                                      Please select an amount you want to transfer:
+PlayerInventoryControl.ContainerTitle.Items.ship:                           Items (ship)
+PlayerInventoryControl.ContainerTitle.Cargo.ship:                           Cargo (ship)
+PlayerInventoryControl.ContainerTitle.Items:                                Items
+PlayerInventoryControl.ContainerTitle.Cargo:                                Cargo
+HUDMenuIconsBar.Options:                                                    Options
+HUDMenuIconsBar.Inventory:                                                  Inventory
+HUDMenuIconsBar.Skills:                                                     Skills
+HUDMenuIconsBar.Quests.Journal:                                             Quests Journal
+HUDMenuIconsBar.System.Map:                                                 System Map
+HUDMenuIconsBar.Galaxy.Map:                                                 Galaxy Map
+HUDMenuIconsBar.Online.users:                                               Online users
+HUDMenuIconsBar.Factions:                                                   Factions
+GameOptionSoundVolumeVoice.Tooltip:                                         Voice volume affects voice of characters.
+GameOptionSoundVolumeVoice.Title:                                           Voice Volume
+GameOptionSoundVolumeSound.Tooltip:                                         Sound volume affects all game sounds except music and voices.
+GameOptionSoundVolumeSound.Title:                                           Sound Volume
+GameOptionSoundVolumeMusic.Tooltip:                                         Music volume affects all music in the game.
+GameOptionSoundVolumeMusic.Title:                                           Music Volume
+GameOptionSoundVolumeMaster.Tooltip:                                        "Master volume of the game.
+                                                                            Affects all sounds."
+
+GameOptionSoundVolumeMaster.Title:                                          Master Volume
+GameOptionGraphicsWindowed.Tooltip:                                         "Determines if game should be launched in windowed
+                                                                            mode, or in fullscreen mode."
+
+GameOptionGraphicsWindowed.Title:                                           Screen mode
+GameOptionGraphicsSunEffects.Tooltip:                                       "Toggle sun effects, such as:
+                                                                            shafts, bloom, plasma emissions."
+
+GameOptionGraphicsSunEffects.Title:                                         Sun Effects
+GameOptionGraphicsStardust.Tooltip:                                         Regulates stardust layers count.
+GameOptionGraphicsStardust.Title:                                           Stardust amount
+GameOptionGraphicsScreenResolution.Tooltip:                                 Select screen resolution for the game.
+GameOptionGraphicsScreenResolution.Title:                                   Screen Resolution
+GameOptionGraphicsScreenDpi.Tooltip:                                        "Please select your display pixel density.
+                                                                            
+                                                                            If you have a Retina or other HiDPI screen and you're playing with
+                                                                            the highest resolution in fullscreen mode, then you need to select
+                                                                            Retina mode to insure the best results for interface and background
+                                                                            graphics rendering.
+                                                                            
+                                                                            Please remember that selecting the HiDPI setting also affects
+                                                                            Performance."
+
+GameOptionGraphicsScreenDpi.Title:                                          Display pixel density
+GameOptionGraphicsPostEffects.Tooltip:                                      Turns on/off post-effects (bloom & blur).
+GameOptionGraphicsPostEffects.Title:                                        Post Effects
+GameOptionGraphicsGamma.Tooltip:                                            "Adjust gamma of the game.
+                                                                            Lower values means darker picture."
+
+GameOptionGraphicsGamma.Title:                                              Gamma
+GameOptionGraphicsFrameLimit.Tooltip:                                       "Limit rendered frames-per-second count: 
+                                                                            \"V-sync\" - prevent \"screen tearing\", but limit framerate
+                                                                            to the screen refresh rate (usually 60 FPS); 
+                                                                            
+                                                                            \"V-sync Half\" - prevent screen tearing and limit framerate
+                                                                            to half of the screen refresh rate (usually 30 FPS) - helps save power;
+                                                                            
+                                                                            \"30 FPS\"- helps save power (use V-Sync Half if you see \"screen tearing\" with this setting)."
+
+GameOptionGraphicsFrameLimit.Title:                                         FPS limit
+GameOptionGraphicsBackground.Tooltip:                                       Regulates density of the nebulas in background.
+GameOptionGraphicsBackground.Title:                                         Background nebulas
+GameOptionGameUIScale.Tooltip:                                              "Adjust User Interface scale.
+                                                                            Lower values means smaller controls."
+
+GameOptionGameUIScale.Title:                                                UI Scale
+GameOptionGameShowConsoleForLocalGameServer.Tooltip:                        "Display the server console for
+                                                                            the single player game mode
+                                                                            (useful for modding; if you're playing
+                                                                            - reload the save game to take effect)."
+
+GameOptionGameShowConsoleForLocalGameServer.Title:                          Console for single player
+GameOptionGameScreenshotQuality.Tooltip:                                    Format and quality of screenshots.
+GameOptionGameScreenshotQuality.Title:                                      Screenshots format
+GameOptionGameSavegameInterval.Tooltip:                                     "How often to auto-save the game in single player mode
+                                                                            while you're flying in free space.
+                                                                            
+                                                                            Please note: If you don't select 'never', the game will also be
+                                                                            auto-saved every time you dock/undock to/from a space station
+                                                                            and when you're jumping via jumpgate.
+                                                                            The game ALWAYS auto-saves when you quit."
+
+GameOptionGameSavegameInterval.Title:                                       Autosave interval
+GameOptionGameDialogSpeed.Tooltip:                                          Controls the speed at which character dialogues are displayed.
+GameOptionGameDialogSpeed.Title:                                            Dialogue speed
+GameOptionControls.Title:                                                   Controls
+GameKey.Cruise.forward:                                                     Cruise forward
+GameKey.Throttle.forward:                                                   Throttle forward
+GameKey.Throttle.reverse:                                                   Throttle reverse
+GameKey.Rotate.left:                                                        Rotate left
+GameKey.Rotate.right:                                                       Rotate right
+GameKey.Strafe.left:                                                        Strafe left
+GameKey.Strafe.right:                                                       Strafe right
+GameKey.Brake:                                                              Brake
+GameKey.Lock.target:                                                        Lock target
+GameKey.LShift.modifier:                                                    Left Shift (modifier)
+GameKey.Fire.first.weapon:                                                  Fire primary weapon group
+GameKey.Fire.secondary.weapon:                                              Fire secondary weapon group
+GameKey.Fire.third.weapon:                                                  Fire third weapon group
+GameKey.Context.action:                                                     Context action
+GameKey.Toggle.Controls.Scheme:                                             Toggle Control Scheme
+GameKey.Toggle.Autopilot:                                                   Toggle Autopilot
+GameKey.Open.chat.window:                                                   Open chat window
+GameKey.Inventory:                                                          Inventory
+GameKey.Skills:                                                             Skills
+GameKey.System.map:                                                         System map
+GameKey.Galaxy.map:                                                         Galaxy map
+GameKey.Quest.journal:                                                      Quest journal
+GameKey.Factions.Relations:                                                 Factions / Relations
+GameKey.Radar.zoom.in:                                                      Radar zoom in (+)
+GameKey.Radar.zoom.out:                                                     Radar zoom out (-)
+GameKey.Toggle.online.users:                                                Toggle online users
+GameKey.Capture.screenshot:                                                 Capture screenshot
+GameKey.Activate.slot.1:                                                    Activate slot 1
+GameKey.Activate.slot.2:                                                    Activate slot 2
+GameKey.Activate.slot.3:                                                    Activate slot 3
+GameKey.Activate.slot.4:                                                    Activate slot 4
+GameKey.Activate.slot.5:                                                    Activate slot 5
+GameKey.Activate.slot.6:                                                    Activate slot 6
+GameKey.Activate.slot.7:                                                    Activate slot 7
+GameKey.Activate.slot.8:                                                    Activate slot 8
+GameKey.Activate.slot.9:                                                    Activate slot 9
+GameKey.Debug.toggle.interface:                                             Debug: toggle interface
+GameKey.Debug.toggle.stats:                                                 Debug: toggle stats
+GameKey.Help:                                                               Help
+GameKey.Console:                                                            Console
+HUDMessage.Entering.Star.System:                                            Entering Star System:
+HUDMessage.Current.Star.System:                                             Current Star System:
+GameNotification.Jump.permission.denied:                                    Jump permission denied
+GameNotification.Autopilot.on:                                              Autopilot on
+GameNotification.Autopilot.disengaged:                                      Autopilot disengaged
+GameNotification.Autopilot.overriden:                                       Autopilot overriden.
+GameNotification.Autopilot.Overriden.can.resume:                            You can resume autopilot by pressing [%0%] key.
+GameNotification.Autopilot.Problems.on.the.way:                             Problems on the way.
+GameNotification.Autopilot.Destination.reached:                             Autopilot destination reached.
+GameNotification.LevelUp.Title:                                             Level Up
+GameNotification.LevelUp.Message:                                           Congratulations, you've reached level %0%.
+HUDAction.Dock:                                                             Dock
+GameNotification.GainedExp:                                                 You gained %0% exp
+GameNotification.Undocking.failed:                                          Undocking failed
+GameNotification.CannotSell.Title:                                          Cannot sell
+GameNotification.CannotSell.Not.enough.money:                               Not enough money available
+GameNotification.CannotSell.Not.enough.quantity:                            Not enough quantity available
+GameNotification.CannotSell.Not.enough.capacity:                            Not enough capacity available
+GameNotification.CannotBuy.Title:                                           Cannot buy
+GameNotification.CannotBuy.Not.enough.money:                                Not enough money available
+GameNotification.CannotBuy.Not.enough.quantity:                             Not enough quantity available
+GameNotification.CannotBuy.Not.enough.capacity:                             Not enough capacity available
+GameNotification.Docking.request.denied:                                    Docking request denied
+LoadGameWindow.LoadingError.Title:                                          Loading error
+LoadGameWindow.LoadingError.Message:                                        The savegame can't be loaded - looks like it's corrupted.
+LoadGameWindow.IncompatibleSave.Title:                                      Incompatible savegame
+LoadGameWindow.IncompatibleSave.Message:                                    The savegame is incompatible with the current version of the game.
+NpcDialogWindow.NPC.not.talking:                                            This NPC doesn't want to talk now.
+Steam.Not.running.title:                                                    Steam client is not running
+Steam.Not.running.message:                                                  Please restart the game from the Steam client.
+Try.again:                                                                  Try again
+Errors.Internet.error.title:                                                Internet error
+Errors.Internet.error.message:                                              Can't connect to the Master Server. Please check your Internet connection.
+Errors.Internet.error.PlayOfflineButton:                                    Play offline
+Error:                                                                      Error
+Error.MasterLoginFailed.Message:                                            Master login failed, %0% error occured. Try again later.
+Error.MasterLoginFailed.Message.Unknown:                                    Master login failed, unknown error occured. Try again later.
+Error.MasterLoginFailed.DifferentSteamId:                                   The provided user details already have a Steam account associated with it.
+Error.MasterLoginFailed.UserNameUsed.message:                               The selected username is already in use by someone. Please pick another one.
+Error.MasterLoginFailed.UserNameUsed.title:                                 Username used
+Error.MasterLoginFailed.NotActivated.title:                                 Not activated
+Error.MasterLoginFailed.NotActivated.message:                               User account is not activated. Please go to http://atomictorch.com and login there to activate your account.
+Error.MasterLoginFailed.Blocked.title:                                      Blocked
+Error.MasterLoginFailed.Blocked.message:                                    User account blocked. Sorry!
+Error.MasterLoginFailed.GameNotOwn.message:                                 Looks like you do not own this game. You can buy it at http://atomictorch.com!
+Error.MasterLoginFailed.GameUnknown.message:                                Master login failed. Looks like your game executable is corrupted. Please download the latest version at http://atomictorch.com
+Error.MasterLoginFailed.LoginOrPasswordIncorrect.message:                   Master login failed, please check your email and password.
+Error.ServerLoginFailed.DifferentVersion.title:                             Error: different version
+Error.ServerLoginFailed.DifferentVersion.message:                           You cannot login to this server. The server is running a  different version of the game. Your game version is: %0%
+Error.ServerLoginFailed.Blacklisted.title:                                  Error: blacklisted
+Error.ServerLoginFailed.Blacklisted.message:                                You cannot login to this server. Server administrator has added you to the server blacklist.
+Error.ServerLoginFailed.NotInWhitelist.title:                               Error: not whitelisted
+Error.ServerLoginFailed.NotInWhitelist.message:                             You cannot login to this server. You are not on the server whitelist.
+Error.ServerLoginFailed.ServerFull.title:                                   Error: server is full
+Error.ServerLoginFailed.ServerFull.message:                                 You cannot login to this server. The server is already full.
+Error.ServerLoginFailed.UnknownError.message:                               You cannot login to this server because of errors on the server's side.
+Error.GameServer.ConnectionError.title:                                     Connection error
+Error.GameServer.ConnectionError.message:                                   Can't connect to the Game Server.
+Error.LocalGameServer.CantSetup.message:                                    "Cannot start the local game server.
+                                                                            
+                                                                            If you're using any mods, please try to disable them:
+                                                                            incompatible or broken mods could cause issues such as this.
+                                                                            
+                                                                            If you aren't using any mods, the most common reason
+                                                                            for this issue is antivirus software.
+                                                                            Please try adding VoidExpanse to the exclusions list
+                                                                            (voidexpanse.exe and VoidExpanse.Server.exe)
+                                                                            or turning the antivirus and firewall completely off
+                                                                            for the duration of playing the game.
+                                                                            
+                                                                            Additionally you can try again or visit
+                                                                            http://wiki.AtomicTorch.com for more information
+                                                                            about the issue."
+
+Error.LocalGameServer.CantSetup.TroubleshootButton:                         Troubleshoot
+Error.GameServer.ModRequired:                                               "One or more mods are required to play on this server:
+                                                                            %required_mods%"
+
+SingleplayerServer.SetupProgress:                                           Setting up game
+MultiplayerServer.ConnectionProgress:                                       Connecting to Game Server
+Error.GameServer.NotAllowedByMasterServer:                                  Connection to the Game Server was not allowed by the Master Server.
+MasterServer.ProgressWindow:                                                Connecting to Master Server
+OfflineModeWindow.title:                                                    Offline mode
+OfflineModeWindow.message:                                                  You are offline. To play in multiplayer, you must go online.
+OfflineModeWindow.button.go.online:                                         Go online
+Error.MasterLoginFailed.UsernameInvalid.message.format:                     "Username:
+                                                                            * must be %min_length% to %max_length% characters length;
+                                                                            * can contain letters, numbers, underscores and dashes;
+                                                                            * cannot contain spaces and any other characters;
+                                                                            * must start and end with a letter or number;
+                                                                            * must not contain several characters \"-\" or \"_\" in a row."
+
+Error.MasterLoginFailed.UsernameInvalid.title:                              Username is not valid
+URL.Troubleshooting:                                                        http://wiki.atomictorch.com/VoidExpanse/Troubleshooting
+LoadGameWindow.TimeFormat.days:                                             d
+LoadGameWindow.TimeFormat.hours:                                            h
+LoadGameWindow.TimeFormat.minutes:                                          m
+LoadGameWindow.TimeFormat.seconds:                                          s
+GameOptionGraphicsAntiAliasing.Title:                                       Anti-aliasing
+GameOptionGraphicsAntiAliasing.Tooltip:                                     Anti-aliasing helps to reduce rough lines and edges on the rendered image.
+GameOptionGraphicsAntiAliasingUI.Title:                                     UI anti-aliasing
+GameOptionGraphicsAntiAliasingUI.Tooltip:                                   "The user interface anti-aliasing helps to reduce rough lines and edges on visual elements.
+                                                                            This setting changes the interface anti-aliasing method:
+                                                                            PPAA - always works, may have some visual artifacts
+                                                                            MSAA - better, but does not work if the game anti-aliasing setting is lower than 4xMSAA (it will fallback to PPAA then)."
+
+GameOptionLanguage.Title:                                                   Language
+GameOptionLanguage.Reload.required:                                         Reload required
+GameOptionLanguage.Reconnection.required:                                   Reconnection required
+GameOptionLanguage.ReloadOrReconnect.message:                               In order to apply language change, the game need to reload the server data.
+GameOptionGameDialogSpeed.Variants.Normal:                                  Normal
+GameOptionGameDialogSpeed.Variants.Fast:                                    Fast
+GameOptionGameDialogSpeed.Variants.Instant:                                 Instant
+GameOptionGameSavegameInterval.Variants.15.minutes:                         15 minutes
+GameOptionGameSavegameInterval.Variants.10.minutes:                         10 minutes
+GameOptionGameSavegameInterval.Variants.5.minutes:                          5 minutes
+GameOptionGameSavegameInterval.Variants.Never:                              Never (not recommended)
+GameOptionGameScreenshotQuality.Variants.PNG:                               PNG (Lossless)
+GameOptionGameScreenshotQuality.Variants.JPG.100:                           JPG (100%)
+GameOptionGameScreenshotQuality.Variants.JPG.85:                            JPG (85%)
+GameOptionGameScreenshotQuality.Variants.JPG.90:                            JPG (90%)
+GameOptionGameScreenshotQuality.Variants.JPG.75:                            JPG (75%)
+GameOptionGraphicsAntiAliasing.Variants.Off:                                Off
+GameOptionGraphicsAntiAliasing.Variants.2xMSAA:                             2xMSAA
+GameOptionGraphicsAntiAliasing.Variants.4xMSAA:                             4xMSAA
+GameOptionGraphicsAntiAliasing.Variants.8xMSAA:                             8xMSAA
+GameOptionGraphicsAntiAliasingUI.Variants.MSAA:                             MSAA
+GameOptionGraphicsAntiAliasingUI.Variants.PPAA:                             PPAA
+GameOptionGraphicsBackground.Variants.Level0:                               Minimum
+GameOptionGraphicsBackground.Variants.Level1:                               Some
+GameOptionGraphicsBackground.Variants.Level2:                               Many
+GameOptionGraphicsBackground.Variants.Level3:                               Maximum
+GameOptionGraphicsFrameLimit.Variants.VSync:                                V-sync
+GameOptionGraphicsFrameLimit.Variants.VSyncHalf:                            V-sync Half
+GameOptionGraphicsFrameLimit.Variants.FPS.30:                               30 fps
+GameOptionGraphicsFrameLimit.Variants.FPS.60:                               60 fps
+GameOptionGraphicsFrameLimit.Variants.FPS.120:                              120 fps
+GameOptionGraphicsFrameLimit.Variants.Off:                                  Off
+GameOptionGraphicsQuality.Variants.Level0:                                  Fastest
+GameOptionGraphicsQuality.Variants.Level1:                                  Fast
+GameOptionGraphicsQuality.Variants.Level2:                                  Normal
+GameOptionGraphicsQuality.Variants.Level3:                                  Good
+GameOptionGraphicsQuality.Variants.Level4:                                  Best
+GameOptionGraphicsScreenDpi.Variants.Normal:                                Normal
+GameOptionGraphicsScreenDpi.Variants.Retina:                                Retina
+GameOptionGraphicsStardust.Variants.Level0:                                 Disabled
+GameOptionGraphicsStardust.Variants.Level1:                                 Minimum
+GameOptionGraphicsStardust.Variants.Level2:                                 Some
+GameOptionGraphicsStardust.Variants.Level3:                                 Many
+GameOptionGraphicsStardust.Variants.Level4:                                 Maximum
+GameOptionGraphicsQuality.Tooltip:                                          "Determines overall picture quality of the game.
+                                                                            Please note: in order for changes to take full effect
+                                                                            it is required to return to the Main Menu."
+
+GameOptionGraphicsQuality.Title:                                            Quality
+OptionsWindow.ResetToDefault.title:                                         Reset to default
+OptionsWindow.ResetToDefault.message:                                       Are you sure you want to reset all options to their default values?
+KeyBinderDialog.KeyAlreadyBound:                                            "Key \"%key%\" is already bound to \"%game_key%\".
+                                                                            If you really want to assign this key, please press it again."
+
+MultiplayerMenuWindow.Please.select.a.server:                               Please select a server
+MultiplayerMenuWindow.ServerInaccessible.title:                             Inaccessible
+MultiplayerMenuWindow.ServerInaccessible.message:                           Server is inaccessible.
+MultiplayerMenuWindow.ServerInfoNotReceived.title:                          Please wait
+MultiplayerMenuWindow.ServerInfoNotReceived.message:                        Server info is not acquired yet...
+MultiplayerMenuWindow.ServerIncompatible.title:                             Incompatible server
+MultiplayerMenuWindow.ServerIncompatible.message.format:                    "Sorry, but this game server is running a different version of the game.
+                                                                            
+                                                                            Your game version: %game_version%
+                                                                            Server game version: %server_version%."
+
+MultiplayerMenuWindow.ServerBadName.title:                                  Attention!
+MultiplayerMenuWindow.ServerBadName.message:                                Incorrect server name
+MultiplayerMenuWindow.ServerInfo.AddressAndWhitelist.format:                Address: %address%    Whitelist: %whitelist%
+MultiplayerMenuWindow.ServerInfo.Address.format:                            Address: %address%
+MultiplayerMenuWindow.ServerInfo.PleaseWait:                                Please wait...
+MultiplayerMenuWindow.ServerInfo.Ping.format:                               %0%ms
+MultiplayerMenuWindow.AddOrEditServerWindow.Add.title:                      Add Server
+MultiplayerMenuWindow.AddOrEditServerWindow.Add.action:                     Add
+MultiplayerMenuWindow.AddOrEditServerWindow.Edit.title:                     Edit Server
+MultiplayerMenuWindow.AddOrEditServerWindow.Edit.action:                    Save
+MultiplayerMenuWindow.Delete.title:                                         Delete server
+MultiplayerMenuWindow.Delete.message:                                       Are you sure want to delete the server from this list?
+MultiplayerMenuWindow.Delete.Yes:                                           Yes
+CreateWorldWindow.DefaultWorldName:                                         New World
+CreateWorldWindow.ValidationError.title:                                    Validation error
+UILocalizationKeys.CreateWorldWindow.ValidationError.message1:              The World name must be at least 3 characters in length.
+UILocalizationKeys.CreateWorldWindow.ValidationError.message2:              The World name length can't be longer than 20 characters.
+UILocalizationKeys.CreateWorldWindow.ValidationError.message3:              The World name must be unique. Please enter another World name.
+LoadGameWindow.PleaseSelectSavegame:                                        Please select a savegame
+LoadGameWindow.IncompatibleSavegame.title:                                  Incompatible savegame
+LoadGameWindow.IncompatibleSavegame.message:                                Sorry, the savegame is incompatible with this version of the game.
+LoadGameWindow.GameEnded.title:                                             Game ended
+LoadGameWindow.GameEnded.message:                                           "You have completed this save game!
+                                                                            Do you want to start a New Game Plus in a new galaxy?
+                                                                            Your current character with all their stats
+                                                                            will be saved, but difficulty will be higher!"
+
+LoadGameWindow.LoadingSaveProgress:                                         Loading save
+LoadGameWindow.SaveGameInfo.Completed:                                      completed
+LoadGameWindow.DeleteWorld.title:                                           Delete World
+LoadGameWindow.DeleteWorld.message:                                         Do you want to delete world \"%0%\"?
+SpaceStationWindow.CannotUndock.title:                                      Can't undock
+SpaceStationWindow.CannotUndock.message:                                    Your ship must be fully equipped before undocking.
+SpaceStationWindow.Undock.NoWeaponsEquipped.title:                          No weapons equipped
+SpaceStationWindow.Undock.NoWeaponsEquipped.message:                        Your ship doesn't have weapons equipped. Are you sure want to undock?
+LocalServerController.UnableLaunch.title:                                   Unable to launch server
+LocalServerController.UnableLaunch.message:                                 Please report to AtomicTorch Forums about this issue. Sorry!
+LocalServerController.UnableLaunch.mono.message:                            "Unfortunately, the game cannot run the singleplayer game server part.
+                                                                            Please try again and if the problem persist, check the wiki-page."
+
+URL.MonoCompatibility:                                                      http://wiki.atomictorch.com/index.php?title=VoidExpanse/UnixTroubleshooting
+LocalServerController.ButtonSupportWiki:                                    Support wiki
+SpaceStationWindow.Title.format:                                            %station_name% - %xml_type_name%
+MultiplayerMenuWindow.ServerInaccessible.Description:                       Not accessible. Please check the address.
+MultiplayerMenuWindow.Server.WhiteList.on:                                  Whitelist: on
+MultiplayerMenuWindow.Server.WhiteList.off:                                 Public server
+HUDAction.JumpgateJumpToSystem.format:                                      Jump to %0%
+Money.format:                                                               %0%d
+LoadGameWindow.LoadingSaveProgress.title:                                   Loading save
+HUDAction.Speak:                                                            Speak
+HUDAction.Activate:                                                         Activate
+HUDAction.GrappleContainer:                                                 Grapple container
+Error.CantRunGameFromTemp:                                                  Can't run game from the TEMP directory. Please extract it to another folder.
+GameNotification.ControlsToggled.title:                                     Control scheme toggled
+GameNotification.ControlsToggled.message.format:                            Current control scheme: %0%.
+GameNotification.ControlsToggled.message.Manual:                            Manual
+GameNotification.ControlsToggled.message.Auto:                              Auto
+GameNotification.AutopilotOff.title:                                        Autopilot off
+GameNotification.AutopilotOff.message:                                      No autopilot route set.
+AsteroidInfoTooltip.Scanning:                                               Scanning
+ItemTooltip.DPS.format:                                                     (DPS: %0%)
+ItemTooltip.DamageTotal.format:                                             Damage: %0%
+ItemTooltip.StoredInCargo:                                                  (stored in Cargo)
+ItemTooltip.StoredInInventory:                                              (stored in Inventory)
+ItemTooltip.EquippableInSlot.format:                                        (equippable in %0% slot)
+ItemTooltip.EquippableInWeaponSlotSize.format:                              (equippable in %0% weapon slot)
+ItemTooltip.MaxAmmo:                                                        Max ammo: %0%
+ItemTooltip.AmmoRecharge.format:                                            Recharge: %value_per_second%/sec. (for %energy% energy)
+RpgStats.ExperiencePoints.format:                                           "Experience points:
+                                                                            %exp% / %exp_next_level%"
+
+StarTooltip.AsteroidsDensity.format:                                        Asteroids density: %0%
+StarTooltip.AsteroidsDensity.value.low:                                     low
+StarTooltip.AsteroidsDensity.value.medium:                                  medium
+StarTooltip.AsteroidsDensity.value.high:                                    high
+StarTooltip.AsteroidsDensity.value.unknown:                                 unknown
+StarTooltip.CapitalSystem:                                                  Capital system
+CharacterCreationWindow.CancelConfirmation.title:                           Confirmation
+CharacterCreationWindow.CancelConfirmation.message:                         Do you want to cancel and return to the Main Menu?
+CharacterCreationWindow.AcceptConfirmation.title:                           Confirmation
+CharacterCreationWindow.AcceptConfirmation.message:                         Do you want to create this character?
+GameNotification.AutopilotUnableBuildRoute.title:                           Autopilot unavailable
+GameNotification.AutopilotUnableBuildRoute.message:                         Unable to build route.
+GameNotification.AutopilotNeedUndock.title:                                 Autopilot set
+GameNotification.AutopilotNeedUndock.message:                               To start autopiloting on the selected route, please undock and press [%0%] key.
+HUDMenuIconsBar.KeyEscape:                                                  ESC
+PlayerInventoryControl.InterfaceTip.title:                                  Interface tip
+PlayerInventoryControl.InterfaceTip.message:                                To equip an item, drag it to an appropriate green lit slot.
+ItemSlotControl.BoundToKey.format:                                          Bound to [%0%] key
+ItemSlotControl.OnlyItemTypeAllowed.format:                                 Only %0% allowed
+ItemSlotTooltipControl.Level:                                               Level
+WeaponKeyBindingControl.TooltipLeftMouseButton:                             LMB
+WeaponKeyBindingControl.TooltipMiddleMouseButton:                           MMB
+WeaponKeyBindingControl.TooltipRightMouseButton:                            RMB
+QuestsJournalControl.DialogAbandonQuest.title:                              Are you sure?
+QuestsJournalControl.DialogAbandonQuest.message:                            Are you sure you want to abandon the quest?
+NpcDialogWindow.GameNotification.SelectAnswerToContinue:                    You must select an answer choice to continue
+RelationsControl.PlayerFactionAndClass.format:                              %faction%. %class%.
+SkillIconTooltip.CharacterLevel:                                            Character level: %0%
+SkillIconTooltip.SkillLevel:                                                %skill%: %level% lvl
+DockCharacterAvatarControl.ClickOnPlayer.message:                           To talk to another player, please use the chat function.
+OverviewControl.NoRefuelRequired:                                           No refuel required
+OverviewControl.NoRepairRequired:                                           No repair required
+OverviewControl.Price.format:                                               Price: %0%
+OverviewControl.Fuel.format:                                                Fuel: %0%%
+OverviewControl.Structure.format:                                           Structure: %0%%
+SystemMapControl.ErrorNavPointNameTooLong.title:                            Nav point title is too long
+SystemMapControl.ErrorNavPointNameTooLong.message:                          The nav point name should be max 50 characters long.
+SystemMapControl.ErrorNavPointCountExceeded.title:                          Nav points count exceeded
+SystemMapControl.ErrorNavPointCountExceeded.message:                        Please remove some unneeded nav points to continue.
+SystemMapControl.JumpgateTitle.format:                                      To %0%
+MasterServerLoginWindow.ValidationError.title:                              Validation error
+MasterServerLoginWindow.ValidationError.please.enter.email:                 Please enter email
+MasterServerLoginWindow.ValidationError.please.enter.password:              Please enter password
+SteamAuthWindow.SteamConnectionError:                                       Steam connection error. Please restart the game from the Steam client and be sure the Internet connection is available.
+URL.CompanySite:                                                            http://atomictorch.com
+URL.GameSite:                                                               http://voidexpanse.com
+GameEndScreen.OkClickMessage.title:                                         Notice
+GameEndScreen.OkClickMessage.message:                                       You can start a New Game Plus by loading the current save file.
+MainMenu.ModsConfigWarnings:                                                Mods config changed
+MainMenu.OfflineMode.title:                                                 Offline mode
+MainMenu.OfflineMode.message:                                               You are in offline mode. If you logout, you will be asked to connect to the Internet to login on the Master server!
+MainMenu.QuitConfirmation.message:                                          Are you sure you want to quit?
+AddOrEditServerWindow.ValidationError.title:                                Validation error
+AddOrEditServerWindow.ValidationError.message:                              Invalid server address. Please check the entered information.
+ItemsSelectionManager.Error.CannotPlaceItem:                                Cannot place item.
+ItemsSelectionManager.Error.CannotTakeItem:                                 Cannot take item.
+ItemsSelectionManager.Error.CannotEquipItem:                                Cannot equip item.
+ItemsSelectionManager.EnterAmountToBuy:                                     Amount to buy:
+ItemsSelectionManager.EnterAmountToDestroy:                                 Amount to DESTROY:
+ItemsSelectionManager.DialogDestory.title:                                  Are you sure?
+ItemsSelectionManager.DialogDestory.message:                                Do you want to DESTROY this item?
+ItemsSelectionManager.Error.NoEmptySlotAvailable:                           No empty slot available to place this item.
+ItemsSelectionManager.Error.CannotEquip:                                    Cannot equip the item.
+ItemsSelectionManager.Error.CannotMoveHull.title:                           Action prohibited.
+ItemsSelectionManager.Error.CannotMoveHull.message:                         You can't remove the hull. If you want to change the hull, drag'n'drop a hull from Storage to this slot!
+ItemsSelectionManager.EnterAmountToJettison:                                Amount to jettison:
+ItemsSelectionManager.Error.CannotPlaceTheCargo:                            Cannot place the cargo.
+ItemsSelectionManager.PleaseEnterAmountToMove:                              Amount to move:
+ItemsSelectionManager.PleaseEnterAmountToSell:                              Amount to sell:
+ItemsSelectionManager.Error.CannotStackItems:                               Cannot stack items.
+ItemsSelectionManager.Error.CannotSwapItems:                                Cannot swap items.
+ItemSlotValidatorCargoSlot.OnlyCargoAllowed:                                Only cargo allowed.
+ItemSlotValidatorDisallowItemType.CannotPlaceHere:                          You cannot place the item here
+ItemSlotValidatorDisallowQuestItem.CannotRemoveQuestItem:                   You cannot remove a quest item from inventory.
+ItemSlotValidatorPlayerEquipment.LevelRequired:                             Level %0% required.
+ItemSlotValidatorPlayerEquipment.NeedEffect:                                You need %title% %value%.
+ItemSlotValidatorShopPlayerContainer.CantBuyToSelectedSlot:                 Cannot buy to a non-empty slot with a different item type.
+ItemSlotValidatorShopView.CannotMoveItems:                                  You cannot move items in the shop.
+ItemSlotValidatorUndocked.OnlyOnStation:                                    Dock at a Space Station to change the equipment.
+ItemSlotValidatorWeaponSlot.OnlyWeaponsAllowed:                             Only weapons allowed.
+ItemSlotValidatorWeaponSlot.OnlySlotTypeAllowed:                            Wrong weapon type - only %0% weapons allowed.
+ItemSlotValidatorWeaponSlot.WrongWeaponSlotSize.format:                     Wrong weapon size - only %0%.
+ItemSlotValidatorWeaponSlot.WrongWeaponSlotSize.OrSmaller:                  or smaller allowed
+ItemSlotValidatorWeaponSlot.WrongWeaponSlotSize.AllowedSizeOne:             I allowed
+GameOptionGraphicsWindowed.Mode.Fullscreen:                                 Fullscreen
+GameOptionGraphicsWindowed.Mode.Windowed:                                   Windowed
+GameOptionGraphicsWindowed.Mode.WindowedBorderless:                         Windowed Borderless
+GameNotification.QuestUpdated.title:                                        Quest updated
+GameNotification.QuestFailed.title:                                         Quest failed
+GameNotification.QuestAdded.title:                                          Quest added
+GameNotification.QuestFinished.title:                                       Quest finished
+GameNotification.ConsumableIsNotRequiredToUse:                              Consumable is not required to use now
+GameNotification.ConsumableCannotBeUsed:                                    Consumable can't be used
+GameNotification.ObjectActivationError.TooFar:                              You are too far away
+GameNotification.ObjectActivationError.Unknown:                             Cannot activate this
+GameNotification.RefuelFailed.title:                                        Refuel failed
+GameNotification.RepairFailed.title:                                        Repair failed
+GameNotification.NotEnoughMoney:                                            You don't have enough money.
+GameObjectType.Ship:                                                        Ship
+GameObjectType.Asteroid:                                                    Asteroid
+GameObjectType.SpaceStation:                                                Space Station
+GameObjectType.Jumpgate:                                                    Jumpgate
+GameObjectType.CrateContainer:                                              Crate
+GameObjectType.Item:                                                        Item
+GameObjectType.SpaceObject:                                                 Space object
+GameObjectType.SpecialObject:                                               Special object
+GameOptionWeaponAimLineOpacity.Title:                                       Weapon aim line opacity
+GameOptionWeaponAimLineOpacity.Tooltip:                                     Opacity of the weapon aim lines.
+GameOptionGameAutoPauseSingleplayer.Title:                                  Pause on minimize
+GameOptionGameAutoPauseSingleplayer.Tooltip:                                "Do you want to pause the game when it's minimized
+                                                                            to the taskbar in single player mode?"
+
+PartyMemberControl.TextBlockOffline:                                        offline
+PartyMemberControl.TextBlockTooFar:                                         out of range
+GameNotification.PartyInvite.title:                                         Party Invite
+GameNotification.PartyInvite.message:                                       %0% has invited you into their party.
+GameNotification.PartyInvite.ButtonAccept:                                  Accept
+GameNotification.PartyInvite.ButtonDecline:                                 Decline
+GameNotification.PartyInviteFailed.title:                                   Invite to party failed
+GameNotification.PartyInviteFailed.message.Declined:                        Invite request declined by the player.
+GameNotification.PartyInviteFailed.message.PartyIsFull:                     The party is full.
+GameNotification.PartyInviteFailed.message.OtherPlayerAlreadyInParty:       The player already has a party.
+GameNotification.PartyInviteFailed.message.Unknown:                         Reason unknown.
+GameNotification.PartyJoinFailed.title:                                     Join to party failed
+GameNotification.PartyJoinFailed.message.PartyIsFull:                       The party is full.
+GameNotification.PartyJoinFailed.message.AlreadyHaveParty:                  You already have a party.
+GameNotification.PartyJoinFailed.message.Unknown:                           Reason unknown.
+PartyMemberControl.Actions.ChatPM:                                          Chat PM
+PartyMemberControl.Actions.ChatParty:                                       Chat Party
+PartyMemberControl.Actions.LeaveParty:                                      Leave the party
+PartyMemberControl.DialogLeave.title:                                       Confirmation
+PartyMemberControl.DialogLeave.message:                                     Are you sure want to leave the party?
+GameEndScreen.BtnEnd:                                                       End
+Server.SingleplayerAutosaving:                                              Autosaving...
+Server.MultiplayerSavingStart:                                              World is being saved...
+Server.MultiplayerSavingEnd:                                                Saving is done!
+Server.Commands.KickPlayer.success:                                         Player %player_to_kick% was kicked from the server by %admin%. Reason: %reason%.
+Server.Player.EnteredGame:                                                  %0% entered the game.
+Server.Player.LeftGame:                                                     %0% left the game.
+Server.Notification.Reputation.gained:                                      Gained reputation with %0%
+Server.Notification.Reputation.lost:                                        Lost reputation with %0%
+Effects.DefaultAbilityFormat:                                               {0} lvl
+Controls.None:                                                              [none]
+Controls.Backspace:                                                         Backspace
+Controls.Tab:                                                               Tab
+Controls.Return:                                                            Enter
+Controls.Pause:                                                             Pause
+Controls.Escape:                                                            Esc
+Controls.Space:                                                             Space
+Controls.Exclaim:                                                           !
+Controls.DoubleQuote:                                                       \"
+Controls.Hash:                                                              #
+Controls.Dollar:                                                            $
+Controls.Ampersand:                                                         &
+Controls.Quote:                                                             '
+Controls.LeftParen:                                                         (
+Controls.RightParen:                                                        )
+Controls.Asterisk:                                                          *
+Controls.Plus:                                                              +
+Controls.Comma:                                                             ,
+Controls.Minus:                                                             -
+Controls.Period:                                                            .
+Controls.Slash:                                                             /
+Controls.Alpha0:                                                            0
+Controls.Alpha1:                                                            1
+Controls.Alpha2:                                                            2
+Controls.Alpha3:                                                            3
+Controls.Alpha4:                                                            4
+Controls.Alpha5:                                                            5
+Controls.Alpha6:                                                            6
+Controls.Alpha7:                                                            7
+Controls.Alpha8:                                                            8
+Controls.Alpha9:                                                            9
+Controls.Colon:                                                             :
+Controls.Semicolon:                                                         ;
+Controls.Less:                                                              <
+Controls.Equals:                                                            =
+Controls.Greater:                                                           >
+Controls.Question:                                                          ?
+Controls.At:                                                                @
+Controls.LeftBracket:                                                       [
+Controls.Backslash:                                                         \\
+Controls.BackQuote:                                                         ~
+Controls.Delete:                                                            Delete
+Controls.Keypad0:                                                           Numpad 0
+Controls.Keypad1:                                                           Numpad 1
+Controls.Keypad2:                                                           Numpad 2
+Controls.Keypad3:                                                           Numpad 3
+Controls.Keypad4:                                                           Numpad 4
+Controls.Keypad5:                                                           Numpad 5
+Controls.Keypad6:                                                           Numpad 6
+Controls.Keypad7:                                                           Numpad 7
+Controls.Keypad8:                                                           Numpad 8
+Controls.Keypad9:                                                           Numpad 9
+Controls.KeypadPeriod:                                                      Numpad .
+Controls.KeypadDivide:                                                      Numpad /
+Controls.KeypadMultiply:                                                    Numpad *
+Controls.KeypadMinus:                                                       Numpad -
+Controls.KeypadPlus:                                                        Numpad +
+Controls.KeypadEnter:                                                       Numpad Enter
+Controls.KeypadEquals:                                                      Numpad =
+Controls.UpArrow:                                                           Arrow up
+Controls.DownArrow:                                                         Arrow down
+Controls.RightArrow:                                                        Arror right
+Controls.LeftArrow:                                                         Arrow left
+Controls.Insert:                                                            Insert
+Controls.Home:                                                              Home
+Controls.End:                                                               End
+Controls.PageUp:                                                            Page Up
+Controls.PageDown:                                                          Page Down
+Controls.Numlock:                                                           Numlock
+Controls.CapsLock:                                                          Caps lock
+Controls.ScrollLock:                                                        Scroll lock
+Controls.RightShift:                                                        Right Shift
+Controls.LeftShift:                                                         Left Shift
+Controls.RightControl:                                                      Right Control
+Controls.LeftControl:                                                       Left Ctrl
+Controls.RightAlt:                                                          Right Alt
+Controls.LeftAlt:                                                           Left Alt
+Controls.RightApple:                                                        Right Command
+Controls.RightCommand:                                                      Right Command
+Controls.LeftApple:                                                         Left Command
+Controls.LeftCommand:                                                       Left Command
+Controls.LeftWindows:                                                       Left Win
+Controls.RightWindows:                                                      Right Win
+Controls.RightBracket:                                                      ]
+Controls.Print:                                                             Print
+Controls.Break:                                                             Break
+Controls.Menu:                                                              Menu
+Controls.Mouse0:                                                            Left mouse button
+Controls.Mouse1:                                                            Right mouse button
+Controls.Mouse2:                                                            Center mouse button (wheel)
+Controls.Mouse3:                                                            Extra mouse button #4
+Controls.Mouse4:                                                            Extra mouse button #5
+Controls.Mouse5:                                                            Extra mouse button #6
+Controls.Mouse6:                                                            Extra mouse button #7
+Controls.Underscore:                                                        _
+GameNotification.AchievementUnlocked.title:                                 Achievement unlocked!
+GameNotification.AchievementUnlocked.visit:                                 Visit AtomicTorch.com for detailed info.
+UpcomingFeatures.text:                                                      "There is a great number of features we would like to add to the game. Below are just some of the ones we felt are most important and exciting.
+                                                                            
+                                                                            Weapon and equipment upgrades - Almost every item in the game will be upgradeable to improve its properties and characteristics.
+                                                                            
+                                                                            Missions and quest lines - We plan to add even more separate quests to the world along with a big quest lines and non story related missions.
+                                                                            
+                                                                            Crafting - Eventually we plan to devise a crafting system to allow for even more diverse gameplay and player roles.
+                                                                            
+                                                                            Advanced economic model - Trade will become even more interesting including better simulation of industry, supply, demand and other variables.
+                                                                            
+                                                                            Planetary interactions - We already have several possible ideas on how it could be implemented, but we will make sure it is fun and adds to the gameplay!
+                                                                            
+                                                                            World customizations - We would like to add more customizations when creating new worlds allowing you to make each new adventure even more unique.
+                                                                            
+                                                                            Drones - we plan to add the ability to launch drones. It will definitely be useful in combat, but hopefully in other areas as well.
+                                                                            
+                                                                            More items - We are constantly adding new content with each update and we will continue doing so.
+                                                                            
+                                                                            New ships - We already have plans (and sketches) for at least a dozen new ships.
+                                                                            
+                                                                            And many other features including from your suggestions! But will we be able to do all that? It all depends on your support. Invite your friends to join in the fun and allow the game to grow! With your support we can definitely do it!"
+
+GameOptionGameBackgroundBrightness.Title:                                   Nebulae brightness
+GameOptionGameBackgroundBrightness.Tooltip:                                 "If the background nebulae
+                                                                            are too bright for you,
+                                                                            you can make them dimmer
+                                                                            with this option."
+
+GameOptionGameBackgroundBrightness.Variants.Dimmed:                         Dimmed
+GameOptionGameBackgroundBrightness.Variants.Vibrant:                        Vibrant
+GameNotification.PartyInviteSent.title:                                     Party invite
+GameNotification.PartyInviteSent.message:                                   You've invited %0% to the party.
+GameNotification.PartyJoined.title:                                         Player accepted invite
+GameNotification.PartyJoined.message:                                       %0% joined the party!
+RelationsControl.JoinAFaction:                                              If you want to join a faction, talk to the people from that faction.
+Notification.ScreenshotCaptured.title:                                      Сaptured! Click to open the screenshots folder.
+ItemsContainer.Equipment:                                                   Equipment
+ItemsContainer.Inventory:                                                   Inventory
+ItemsContainer.Cargo:                                                       Cargo
+GalaxyMapControl.StarSystemUnavailable:                                     Selected Star System is currently inaccessible.
+URL.SteamWorkshop:                                                          http://steamcommunity.com/app/324260/workshop
+ModsMenuWindow.OpenSteamWorkshop:                                           Steam Workshop
+ModsMenuWindow.OpenModsFolder:                                              Mods Folder
+LoadGameWindow.ModRequired.title:                                           Mods required
+LoadGameWindow.ModRequired.message:                                         "One or more mods are required to load this savegame:
+                                                                            %required_mods%"
+
+Error.GameServer.SteamModRequired:                                          "One or more mods are required to play on this server:
+                                                                            %required_mods%
+                                                                            
+                                                                            Do you want to download them from Steam right now?"
+
+Error.GameServer.SteamModRequired.ButtonDownload:                           Download
+GameNotification.Docking.request.denied.invalid:                            Invalid request.
+GameNotification.Docking.request.denied.too.far:                            You are too far away.
+ModsMenuWindow.Title:                                                       Mods
+ModsMenuWindow.BtnSave:                                                     Save
+ModsMenuWindowResources.UpdateAvailable.сaption:                            [UPDATE AVAILABLE]
+ModsMenuWindowResources.Error.caption:                                      [ERROR]
+ModsMenuWindowResources.UpdateAvailable.message:                            UPDATE AVAILABLE! It will be downloaded and installed by Steam when you quit the game.
+ModsMenuWindowResources.Error.message:                                      ERROR DETECTED. This mod cannot be used.
+ModsMenuWindowResources.Downloading:                                        Downloading...
+ModsMenuWindow.DialogRemoveMod.title:                                       Confirmation
+ModsMenuWindow.DialogRemoveMod.message:                                     Are you sure want to remove this mod?
+ModsMenuWindow.ModInfo.format:                                              "ID: %id%
+                                                                            version: %version%
+                                                                            min game version: %min_game_version%
+                                                                            last update: %date%
+                                                                            author: %author%"
+
+ModType.Server:                                                             Server only
+ModType.ClientServer:                                                       Client+Server
+ModType.Client:                                                             Client only
+GameUpdateAvailableWindow.title:                                            Update available
+GameUpdateAvailableWindow.message:                                          "Good news!
+                                                                            VoidExpanse v%version% is available now.
+                                                                            Would you like to visit AtomicTorch.com to download it?"
+
+GameUpdateAvailableWindow.BtnNotNow:                                        Not now
+GameUpdateAvailableWindow.BtnNever:                                         Never!
+MainMenu.ModsLoadingErrors.title:                                           Mods loading error
+MainMenu.ModsLoadingErrors.message:                                         The game can't load selected mods. Unfortunately there were some errors while trying to load selected mods. The game was unable to determine which mod is causing this issue, but you could try disabling them one-by-one to determine which mod gives you this error. If you haven't created the mod yourself you can then contact the mod developer to let them know about the issue.
+ModsMenuWindow.CheckingModsWindow.title:                                    Checking mods configuration
+GameOptionColorBlindMode.Title:                                             Color blind mode
+GameOptionColorBlindMode.Tooltip:                                           "Activate this option if you have color blindness
+                                                                            or difficulties recongnizing the map/radar objects.
+                                                                            
+                                                                            * Deuteranopia - red-green color blindness
+                                                                            * Protanopia - red color blindness
+                                                                            * Tritanopia - blue-violet color blindness"
+
+GameOptionColorBlindMode.Off:                                               Off
+GameOptionColorBlindMode.Deuteranopia:                                      Deuteranopia
+GameOptionColorBlindMode.Protanopia:                                        Protanopia
+GameOptionColorBlindMode.Tritanopia:                                        Tritanopia
+GameOptionGraphicsFrameLimit.Variants.FPS.15:                               15 fps
+GameOptionGraphicsFrameLimit.Variants.FPS.45:                               45 fps
+Error.LocalGameServer.ExecutableNotFound.title:                             Launching error
+Error.LocalGameServer.ExecutableNotFound.message:                           "The local game server executable is missing.
+                                                                            Usually when such issue happens, this program is removed by the antivirus software (false positive).
+                                                                            To fix this, you need to add the VoidExpanse.Server.exe to the antivirus whitelist and reinstall the game.
+                                                                            Click on Troubleshooting button to read more details on our Wiki."
+
+MultiplayerMenuWindow.SortBy.OnlinePlayersCount:                            online players count
+SystemMapControl.CurrentSystem.format:                                      Current system: %0%
+GameKey.StationOverview:                                                    Station Overview
+GameKey.StationDecks:                                                       Station Decks
+GameKey.StationShop:                                                        Station Shop
+ModType.Localization:                                                       Localization
+RpgWindow.TabControl.Industry:                                              Industry
+HackingWindow.Title:                                                        Hacking
+HackingWindow.Overlay.NotStarted:                                           ACCESS PERMISSION REQUIRED
+HackingWindow.Overlay.Fail:                                                 SECURITY VIOLATION DETECTED
+HackingWindow.Overlay.Success:                                              SECURITY ACCESS GRANTED
+HackingWindow.BtnStartHack:                                                 Hack
+HackingWindow.BtnReset:                                                     Reset
+HackingWindow.ErrorNotification.ResetImpossible:                            Reset impossible
+HackingWindow.ErrorNotification.StartImpossible:                            Start impossible
+HackingWindow.ErrorNotification.RequireItem.format:                         You need %count% %item_title% to continue.
+Error.NotConnectedToMasterServer.title:                                     Connection error
+Error.NotConnectedToMasterServer.message:                                   The connection with the Master server is not properly established. Please try again.
+ItemSlotTooltip.Titles.AverageBuyingPrice:                                  Average buying price:
+Notifications.ServerLanguageDifferent.title:                                Server using different language
+Notifications.ServerLanguageDifferent.message:                              "You've connected to the server which is using %language% language.
+                                                                            Please note: dialogs and some text messages will be on %language% language."
+
+MultiplayerMenuWindow.FeaturedServer:                                       FEATURED
+MultiplayerMenuWindow.Server.ModsInfo.tooltip:                              Mods info
+MultiplayerMenuWindow.Server.ModsInfo.Windows.NoMods:                       No mods used on this server.
+MultiplayerMenuWindow.Server.ModsInfo.Windows.Title:                        Server mods list
+GameOptionGraphicsTrails.Variants.Level0:                                   Short
+GameOptionGraphicsTrails.Variants.Level1:                                   Medium
+GameOptionGraphicsTrails.Variants.Level2:                                   Long
+GameOptionGraphicsTrails.Title:                                             Trails length
+GameOptionGraphicsTrails.Tooltip:                                           "Set engine trails length of the ships and projectiles.
+                                                                            Longer trails creates more load on GPU."
+
+GameOptionSoundVolumeSoundUI.Title:                                         Sound UI Volume
+GameOptionSoundVolumeSoundUI.Tooltip:                                       "Sound UI volume affects the user interface sounds,
+                                                                            such as clicks on buttons, opening windows, etc.
+                                                                            Please note that the UI sounds volume is also
+                                                                            affected by the Sounds Volume setting."
+
+ModsMenuWindow.BtnReadMore:                                                 Read more...
+URL.GameForums:                                                             http://forums.atomictorch.com
+MainMenu.Link.ShareFeedback:                                                SHARE FEEDBACK
+ExpansionsMenuWindow.Title:                                                 Expansions
+ExpansionsMenuWindow.BtnPurchase:                                           Purchase now
+ExpansionsMenuWindow.BtnActivate:                                           Activate
+ExpansionsMenuWindow.BtnDeactivate:                                         Deactivate
+ExpansionAcknowledgmentWindow.Title:                                        Expansion activated
+ExpansionAcknowledgmentWindow.ThanksMessage:                                Thank you for purchasing the expansion!
+Expansions.DLC1.Title:                                                      Pariahs Bane
+Expansions.DLC1.DescriptionInMenu:                                          It's time to face Pariahs - a splinter pirates faction with unknown motives. Drug traffickers, assassins and other misfits are gathering up at their station and it seems that something's brewing there! Will you have the courage to infiltrate their organization, and find out what they're up to? Will you become a Pariah's Bane?
+Expansions.DLC1.DescriptionOnStart:                                         It's time to face Pariahs - a splinter pirates faction with unknown motives. Drug traffickers, assassins and other misfits are gathering up at their station and it seems that something's brewing there! Will you have the courage to infiltrate their organization, and find out what they're up to? Will you become a Pariah's Bane?

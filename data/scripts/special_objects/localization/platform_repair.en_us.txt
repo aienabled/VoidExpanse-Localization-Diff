@@ -1,0 +1,7 @@
+﻿$n0001:       Repair is not required
+$n0002:       
+$n0005:       Restored %0% structure to your ship.
+$n0006:       
+$n0003:       Power cell required
+$n0004:       
+$i0001:       Repair - 1

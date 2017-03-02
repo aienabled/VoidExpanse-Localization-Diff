@@ -1,0 +1,51 @@
+﻿$p0001:             Yes, it's me. The Great Tobby, a new prophet, voice of the almighty Xengatarn!
+$p0002:             Ramos? That ignorant fool? He will never understand my gift. I'm about to become one of the greatest men alive! The Xengatarn spoke to me!
+$p0003:             They told me that I should meet them here. They'll be here any minute now. They will take me with them and teach me their ways! I will ascend! Wait... I can feel them coming for me RIGHT NOW!
+$p0004:             ...
+$p0005:             ...
+$p0006:             ...
+$p0007:             I thought... I was so sure... They told me they would come and take me...
+$p0008:             No! I heard them! They called me! NOOOOO!
+$p0009:             I will never go back! I would rather die!
+$p0010:             A-A-A-AH!
+$p0011:             In fact, I do. I have a friend. His name is Tobby, and I think he's in trouble. I need your help in finding him and bringing him home.
+$p0012:             Well, he claimed to hear Xengatarn voices in his head. He thought that he was another prophet, like Arthur Melak. I told him that it didn't make sense, but he didn't listen.
+$p0013:             This morning he told me that the Xengatarn are calling for him. And then he disappeared. I'm worried about him. Can you bring him home?
+$p0014:             No, I don't. I knew Tobby for a long time, even before the Brotherhood. He's a dreamer, and I honestly think he made it all up.
+$p0015:             Maybe I should do it myself... I'm worried about Tobby. He might be in danger...
+$p0016:             Anyway. Safe travels!
+$p0017:             Great! I tracked him down, here are his last coordinates. Hurry up before it's too late!
+$p0018:             He's dead? How did it happen?
+$p0019:             So, the almighty Xengatarn found him unworthy of his gift. I thought it might happen - only one chosen can bear the gift of Listener. Others shall perish.
+$p0020:             Thank you, brother, for your help and for bringing me news about my friend.
+$p0021:             Well, I was afraid that might happen. Tobby was a very emotional person, and when he found out that his gift was just his imagination, he couldn't bear his... disappointment.
+$p0022:             Thank you, brother, for your help and for bringing me news about my friend.
+$p0023:             Now I will report this incident to Guardian Declan.
+$p0024:             I want you to take the money. It belonged to Tobby, but I imagine he doesn't need it anymore.
+$c0001:             I need to take you back to Ramos.
+$c0002:             What did they say?
+$c0003:             You're talking nonsense.
+$c0004:             Okay, let's wait for them together.
+$c0005:             So where are your aliens?
+$c0006:             Come on, Tobby. You need help.
+$c0007:             You're really stupid, Tobby.
+$c0008:             Tobby, wait...
+$c0009:             One more word - and I will help you with that myself.
+$c0010:             What kind of trouble?
+$c0011:             You don't think that he's a prophet, do you?
+$c0012:             Okay, I will help.
+$c0013:             I don't have time for this right now.
+$c0014:             He was killed by the Xengatarn.
+$c0015:             He blew himself up.
+$c0016:             What now?
+$c0017:             What now?
+$t0001:             Need help?
+$t0002:             Tobby is dead.
+$t0003:             Tobby
+$q0001:             Save the Prophet
+$q0002:             Tobby killed himself. I couldn't do anything.
+$q0003:             Right after Tobby's death I was attacked by Xengatarn. Looks like Tobby wasn't delusional after all. Now I need to kill these Xengatarn.
+$q0004:             Brother Ramos sent me to find his friend, Tobby. Tobby thinks that he's a prophet and can hear the voice of the Xengatarn in his head. I need to find him and bring him home.
+$q0005:             I've killed the Xengatarn scouts. Now I should get back to Brother Ramos and tell him the bad news about his friend.
+$i0001:             Brother Tobby
+$i0002:             Xengatarn

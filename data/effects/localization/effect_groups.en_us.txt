@@ -1,0 +1,10 @@
+﻿$qualifications_title:       Qualifications
+$general_title:              General
+$piloting_title:             Piloting
+$combat_title:               Combat
+$engineering_title:          Engineering
+$consumables_title:          Consumables
+$mining_title:               Mining
+$social_title:               Social
+$energy_title:               Energy
+$undefined_title:            Undefined

@@ -1,0 +1,9 @@
+﻿$p0001:             Well, there isn't much to say. There are several minor races the Federation came across while exploring the galaxy. They are very different. Some are our friends. Others... well, we don't maintain any contact. But since they don't have FTL technology it hardly matters.
+$p0002:             Among them probably only the Throgi are worth your attention. And yes, they are one of the \"minor races\" as some elitists call them. Still pretty nice people if you ask me.
+$p0003:             They are a pretty developed civilization, but they were never able to create any FTL technology. So until our intervention they were isolated in their star system.
+$p0004:             Well, we established contact with them. As far as I know we are trading some goods and industrial equipment. But I don't think they were given our jumpgate technology yet, or even if there are any plans to do so.
+$p0005:             Though, the Throgi would have been a great addition to the Federation. Don't get me wrong. Nharmars are great and all, but they are still too \"alien\" for us to really understand them.
+$c0001:             Tell me about the Throgi.
+$c0002:             That's all I needed to know.
+$c0003:             And now?
+$c0004:             That's all I needed to know.

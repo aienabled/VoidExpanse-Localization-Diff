@@ -69,11 +69,11 @@ $c0026:             I will take the Warp booster (70).
 $c0027:             I will take the Military radar booster (100).
 $c0028:             I will take the Fuel optimizer (100).
 $c0029:             I will take the Hull Regenerator (500).
-$c0030:             I've changed my mind, maybe next time.
+$c0030:             I've changed my mind. Maybe next time.
 $c0031:             I'm interested in the longest course (300).
 $c0032:             I'm interested in the medium course (120).
 $c0033:             I'm interested in the short course (50).
-$c0035:             Can you clear my skill memory with holodeck?
+$c0035:             Can you clear my skill memory with the holodeck?
 $c0034:             I've changed my mind. Maybe next time.
 $c0036:             [Reset character skills] I will spend science points (%science_points_required%)
 $c0037:             [Reset character skills] I will pay money (%money_required%d)

@@ -1,6 +1,6 @@
 ﻿$p0001:             But your fuel tank is already full.
 $p0002:             Sure, I can spare some fuel. I could refuel your ship for %money%d. Deal?
-$p0003:             You blew your reputation with the Order. Do you really think I will help you? Do something useful for the Order first. Then we'll talk.
+$p0003:             You blew your reputation with the Order. Do you really think I'll help you? Do something useful for the Order first. Then we'll talk.
 $p0004:             You blew your reputation with Freedom. Jeredan doesn't trust you anymore. Do something useful for Freedom first, then we'll talk.
 $p0005:             Our Brotherhood doesn't trust you yet. And that is all I need to know. Try doing something useful for our faction, and we can talk then.
 $p0006:             Hey! Are you trying to trick me? You don't have enough money!

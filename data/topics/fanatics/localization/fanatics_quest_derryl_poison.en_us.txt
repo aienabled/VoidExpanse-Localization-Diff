@@ -20,7 +20,7 @@ $p0019:             Don't worry, I will kill Portridge myself! One way or anothe
 $p0020:             What is this potion?
 $p0021:             Ehm... No, I don't think I will, thanks.
 $p0022:             Oh... Okay, give it to me then.
-$p0023:             Ugh… it tastes like a shoe. Thanks anyway.
+$p0023:             Ugh... it tastes like a shoe. Thanks anyway.
 $p0024:             What?! Oh, poor bastard...
 $p0025:             He's still under this Xengatarn \"curse\", isn't he? I'm telling you, it's some kind of brainwashing machine. It replaces some core principles in your brain, and you're not yourself anymore.
 $p0026:             Still, he wanted me dead... That makes me very sad. I hope one day, when the Order destroys the Xengatarn, he will become himself again. And then he will apologize for this stupidity and we will be friends again.

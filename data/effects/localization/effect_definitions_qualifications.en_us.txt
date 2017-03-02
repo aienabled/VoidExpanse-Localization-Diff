@@ -1,4 +1,6 @@
 ﻿$engineering_title:                   Engineering
+$electronics_title:                   Electronics
+$hacking_title:                       Hacking
 $piloting_light_frigates_title:       Piloting light frigates
 $piloting_heavy_frigates_title:       Piloting heavy frigates
 $piloting_light_cruisers_title:       Piloting light cruisers
@@ -7,5 +9,3 @@ $use_energy_weapons_title:            Energy weapons
 $use_ballistic_weapons_title:         Ballistic weapons
 $use_missile_weapons_title:           Missile weapons
 $use_mine_weapons_title:              Mine weapons
-$electronics_title:                   Electronics
-$hacking_title:                       Hacking

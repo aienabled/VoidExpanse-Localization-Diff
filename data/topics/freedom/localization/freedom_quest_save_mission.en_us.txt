@@ -24,13 +24,13 @@ $c0006:             It works?
 $c0007:             I will help.
 $c0008:             Give me one more minute.
 $c0009:             Yes, I'm ready.
-$c0010:             Yes. Let's leave. ( leave the Far Colonies )
+$c0010:             Yes. Let's go! ( leave the Far Colonies )
 $c0011:             No, I still have a couple of things to do.
 $t0001:             Everything ready?
 $t0002:             Current situation
 $q0001:             Exodus
 $q0002:             We're finally ready to leave these damned Far Colonies. Selek Jeredan is gathering civilian and military fleets and leading them to the ancient jumpgate. I should meet him there and see if I can be of any use.
-$q0003:             Jeredan gave the order to the civilian fleet to move through the ancient jumpgate. They will attract Xengatarn attention, so I need to eliminate all Xengatarn threats to civilian ships.
+$q0003:             Jeredan gave the order to the civilian fleet to move through the ancient jumpgate. They will attract Xengatarn attention, so I need to eliminate all Xengatarn threats and protect the civilian ships.
 $q0004:             I've protected the civilian ships. Most of them reached the jumpgate in one piece and jumped to safety. I should talk to Selek Jeredan now.
 $i0001:             Selek Jeredan
 $i0002:             Xengatarn

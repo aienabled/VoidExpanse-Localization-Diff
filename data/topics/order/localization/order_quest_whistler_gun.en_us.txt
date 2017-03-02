@@ -6,7 +6,7 @@ $p0005:             Well, one day Sgt. Ragnar will ask me about you. And my answ
 $p0006:             So, what's your answer then? Are you going to help me or not?
 $p0007:             Right, take your time. But don't expect me to give a good word for you if General Troyden asks.
 $p0008:             Okay, this broker I mentioned is on station %station%. He wants 4000d for this gun. Here, take the money.
-$p0009:             Just a reminder. Do NOT mention my name. Pretend you're buying it for yourself – and everything will go smoothly.
+$p0009:             Just a reminder. Do NOT mention my name. Pretend you're buying it for yourself - and everything will go smoothly.
 $p0010:             So, where is my gun? Go and get it for me!
 $p0011:             So, any luck with my gun?
 $p0012:             And you want me to give you 1000d more?

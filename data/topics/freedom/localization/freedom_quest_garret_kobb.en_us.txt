@@ -14,7 +14,7 @@ $p0013:             Classified information you say? Hmmm...
 $p0014:             That's strange. I have known this Garret for a long time. He is sneaky, but I always thought he was harmless... Okay, I will initiate a search in his quarters. Come back later, and I'll tell you the results.
 $p0015:             Well, why not, my dear friend! You look like a smart person, one who wouldn't pass up an opportunity to earn some money.
 $p0016:             Good! You see, I have a delicate problem here... If you help me, I'll make you a rich person! Well, at least richer than you are now.
-$p0017:             Well, strictly speaking, it's not entirely legal. But, in days like these, you have to learn how to survive, am I right?
+$p0017:             Well, strictly speaking it's not entirely legal. But, in days like these you have to learn how to survive. Am I right?
 $p0018:             Well, let me know if you change your mind. Okay?
 $p0019:             Great! Now, let me tell you about my little problem.
 $p0020:             You see, I've been doing business around this station for a while now. Started even before this whole Lockdown and Xengatarn stuff.
@@ -22,11 +22,11 @@ $p0021:             I'm an honest fence. Well, as honest as possible given my pr
 $p0022:             Right. And suddenly this moron, Kobb, shows up. A fence like me, but younger, handsomer, and he offers better prices for salvaged stuff! Now some of my customers don't want to work with me anymore. Why do you think that is?
 $p0023:             You don't say! And I can't just allow this skinny bastard to push me out of business, right?
 $p0024:             So, I have a plan. Involving you, of course! You approach this bastard Kobb with an offer he can't refuse and try to sell him this data drive.
-$p0025:             Nothing special, just some personal information belonging to the local Station Commander. But Kobb will buy it gladly. Oh yes, he will! He likes to collect certain... leverages. And after you sell it report him to the Station Commander!
+$p0025:             Nothing special, just some personal information belonging to the local Station Commander. But Kobb will buy it gladly. Oh yes, he will! He likes to collect certain... leverage. And after you sell it report him to the Station Commander!
 $p0026:             Kobb will pay a large fine and lose reputation, which will squeeze him out of this business. And I get all my customers back! It's as easy as that!
 $p0027:             Here, take this data drive. And remember - I'm counting on you!
 $p0028:             Did you? Ha-ha! Well done, my friend!
-$p0029:             You've earned my eternal gratitude...and, probably some money too, right? Ha-ha…
+$p0029:             You've earned my eternal gratitude...and, probably some money too, right? Ha-ha...
 $p0030:             So, you're selling? A data drive... What's on it?
 $p0031:             Okay, let me see...
 $p0032:             Where did you get this?! This information is private, and it belongs to the Station Commander!
@@ -39,7 +39,7 @@ $p0038:             You know what you should do? Give me this data drive. I'll f
 $p0039:             And this bastard will taste his own poison. Ha-ha, that will teach him not to mess with me!
 $p0040:             I told you this would work! Now, with Garret out of my way, there's nothing standing between me and all the money in this world!
 $p0041:             Figuratively speaking, of course.
-$p0042:             Now listen. I won't give you any money for your deed, but I am going to help you. I'm Selek Jeredan's cousin, and he listens to my opinion, well most of the time anyway. So, I will tell him about you and how you've helped me.
+$p0042:             Now listen. I won't give you any money for your deed, but I am going to help you. I'm Selek Jeredan's cousin, and he values my opinion, well most of the time anyway. So, I'll tell him about you and how you've helped me.
 $c0001:             Garret is trying to set Kobb up. He gave me this drive to plant on Kobb.
 $c0002:             I saw Kobb buying a data drive with some classified information. You should investigate.
 $c0003:             I saw Garret buying a data drive with some classified information. You should investigate.

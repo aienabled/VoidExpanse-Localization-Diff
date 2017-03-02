@@ -39,8 +39,8 @@ $p0022:             Permissions have been changed successfully.
 $p0023:             Start copying files from the current directory to local storage? Y/N
 $p0024:             Remove all files from the current directory? Y/N
 $p0025:             User %player% has been successfully added to reading access group.
-$p0026:             Data copying is complete. All files transfered to a local storage.
-$p0027:             Attempt of unauthorized access detected. Protection protocols initiated. All data erased.
+$p0026:             Data copying is complete. All files transferred to local storage.
+$p0027:             Unauthorized access detected. Protection protocols initiated. All data erased.
 $c0001:             Yes, I'm an accomplished hacker.
 $c0002:             No.
 $c0003:             I was just kidding. I was hacking Federation servers even before the Lockdown.
@@ -84,4 +84,4 @@ $t0005:             [Hack the device]
 $q0001:             Hack Fanatics' device
 $q0002:             Scientist Rosco just received a device that belonged to the Fanatics. He needs my help to hack it. I should use the station terminal to hack this device.
 $q0003:             I have successfully hacked the device and accessed protected files. I should report the result to Rosco as soon as possible.
-$q0004:             I accidentally triggered an anti-hacking mechanism and ruined all stored data on the device. I should tell Scientist Rosco about that.
+$q0004:             I accidentally triggered an anti-hacking mechanism and ruined all the stored data on the device. I should tell Scientist Rosco about that.

@@ -3,6 +3,7 @@ $i0002:       Pirate
 $i0003:       Pirate Den
 $i0004:       Pirate Guard
 $i0005:       Station Commander
+$i0060:       Manufacturing Terminal
 $i0006:       Boris
 $i0007:       Garcia
 $i0008:       Barrich

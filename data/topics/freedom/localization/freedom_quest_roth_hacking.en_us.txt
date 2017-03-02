@@ -2,7 +2,7 @@
 $p0002:             I might have something for you. As you know, Freedom are now at peace with the Order, but this peace is just a formality.
 $p0003:             There are rumors that the Order is bringing together a special unit of operatives - to work against Freedom, disrupt our operations. In other words, they want to put a wrench in our gears.
 $p0004:             This is a source of constant concern for our mercenaries. And you don't want these guys to get nervous, do you?
-$p0005:             They see us as a constant pain in their ass. And, as a rival power here in the Far Colonies, It it entirely possible for them to want to get rid of us.
+$p0005:             They see us as a constant pain in their ass. And, as a rival power here in the Far Colonies, it's entirely possible they want to get rid of us.
 $p0006:             Anyway, do you want to help or not?
 $p0007:             So, I'm eager to find out the truth about this special unit. And you can help me with that!
 $p0008:             Information about this unit is hidden somewhere in the Order computer network. I cannot get in, of course, as my face is widely known to the Order officers. But you can get inside the Order's stations no problem!

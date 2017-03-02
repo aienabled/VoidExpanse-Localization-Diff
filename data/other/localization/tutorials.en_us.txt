@@ -10,9 +10,7 @@ $movement_text:                 "Your ship is equipped with several thruster eng
                                 
                                 If you haven't changed the control scheme the default keys for movement are [W][A][S][D] for main controls plus [Q][E] for lateral shifting.
                                 
-                                But most important, and by important I mean PRETTY DAMN IMPORTANT is the cruise mode. It allows your ship to move very fast when you are traveling long distances. It is activated by [C]. Make sure you remember this key!
-                                
-                                Oh, and press F1 for quick key reference. It will show you all the default key bindings."
+                                But most important, and by important I mean PRETTY DAMN IMPORTANT is the cruise mode. It allows your ship to move very fast when you are traveling long distances. It is activated by [C]. Make sure you remember this key!"
 
 $inventory_space_title:         Inventory screen
 $inventory_space_text:          "Here you can see the inventory screen. You can examine different modules installed on your ship and see what you have in cargo.
@@ -36,7 +34,7 @@ $inventory_station_text:        "Here you can see your hangar screen. You can eq
 $overview_station_title:        Space station
 $overview_station_text:         "Great, you've just docked to a space station. Here you can do many things. In particular on this screen you can refuel or repair your ship or undock back into space.
                                 
-                                But your first mission is to talk to a One-Eyed Joe. If you haven't read your quest journal yet it might be a good time to do so now. After that, visit the Decks section and look for this guy. He will be happy to explain more to you. Make sure to listen to him carefully. He could teach you many useful things."
+                                But your first mission is to talk to a One-Eyed Joe. If you haven't read your quest journal yet it might be a good time to do so now. After that, visit the Decks section and look for him. He will be happy to explain more to you. Make sure to listen to him carefully. He could teach you many useful things."
 
 $decks_station_title:           Decks
 $decks_station_text:            "Here you can meet different people who are currently on this station. You can click on their portraits to talk to them, ask about the world, or most importantly, take missions from them.
@@ -61,7 +59,7 @@ $minimap_space_text:            "You will be using your radar a lot in VoidExpan
 $store_station_title:           Station store
 $store_station_text:            "This is the station store.
                                 
-                                Different stations will have different stuff available in stock. For example, military stations offer you the best selection of military gear, while outposts (like the one you are on now) have a good selection of ships. The selection of items is also influenced by the tech level of the star system. A higher tech level will result in better stuff being available for sale.
+                                Different stations will have different items available in stock. For example, military stations offer you the best selection of military gear, while outposts (like the one you are on now) have a good selection of ships. The selection of items is also influenced by the tech level of the star system. A higher tech level will result in better items being available for sale.
                                 
                                 To buy anything simply drag the item from the store either to your storage grid or directly to your inventory. Ships must be stored in the storage area. You can't really put a ship inside another ship, can you?
                                 
@@ -112,11 +110,11 @@ $missiles_text:                 "You just equipped your first missile weapon. Th
 $trading_title:                 Trading
 $trading_text:                  "You just sold your first item to the store.
                                 
-                                Essentially all items are devided into two major categories: items (1) and goods/ore (2). Depening on its type you might have even received some experience.
+                                Essentially all items are divided into two major categories: items (1) and goods/ore (2). Depending on its type you might even received some experience.
                                 
-                                Items are always sold for the price that benefits the store, but you can improve it in your favor with special skills.
+                                Items are always sold for a price that benefits the store, but you can improve it in your favor with special skills.
                                 
-                                Goods and ore on the other hand - you can trade them to earn some cash and experience depending on how much profit you make from each transaction.
+                                Goods and ore, on the other hand, can be traded to earn cash and experience depending on how much profit you make from each transaction.
                                 
-                                Try it and see what happends! You might also try finding some profitable trade routes to make it into your main source of money, but don't forget to buy a proper ship with large cargo holds!"
+                                Try it and see what happens! You might also try looking for some profitable trade routes to turn into your main source of income, but don't forget to buy a proper ship with large cargo holds!"
 

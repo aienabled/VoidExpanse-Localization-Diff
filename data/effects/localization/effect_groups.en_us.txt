@@ -5,6 +5,7 @@ $combat_title:               Combat
 $engineering_title:          Engineering
 $consumables_title:          Consumables
 $mining_title:               Mining
+$industry_title:             Industry
 $social_title:               Social
 $energy_title:               Energy
 $undefined_title:            Undefined

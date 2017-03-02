@@ -13,7 +13,7 @@ $p0012:             But power is not absolute. For every power there is a bigger
 $p0013:             What else do you believe in?
 $p0014:             Yes, you should. You really should!
 $p0015:             You can never betray yourself. You can never sell yourself. You will always belong to yourself. Otherwise - you do not exist.
-$p0016:             Maybe I do. Maybe I don't. Perhaps one day you will understand what I'm saying, comprehend this very concept.
+$p0016:             Maybe I am. Maybe not. With time, you may come to understand what I'm talking about and comprehend this very profound concept.
 $p0017:             Well, I cannot demand this of you. Maybe it's beyond your reach.
 $p0018:             If you want to join us, you need to pass my tests. And it won't be easy.
 $p0019:             The first test is a test of might. You need to show that you're experienced enough, that you're ready for us. [Level 10 required]
@@ -33,13 +33,13 @@ $p0032:             Mercenary Roth trusts you completely after that deal with Or
 $p0033:             Mechanic Sheldon told us about your heroic deeds with the Xengatarn. Good job!
 $p0034:             Mercenary Batto sent a word about you. I can't tell for sure, but he seems to like you.
 $p0035:             I heard about that business with Judd. You saved not only his life, but Freedom's image itself. Good job.
-$p0036:             No, you did not. To pass this test, you need FOUR people among Freedom who trust you.
-$p0037:             Next time I probably should include a math test also...
 $p0038:             Yes, you've passed the Test of Trust.
 $p0039:             However, you didn't pass the Test of Might. [Level 10 required]
 $p0040:             Come back when you have more experience.
 $p0041:             And you have also passed the Test of Might. You're strong enough to join us.
 $p0042:             There's only one test left. The Test of Wisdom.
+$p0036:             No, you did not. To pass this test, you need FOUR people among Freedom who trust you.
+$p0037:             Next time I probably should include a math test also...
 $p0043:             The Test of Wisdom is a question. Answer it correctly - and you will join Freedom. Easy.
 $p0044:             Okay, here's the question: 'What is the key to true power over the universe?'
 $p0045:             Exactly! You're smarter than you look, kid!

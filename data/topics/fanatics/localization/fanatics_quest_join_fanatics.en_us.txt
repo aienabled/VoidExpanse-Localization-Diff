@@ -9,7 +9,7 @@ $p0008:             The deal is simple. Bring me two alien relics and I'll make 
 $p0009:             So, did you bring me two alien relics?
 $p0010:             No? You do remember our deal, right? I need TWO ancient alien artifacts. No less. Return to me when you have them.
 $p0011:             Ah, great! Now, back to business. I will send word to the Fanatics about you. They won't shoot you on sight and will listen to what you have to say. Use this chance wisely.
-$p0012:             You should find a man named Dostan. He's one of their so called Guardians, apparently – a high rank in their faction. He's on %station% station in the %system% system.
+$p0012:             You should find a man named Dostan. He's one of their so called Guardians, apparently - a high rank in their faction. He's on %station% station in the %system% system.
 $p0013:             Alien artifacts usually can be found in special secured crates in almost every system. They're marked as yellow dots on your system map. You just have to look for them.
 $p0014:             Well well well. If it's not Mannis' newest courier. And now you want to join us? What do you know about us? Do you even know who we are?
 $p0015:             Wrong guess. So, you know nothing. And still you want to join us. May I know why?

@@ -53,7 +53,7 @@ SkillIconTooltip.RequirementsTitle:                                         REQU
 SkillIconTooltip.EFFECTS:                                                   EFFECTS
 SkillIconTooltip.CurrentLevelTextBlock:                                     CURRENT LEVEL:
 SkillIconTooltip.NextLevelTextBlock:                                        NEXT LEVEL:
-SkillIconTooltip.cost:                                                      cost:
+SkillIconTooltip.cost:                                                      Cost:
 SkillIconTooltip.pts:                                                       pts
 NpcDialogWindow.BtnClose:                                                   Goodbye
 OnlineUsersListWindow.Title:                                                Online
@@ -958,7 +958,7 @@ GameNotification.Docking.request.denied.invalid:                            Inva
 GameNotification.Docking.request.denied.too.far:                            You are too far away.
 ModsMenuWindow.Title:                                                       Mods
 ModsMenuWindow.BtnSave:                                                     Save
-ModsMenuWindowResources.UpdateAvailable.сaption:                            [UPDATE AVAILABLE]
+ModsMenuWindowResources.UpdateAvailable.caption:                            [UPDATE AVAILABLE]
 ModsMenuWindowResources.Error.caption:                                      [ERROR]
 ModsMenuWindowResources.UpdateAvailable.message:                            UPDATE AVAILABLE! It will be downloaded and installed by Steam when you quit the game.
 ModsMenuWindowResources.Error.message:                                      ERROR DETECTED. This mod cannot be used.
@@ -986,7 +986,7 @@ MainMenu.ModsLoadingErrors.message:                                         The 
 ModsMenuWindow.CheckingModsWindow.title:                                    Checking mods configuration
 GameOptionColorBlindMode.Title:                                             Color blind mode
 GameOptionColorBlindMode.Tooltip:                                           "Activate this option if you have color blindness
-                                                                            or difficulties recongnizing the map/radar objects.
+                                                                            or difficulties recognizing the map/radar objects.
                                                                             
                                                                             * Deuteranopia - red-green color blindness
                                                                             * Protanopia - red color blindness
@@ -1000,9 +1000,9 @@ GameOptionGraphicsFrameLimit.Variants.FPS.15:                               15 f
 GameOptionGraphicsFrameLimit.Variants.FPS.45:                               45 fps
 Error.LocalGameServer.ExecutableNotFound.title:                             Launching error
 Error.LocalGameServer.ExecutableNotFound.message:                           "The local game server executable is missing.
-                                                                            Usually when such issue happens, this program is removed by the antivirus software (false positive).
-                                                                            To fix this, you need to add the VoidExpanse.Server.exe to the antivirus whitelist and reinstall the game.
-                                                                            Click on Troubleshooting button to read more details on our Wiki."
+                                                                            Usually when this issue occurs, the program is removed by the antivirus software (false positive).
+                                                                            To fix this, you need to add VoidExpanse.Server.exe to the antivirus whitelist and reinstall the game.
+                                                                            Click on the Troubleshooting button to read more details on our Wiki."
 
 MultiplayerMenuWindow.SortBy.OnlinePlayersCount:                            online players count
 SystemMapControl.CurrentSystem.format:                                      Current system: %0%
@@ -1034,8 +1034,8 @@ MultiplayerMenuWindow.Server.ModsInfo.Windows.Title:                        Serv
 GameOptionGraphicsTrails.Variants.Level0:                                   Short
 GameOptionGraphicsTrails.Variants.Level1:                                   Medium
 GameOptionGraphicsTrails.Variants.Level2:                                   Long
-GameOptionGraphicsTrails.Title:                                             Trails length
-GameOptionGraphicsTrails.Tooltip:                                           "Set engine trails length of the ships and projectiles.
+GameOptionGraphicsTrails.Title:                                             Trail length
+GameOptionGraphicsTrails.Tooltip:                                           "Set engine trail length for ships and projectiles.
                                                                             Longer trails creates more load on GPU."
 
 GameOptionSoundVolumeSoundUI.Title:                                         Sound UI Volume
@@ -1051,8 +1051,20 @@ ExpansionsMenuWindow.Title:                                                 Expa
 ExpansionsMenuWindow.BtnPurchase:                                           Purchase now
 ExpansionsMenuWindow.BtnActivate:                                           Activate
 ExpansionsMenuWindow.BtnDeactivate:                                         Deactivate
+ExpansionsMenuWindow.DialogDeactivate.Message:                              "Are you sure you want to deactivate this expansion?
+                                                                            You won't be able to load any existing savefiles created when the expansion was active."
+
+ExpansionsMenuWindow.MessageExpansionActive:                                Expansion is active.
+ExpansionsMenuWindow.MessageExpansionDisabled:                              Expansion is disabled.
+ExpansionsMenuWindow.MessageExpansionNotInstalled:                          Expansion not installed.
 ExpansionAcknowledgmentWindow.Title:                                        Expansion activated
-ExpansionAcknowledgmentWindow.ThanksMessage:                                Thank you for purchasing the expansion!
-Expansions.DLC1.Title:                                                      Pariahs Bane
-Expansions.DLC1.DescriptionInMenu:                                          It's time to face Pariahs - a splinter pirates faction with unknown motives. Drug traffickers, assassins and other misfits are gathering up at their station and it seems that something's brewing there! Will you have the courage to infiltrate their organization, and find out what they're up to? Will you become a Pariah's Bane?
-Expansions.DLC1.DescriptionOnStart:                                         It's time to face Pariahs - a splinter pirates faction with unknown motives. Drug traffickers, assassins and other misfits are gathering up at their station and it seems that something's brewing there! Will you have the courage to infiltrate their organization, and find out what they're up to? Will you become a Pariah's Bane?
+Expansions.DLC1.Title:                                                      Pariahs' Bane
+Expansions.DLC1.DescriptionInMenu:                                          Pariahs' Bane Expansion offers you an opportunity to dive into a brand-new storyline involving pirates, sabotage and gang wars. Join the merciless crew of the Pariahs and if you play your cards right, you'll get a lot more than you bargained for!
+Expansions.DLC1.DescriptionOnStart:                                         "Thank you for purchasing the Pariahs' Bane expansion!
+                                                                            
+                                                                            In this brand-new storyline you will face a new threat to the sector - a group of pirates and renegades know as Pariahs, led by the infamous Shank Twice. Pariahs ask for \"favors\" that no one can refuse, and you might become one of those unfortunates.
+                                                                            
+                                                                            Start your story by finding Shady Mike on the station and see where the subsequent events will take you!"
+
+GameOptionGraphicsDisplay.Title:                                            Display
+GameOptionGraphicsDisplay.Tooltip:                                          Select active display for the game (only in Fullscreen mode).

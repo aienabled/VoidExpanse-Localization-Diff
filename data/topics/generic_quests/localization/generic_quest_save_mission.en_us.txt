@@ -1,8 +1,8 @@
 ﻿$p0001:             One of our civilian transport ships was ambushed by pirates. You need to go to the crash site and look for survivors.
-$p0002:             There was a large-scale battle between our patrols and pirates not too far from here. Some of our ships were destroyed, but there may be survivors.
-$p0003:             Not so long ago our patrols destroyed a pirate ship smuggling slaves. We do not tolerate slavery, so it was... disabled. Some of the slaves were killed by pirates, but some of them could have survived this confrontation.
-$p0004:             Our scanners are picking up the life signs in the wreckage. You must go there and extract the survivors. Hurry, their life signs are getting weaker every moment.
-$p0005:             And be sure you have enough space for the survivors in your ship.
+$p0002:             There was a large-scale battle between our patrols and pirates not too far from here. Some of our ships were destroyed, and we believe there are survivors.
+$p0003:             Not so long ago our patrols destroyed a pirate ship smuggling slaves. We do not tolerate slavery, so it was... disabled. Some of the slaves were killed by pirates, but some of them seem to have survived this confrontation.
+$p0004:             Our scanners are picking up life signs in the wreckage. You must go there and extract the survivors. Hurry, their life signs are getting weaker every moment!
+$p0005:             And be sure you have enough space for them in your ship.
 $p0006:             Why are you still here? Our people are dying while you are just standing there doing nothing!
 $p0007:             Rescue mission? Never heard of it. You probably took it on another station.
 $p0008:             You've saved all of them! Good job! We'll take care of them from here.

@@ -36,7 +36,7 @@ $p0035:             First we need to prove to them that our fanatics have change
 $p0036:             So, what's the best thing to bribe them with? Luxuries of course! And what's the best thing to prove to them that we are not alien worshippers anymore? Blast some aliens and have some proof of it.
 $p0037:             Then I'll make sure that it'll end up in the right hands. The hands of people who can influence others, to be precise.
 $p0038:             The bottom line is - bring me at least 5 packages of luxurious goods and at least one alien organ that looks like a mushroom with tentacles. I believe you can get them from destroyed Xengatarn ships.
-$p0039:             So, did you bring me 5 packages of luxurious goods and one alien brain… thing?
+$p0039:             So, did you bring me 5 packages of luxurious goods and one alien brain... thing?
 $p0040:             Seriously, you're giving me a headache.
 $p0041:             Well, that's the difficult part. Sorry buddy, but you are on your own. Eventually you will find everything we need, just keep looking!
 $p0042:             Great! Took you some time to find it, though. But the important thing is that you did find everything we need!

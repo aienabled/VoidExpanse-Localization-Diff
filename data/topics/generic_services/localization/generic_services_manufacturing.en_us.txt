@@ -1,0 +1,41 @@
+﻿$p0001:             Manufacturing terminal: Ready for input. Please configure manufacturing specifications.
+$p0002:             Please select required component to be manufactured.
+$p0003:             Displaying specification for: structural components. Manufacturing requires basic proficiency.
+$p0004:             Displaying specification for: mechanical components. Manufacturing requires basic proficiency.
+$p0005:             Displaying specification for: electronic components. Manufacturing requires advanced proficiency.
+$p0006:             Displaying specification for: composite components. Manufacturing requires advanced proficiency.
+$p0007:             Displaying specification for: power components. Manufacturing requires expert proficiency.
+$p0008:             Displaying specification for: control components. Manufacturing requires expert proficiency.
+$p0009:             Required resources: %ore_glepsite% glepsite ore, %ore_cyactite% cyactite ore, %ore_fraclasite% fraclasite ore, %ore_mangkolite% mangkolite ore, %ore_seralucite% seralucite ore, %ore_serizonite% serizonite ore.
+$p0010:             You don't have required resources or skills. Manufacturing not possible.
+$p0011:             Manufacturing completed. Runs: %q%.
+$p0012:             Greetings. In this documentation you may find all the necessary information describing the manufacturing process.
+$p0013:             This station is equipped with state-of-the-art machinery that enables easy manufacturing and set up for all suitably qualified industrial engineers.
+$p0014:             Necessary qualifications:
+$p0015:             Prior to using the manufacturing station, the user should obtain at least basic industrial qualifications such as \"Basic Manufacturing\". However, in order to enable the use of advanced blueprints (recipes) the user must be qualified with an Advanced or Expert level of proficiency in industrial skills.
+$p0016:             Materials:
+$p0017:             To produce an item from the list of pre-loaded blueprints (recipes) the user must possess all the necessary materials. Listings of the required material can be found in a blueprint itself after selecting it from the manufacturing menu.
+$p0018:             Manufacturing process:
+$p0019:             Upon receiving the materials the auto-factory will start the production cycle. When the cycle completes the manufactured goods will be immediately delivered to the user.
+$p0020:             Please note that the materials used in the manufacturing process cannot be recovered.
+$p0021:             In case of any malfunctions, please contact the station mechanic for diagnostics. This factory cannot malfunction.
+$p0022:             Have a pleasant manufacturing process!
+$c0001:             Manufacture...
+$c0002:             Manufacturing help...
+$c0003:             Disconnect.
+$c0004:             [Basic manufacturing] Structural components
+$c0005:             [Basic manufacturing] Mechanical components
+$c0006:             [Advanced manufacturing] Electronic components
+$c0007:             [Advanced manufacturing] Composite components
+$c0008:             [Expert manufacturing] Power components
+$c0009:             [Expert manufacturing] Control components
+$c0010:             Disconnect.
+$c0011:             Manufacture: 1
+$c0012:             Manufacture: 5
+$c0013:             Manufacture: 10
+$c0014:             Return.
+$c0015:             Next...
+$c0016:             Next...
+$c0017:             Next...
+$c0018:             Next...
+$c0019:             Return.

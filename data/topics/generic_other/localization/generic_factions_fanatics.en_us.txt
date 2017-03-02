@@ -1,15 +1,15 @@
 ﻿$p0001:             Is there anything in particular you want to know about the Fanatics?
 $p0002:             Our history doesn't matter. The only thing that matters is what we do.
 $p0003:             Well, as I've heard, after the Lockdown some people started going crazy. The Order and Freedom gathered them together and sent them away to some planet. That's pretty much all I know.
-$p0004:             I think they're a bunch of madmen. Collecting Xengatarn guts and... who knows what else they are doing.
-$p0005:             I'm trying not to think about them. At least they do not interfere with us.
+$p0004:             I think they're a bunch of madmen. Collecting Xengatarn guts and... who knows what else they're doing.
+$p0005:             I'm trying not to think about them. At least they don't interfere with us.
 $p0006:             In our faction we are brothers and sisters, united by a common purpose.
-$p0007:             Well, honestly. I don't know what to think.
+$p0007:             Well, honestly, I don't know what to think.
 $p0008:             Hiring? Such a vulgar world. We are a brotherhood, not a bunch of mercs. If you want to become one of us, speak to Guardian Dostan. He will decide whether you're worthy to join us or not.
 $p0009:             You can find Guardian Dostan on station %station% in the %system% system.
 $p0010:             You're already one of us.
 $p0011:             You are already in a faction. I don't think you can join another one.
-$p0012:             Well, Fanatics are a rather closed community. I've never heard of anyone joining them willingly. Besides, they won't let you close – as I've heard, they're blasting any stranger approaching them.
+$p0012:             Well, Fanatics are a rather closed community. I've never heard of anyone joining them willingly. Besides, they won't let you close - as I've heard, they're blasting any stranger approaching them.
 $p0013:             But I've heard that some of the Freedom faction actually trade with them. They might know more. Ask them.
 $p0014:             Oh, they ARE hiring. You just need to know the right approach.
 $p0015:             Well, personally I don't know anything about it. But I've heard that Mannis, a broker on one of our stations, has some sort of business with them. He may know something. You can find him on %station% in the %system% system.

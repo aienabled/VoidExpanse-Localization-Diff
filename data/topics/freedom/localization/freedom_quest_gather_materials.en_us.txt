@@ -5,7 +5,7 @@ $p0004:             Now it's the most powerful corporation in the world. Do you 
 $p0005:             Ha! You are close, but it isn't just that.
 $p0006:             That too, but it's still not the main reason.
 $p0007:             The company discovered an untouched Ergrek ruin while dumping their trash pods on a desolate planet. That happened to be one of the greatest discoveries in the history of humanity, after the discovery of the first jumpgate on Europa, of course.
-$p0008:             Since then, for decades all major corporations tried to lay their hands on Ergrek artifacts across the galaxy. It was a hidden war for the biggest technology corporations.
+$p0008:             Since then, all major corporations tried to lay their hands on Ergrek artifacts across the galaxy. It was a hidden, decades-long war between the biggest technology corporations .
 $p0009:             Patience, my friend, patience. I'm getting to that.
 $p0010:             Before the Lockdown I was CEO of Gemini Corp. One of our primary tasks was to locate unknown Ergrek technologies and artifacts and secretly retrieve them.
 $p0011:             When humanity reached the Far Colonies and started their expansion here, I invested huge amounts of money and effort looking for Ergrek artifacts in this area.

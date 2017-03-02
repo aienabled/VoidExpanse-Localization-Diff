@@ -10,7 +10,7 @@ $default_has_topics:        "So, what will it be?",
                             "Is there anything I can help you with?",
                             "Have I seen you before somewhere?",
                             "Want to talk?",
-                            "I am always up for a good chat."
+                            "I'm always up for a good chat."
 
 $terminal_no_topics:        Terminal is offline.
 $terminal_has_topics:       Awaiting input.

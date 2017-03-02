@@ -13,10 +13,10 @@ $p0012:             We think that this mastermind is something like a 'network' 
 $p0013:             This hive network is well guarded, so raider attacks won't work in this case. We need to gather our armada once again and attack them together.
 $p0014:             In the very system where it all began. %system%.
 $p0015:             If we gather our forces and attack this system together, we might have a chance to end this war. But there's one problem.
-$p0016:             We cannot effectively gather our forces in enemy territory. So, we need to liberate at least one of the adjacent systems, so we can gather our armada and attack.
+$p0016:             We cannot effectively gather our forces in enemy territory. We need to liberate at least one of the adjacent systems, so we can muster our armada and attack.
 $p0017:             Yes, you are correct.
 $p0018:             You are joining our raider attacks, but you will have a task of your own. Go out there, kill as many hives as you can. I will pay you 2500d for each destroyed hive.
-$p0019:             But your main task is to liberate one of the Xengatarn systems that are adjacent to the %system% system. Then we will gather all our forces there for the final attack.
+$p0019:             But your main task is to liberate one of the Xengatarn systems that are adjacent to the %system% system. Then we will assemble all our forces there for the final attack.
 $p0020:             The Xengatarn use a network of hives to control each system. If you destroy all of the hives in a system, the Xengatarn won't be able to control that system anymore.
 $p0021:             I know this task is difficult and dangerous, but that's exactly why I chose you for this mission.
 $p0022:             Yes, you can hire one of the mercenaries to aid you. But that will cost you no less than 1000d.
@@ -24,7 +24,7 @@ $p0023:             And if your companion dies, you will have to pay for his rec
 $p0024:             Good luck, soldier. Humanity is counting on you.
 $p0025:             Do you have anything to report?
 $p0026:             The fate of humanity is now in our hands. Do I have to remind you about that?
-$p0027:             Good job! Here's your money, as I've promised.
+$p0027:             Good job! Here's your money, as promised.
 $p0028:             Our attacks are going well. We've already destroyed dozens of Xengatarn ships and a few hives with almost no casualties on our side.
 $p0029:             Everything is going according to plan.
 $p0030:             You already have a companion.

@@ -63,7 +63,7 @@ $c0016:             What problem?
 $c0017:             So, you can't help me after all?
 $c0018:             Where should I look for these energy sources?
 $c0019:             How can I find this energy source among all the wrecks? I'm not exactly a ship designer...
-$c0020:             I lost the energy scanner…
+$c0020:             I lost the energy scanner...
 $c0021:             Here it is.
 $c0022:             Not yet.
 $c0023:             ( wait )

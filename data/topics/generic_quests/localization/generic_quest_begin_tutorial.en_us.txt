@@ -32,16 +32,16 @@ $p0031:             Well, I think you're ready for the final task!
 $p0032:             Got 50 pieces of glepsite ore? No? Well, take your time.
 $p0033:             Okay, listen again. And pay attention this time. First you need to get a mining device. You can use a civilian version for now. It's available for free in the store on this station. Just grab one.
 $p0034:             Once you have it, you need to equip it into your device slot. Then just undock from the station and find an asteroid rich in glepsite.
-$p0035:             When you found an asteroid make sure to stop your ship close to it and use the device on the asteroid. You will see that the mining beam is activated. Do that several times until you get enough glepsite. Then return to me.
-$p0051:             Yes. You need these gate access keys to leave this star system, right? And I may just be able to help you with that!
-$p0052:             I heard recently that pirates use one of the old terminals here, in this very system to store some stolen goods.
-$p0053:             You will help me to give them a lesson by stealing all their loot! And in the process you will also get access to the gate network.
-$p0054:             Normally you would need to put some effort if you want to break such a terminal.
-$p0055:             But it seems they completely ruined the security system in the process of trying to hack it, so it will be a piece of cake for you.
-$p0056:             I've marked the location on your system map. Now go! When you are done, come to see me and I will explain you how to use these gate codes.
-$p0057:             Hm? I already told you to go and hack that old terminal. Who needs these gate codes me or you? Go!
-$p0058:             Good job. I had no doubts you would be able to hack that thing! Now about these gate codes.
-$p0059:             These codes are entered into your ship's computer automatically and when you want to jump through a gate - simply activate the gate and the software will handle everything for you!
+$p0035:             When you find an asteroid, make sure to stop your ship close to it and use the device on the asteroid. You'll see the mining beam activate. Do that several times until you get enough glepsite. Then return to me.
+$p0051:             Yes. There are gate access keys you need to leave this star system, ok? I'm pretty sure I know how you can get them!
+$p0052:             I heard recently that pirates have been using one of the old terminals here, in this very system, to store their plunder.
+$p0053:             You'll help me teach them a lesson by taking all their loot! And in the process you'll also get access to the gate network.
+$p0054:             Normally it'd be pretty difficult to break into one of these terminals.
+$p0055:             But it seems they completely ruined the security system in the process of trying to hack it, so it should be a piece of cake for you.
+$p0056:             I've marked the location on your system map. Now go! When you're done, come see me and I'll show you how to use those gate codes.
+$p0057:             Hmm? I already told you to go and hack the old terminal. Do you want the gate codes or not? Go!
+$p0058:             Good job. I had no doubt that you'd be able to hack that thing! Now about the gate codes.
+$p0059:             These codes are entered into your ship's computer automatically. When you want to jump through a gate, simply activate the gate and the software will handle everything for you!
 $p0060:             Good luck with your adventures, my friend!
 $p0036:             Next? Well, it's up to you! As they say, you can be whatever you wanna be. Got it?
 $p0037:             But I really think you should join a faction. You won't get far unless you join one of the big powers here. Order might be a good option for you.
@@ -74,7 +74,7 @@ $c0013:             What kind of service?
 $c0014:             Sure, that sounds fair.
 $c0015:             Okay.
 $c0016:             How do I mine asteroids, again?
-$c0030:             Wait, Joe... I've recently hacked one old terminal in this system...
+$c0030:             Wait, Joe... I recently hacked an old terminal in this system...
 $c0029:             So, what do I need to do?
 $c0017:             Give me the package you stole, now!
 $c0018:             You're lying! And you'll die for that!
@@ -108,13 +108,13 @@ $q0006:             I successfully completed Joe's task. He gave me a new ship h
 $q0007:             I should buy a mining device, equip it, and try to extract 50 pieces of glepsite ore from nearby asteroids. Then I should bring it back to One-eyed Joe and collect my reward.
 $q0008:             I've completed Joe's task, and he gave me my reward, just as we agreed.
 $q0013:             Joe said that he has a new task for me, which should be the last one. I need to ask him about it.
-$q0014:             I need to find an old terminal which is currently used by pirates as their secret stash location. Then I need to hack it and grab all the loot there. This should give me the necessary access codes to the gate network allowing me to leave this star system. I should report to Joe when I'm done with hacking.
+$q0014:             I need to find an old terminal which is currently used by pirates as their secret stash location. Then I need to hack it and grab all the loot inside. This should give me the access codes to the gate network allowing me to leave this star system. I should report to Joe when I'm done with the hack.
 $q0015:             Joe explained to me how to use the access codes to travel through the gate network. Now I can finally leave this star system!
 $q0016:             I hacked the terminal successfully. Now I should report to Joe, so he can explain to me how to use the gate network.
 $q0009:             I've got the package. Now I need to take it back to One-Eyed Joe.
 $q0010:             I've got the package. Now I need to take it back to One-Eyed Joe.
 $q0011:             Scurvy is dead. I should search for a package in his wreck.
-$n0001:             Access codes to Jumpgates network received.
+$n0001:             Access codes to the Jumpgate network received.
 $n0002:             
 $n0003:             Inventory is full
 $n0004:             You cannot take the package because your inventory is full.

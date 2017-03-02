@@ -18,6 +18,8 @@ $p0017:             To be honest it is hard to explain. You should just try and 
 $p0018:             Just sell your ore! Ha-ha.
 $p0019:             Though, not all stations offer the same price for your ore. You might get significantly more money if you sell your ore in a place where there is a higher demand.
 $p0020:             On the other hand a lot of times it might not be worth the trouble to search for better prices, just drop your ore wherever and go mining for more!
+$p0021:             Well, you can produce many different components and intermediate products. But... I'm not qualified to advise on that.
+$p0022:             I'd suggest you find one of the Industrial Terminals and examine the guide that's offered there.
 $c0001:             What can you tell me about asteroid mining?
 $c0002:             Actually, nevermind. I have to go.
 $c0003:             What do I need to start mining?
@@ -25,4 +27,5 @@ $c0004:             How do I actually mine?
 $c0005:             How do I become proficient a miner?
 $c0006:             Are there any tricks?
 $c0007:             How do I make money from mining?
+$c0009:             What about crafting?
 $c0008:             That's all I needed to know.

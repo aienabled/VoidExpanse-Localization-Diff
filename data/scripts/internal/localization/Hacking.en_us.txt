@@ -2,16 +2,16 @@
 $n0002:       You need hacking level %0% or higher to attempt to hack this.
 $s0001:       VEOS 1.%0%.0 detected.
 $s0002:       System security level: %0%.
+$s0014:       Connection failed.
 $s0003:       System reset initiated...
 $s0004:       Connecting to the security system...
 $s0005:       Node difficulty: %0%%.
 $s0006:       Detected %0% kernel protected nodes.
 $s0007:       No kernel protected nodes detected.
+$s0015:       To hack the system you need to successively connect three nodes with vulnerable (yellow) links either in a row or a column.
 $s0008:       Node successfully infiltrated.
 $s0009:       Node infiltration failed.
 $s0010:       Kernel protection alert: security violation detected!
 $s0011:       System temporary locked.
 $s0012:       Weak link detected.
 $s0013:       Security compromised. Access granted.
-$s0014:       Connection failed.
-$s0015:       To hack the system you need to successively connect three nodes with vulnerable (yellow) links either in a row or a column.

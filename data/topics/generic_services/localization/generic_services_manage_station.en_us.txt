@@ -1,0 +1,58 @@
+﻿$p0001:             Sure thing! We always welcome assistance and financial support for our station.
+$p0002:             And given difficult times with the Xengatarn and pirates around we would never turn down such an offer.
+$p0003:             So, what can you do for us today? Any help would be greatly appreciated!
+$p0004:             Oh, well. You don't have to do that now. But if at any time you have some spare parts to aid our defenses you are always welcome.
+$p0005:             I certainly appreciate the gesture, but it looks like all of our turrets are still in place. So, there is no need for repairing.
+$p0006:             But perhaps you'd like to help us install new turrets instead?
+$p0007:             Uhh... all of our turrets have been destroyed. There isn't much left to repair, I'm afraid...
+$p0008:             But perhaps you'd like to help us install new turrets instead?
+$p0009:             Sure thing. We can alwayse use some help maintaining the defenses of our station.
+$p0010:             According to our current turret type and the number of still operational turrets...
+$p0011:             We will need the following components to undertake the repairs: %str% structural components, %mech% mechanical components, %elec% electronic components and %comp% composite components.
+$p0012:             Great! We will start repairs at once!
+$p0013:             We already have these turrets installed. But perhaps you want to install upgraded turrets instead?
+$p0014:             We already have these turrets installed. But perhaps you want to repair them instead? Some of the turrets were lost during the last battle, so we could certainly use some help with the repairs.
+$p0015:             I'm afraid I must decline. We already have better turrets installed currently.
+$p0016:             Sure thing. We can alwayse use some help improving the defenses of our station.
+$p0017:             We will need the following components to construct and deploy the new turrets: %str% structural components, %mech% mechanical components, %elec% electronic components and %comp% composite components.
+$p0018:             Great! We will start the upgrading process at once.
+$p0019:             Sure thing. We can alwayse use some help installing better defenses for the station.
+$p0020:             We will need the following components to construct and deploy the new turrets: %str% structural components, %mech% mechanical components, %elec% electronic components and %comp% composite components.
+$p0021:             We already have these turrets installed. But perhaps you want to install upgraded turrets instead?
+$p0022:             We already have these turrets installed. But perhaps you want to repair them instead? Some of the turrets were lost during the last battle, so we could certainly use some help with the repairs.
+$p0023:             I'm afraid I must decline. We already have better turrets installed currently.
+$p0024:             Great! We will start the upgrading process at once.
+$p0025:             Sure thing. We can alwayse use some help installing better defenses for the station.
+$p0026:             We will need the following components to construct and deploy the new turrets: %str% structural components, %mech% mechanical components, %elec% electronic components and %comp% composite components.
+$p0027:             We already have these turrets installed. And all of them are currently operational.
+$p0028:             We already have these turrets installed. But perhaps you want to repair them instead? Some of the turrets were lost during the last battle, so we could certainly use some help with the repairs.
+$p0029:             Great! We will start the upgrading process at once.
+$c0001:             Let's begin then!
+$c0002:             Maybe next time...
+$c0003:             I want to repair existing turrets.
+$c0004:             I want to install standard T1 turrets.
+$c0005:             I want to install improved T2 turrets.
+$c0006:             I want to install the best T3 turrets.
+$c0007:             Maybe next time...
+$c0008:             There's another thing...
+$c0009:             Alright, I'll be on my way then.
+$c0010:             Let's see then...
+$c0011:             Maybe next time...
+$c0012:             Let's see then...
+$c0013:             Maybe next time...
+$c0014:             I have all the necessary components. Here.
+$c0015:             That's a bit too expensive for me.
+$c0016:             Let's see then...
+$c0017:             Maybe next time...
+$c0018:             There's another thing...
+$c0019:             I have all the necessary components. Here.
+$c0020:             That's a bit too expensive for me.
+$c0021:             I have all the necessary components. Here.
+$c0022:             That's a bit too expensive for me.
+$c0023:             Let's see then...
+$c0024:             Maybe next time...
+$c0025:             There's another thing...
+$c0026:             I have all the necessary components. Here.
+$c0027:             That's a bit too expensive for me.
+$c0028:             Let's see then...
+$c0029:             Alright then.

@@ -2,14 +2,14 @@
 $p0002:             Suit yourself.
 $p0003:             Oh! Where did you get that? I didn't know there were any left here in the Far Colonies!
 $p0004:             Ah, yes. Please send my regards to Brother Luke if you see him again.
-$p0005:             What? One of these fanatics? You are braver than I thought dealing with these guys. But whatever, it's none of my concern.
-$p0006:             Well, as you may know, the Xengatarn are infesting planets, building their bases and factories. What you don't know is that not every planet suits their needs. And it looks like they need a lot of factors to match before they can infest a planet with their presence.
+$p0005:             What? One of those fanatics? You're braver than I thought dealing with those guys. But whatever, it's none of my concern.
+$p0006:             Well, as you may know, the Xengatarn are infesting planets, building their bases and factories. What you don't know is that not every planet suits their needs. And it looks like they have to match certain conditions before they can infest a planet with their presence.
 $p0007:             To understand them better, we need to carry out some research on these planets. And this is where you step in with this device.
-$p0008:             I need more statistics on the planets here in the Far Colonies. And with this device you can gather enough data that we will be able to better understand the Xengatarn and maybe even find some of their weaknesses we could exploit.
+$p0008:             I need more statistics on the planets here in the Far Colonies. And with this device you can gather enough data so that we will be able to better understand the Xengatarn and maybe even find some weakness that we could exploit.
 $p0009:             Basically you need to scan more planets. As many as you can.
 $p0010:             Great! Then come back when you have scan results for at least 25 planets. That includes the planets you've scanned before. This information should give us enough statistical data to devise a new possible strategy against the Xengatarn.
 $p0011:             Oh, you've scanned 25 planets? Great! That should give us enough statistical data to analyze and see if we can exploit it to our advantage against the Xengatarn!
-$p0012:             Now, unfortunately I can't pay you money, but you know what? I can add 250 science points to your account! It should be enough to get some top of the line boosters on any of our stations.
+$p0012:             Now, unfortunately I can't pay you money, but there is something I can do for you. I can add 250 science points to your account! It should be enough to get some top of the line boosters on any of our stations.
 $p0013:             You finished 25 planet scans? No? Well, we need more statistical data before we can draw any conclusions. So, please come back when you have enough.
 $c0001:             ( Show the device )
 $c0002:             Nah, I've changed my mind.

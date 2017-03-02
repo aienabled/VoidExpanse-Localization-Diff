@@ -1,6 +1,6 @@
 ﻿$p0001:             Sure, kid. Ask away!
 $p0002:             Not at all, kid!
-$p0003:             Why, I'm nothing... Just a shadow. But there was a time when I meant something, you know. Joseph Hawkes, Federation General, a hero. So proud of myself I was…
+$p0003:             Why, I'm nothing... Just a shadow. But there was a time when I meant something, you know. Joseph Hawkes, Federation General, a hero. So proud of myself I was...
 $p0004:             I was in command of the Northern Wing of the Suppression Force the Federation sent to fight the aliens, you know. We gathered all of our strength, all these... shiny new big ships and everything.
 $p0005:             That bastard Troyden sent us out there to be slaughtered. These... creatures... tore apart our ships. Nothing dangerous he said. Trustworthy intelligence, mindless xen life form, he said.
 $p0006:             Two of my sons were there, you know. Both died in the first five minutes of battle.

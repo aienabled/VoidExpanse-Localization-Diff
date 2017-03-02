@@ -66,7 +66,7 @@ $c0014:             What is it exactly you heard?
 $c0015:             But why are you so sure that it was Judd?
 $c0016:             Can I take a look at that recording?
 $c0017:             I want to hear it with my own ears, just to be sure.
-$c0018:             It's a fake. It was captured during some fight with pirates.
+$c0018:             It's a fake. It was captured during a fight with some pirates.
 $c0019:             I need to think about it.
 $c0020:             I need to think about it a little bit more.
 $c0021:             I won't turn you over. Here, take the recording.

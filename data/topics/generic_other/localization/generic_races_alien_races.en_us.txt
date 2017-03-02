@@ -1,4 +1,4 @@
 ﻿$p0001:             I can tell you a bit about the known alien races.
 $p0002:             Well, of course you've heard of the Xengatarn - a plague of the Far Colonies. There are also Nharmars - a technologically advanced race and our ally.
-$p0003:             And, of course, we cannot forget about the Ergreks. They are a long extinct race on whose technology humanity based their most precious invention – jumpgates.
+$p0003:             And, of course, we cannot forget about the Ergreks. They are a long extinct race on whose technology humanity based their most precious invention - jumpgates.
 $p0004:             There are also several so called \"minor races\".

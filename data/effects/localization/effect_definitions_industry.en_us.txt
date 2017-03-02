@@ -1,0 +1,2 @@
+﻿$manufacturing_title:                 Manufacturing
+$manufacturing_resources_title:       Manufacturing resources

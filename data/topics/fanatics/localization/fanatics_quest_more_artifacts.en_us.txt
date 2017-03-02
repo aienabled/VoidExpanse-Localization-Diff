@@ -5,7 +5,7 @@ $p0004:             But don't worry about that. I know what the Xengatarn truly 
 $p0005:             Yes, that is the correct answer. I'm glad to see that this Fanatics madness didn't infect you.
 $p0006:             My followers blindly believe that the Xengatarn are higher beings. But they're gravely mistaken. They have no idea what the Xengatarn truly are.
 $p0007:             They're an aggressive, mindless lifeform dedicated to destroying the human race. Currently, they have no other purpose except that.
-$p0008:             My followers are delusional. I just keep their delusions at bay. I need their help in my pursuits, so I use my knowledge of Xengatarn and Ergrek technologies to… persuade them.
+$p0008:             My followers are delusional. I just keep their delusions at bay. I need their help in my pursuits, so I use my knowledge of Xengatarn and Ergrek technologies to... persuade them.
 $p0009:             I know that the Xengatarn are a much bigger threat than they appear.
 $p0010:             Let me start from the beginning so you can understand my theory and my motives.
 $p0011:             When the Xengatarn invasion started, some of the people started to become crazy, even violent towards each other and their friends. But doctors couldn't find what was wrong with them. So they just sent them away.
